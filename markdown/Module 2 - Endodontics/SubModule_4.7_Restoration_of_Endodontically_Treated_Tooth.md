@@ -101,6 +101,7 @@ Direct foundation restorations (a prefabricated post cemented in the canal with 
 ## Source Textbooks (available in vault)
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
+- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
 - [Guidebook to Molar Endodontics](../../textbooks/Endodontics/The_Guidebook_to_Molar_Endodontics_Chapterwise/00_INDEX.md)
 - [Endodontic Prognosis: Clinical Guide](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/00_INDEX.md)
 - [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)

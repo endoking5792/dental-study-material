@@ -16,7 +16,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 
 - [M3 3.1 Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md)
 
-## Textbook chapters (24)
+## Textbook chapters (25)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -44,6 +44,10 @@ Chapters in the textbook folders whose titles match this topic.
 **Endodontology**
 
 - [1 Histology of the Pulp](../../textbooks/Endodontics/Endodontology_Chapterwise/01_1_Histology_of_the_Pulp.md)
+
+**Ingles Endodontics 7th**
+
+- [Chapter 2: Structure and Function of the Pulp–Dentin Complex](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/02_Chapter_2_Structure_and_Function_of_the_Pulp_Dentin_Complex.md)
 
 **Introduction to Dental Materials 4th Edition**
 

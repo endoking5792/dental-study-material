@@ -11,7 +11,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 
 - [M2 6.7 Non Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md)
 
-## Textbook chapters (11)
+## Textbook chapters (12)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -38,6 +38,10 @@ Chapters in the textbook folders whose titles match this topic.
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Chapter 23: Bleaching of Discolored Teeth](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/23_Chapter_23_Bleaching_of_Discolored_Teeth.md)
+
+**Ingles Endodontics 7th**
+
+- [Chapter 40: Tooth Discoloration and Bleaching of Non-Vital Teeth](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/40_Chapter_40_Tooth_Discoloration_and_Bleaching_of_Non_Vital_Te.md)
 
 **Principles and practice of endodontic 2002 compressed**
 

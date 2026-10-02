@@ -17,7 +17,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 
 - [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md)
 
-## Textbook chapters (12)
+## Textbook chapters (14)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -36,6 +36,11 @@ Chapters in the textbook folders whose titles match this topic.
 **Endodontology**
 
 - [22 Fracture of Endodontic Instruments: Torque and Fatigue](../../textbooks/Endodontics/Endodontology_Chapterwise/22_22_Fracture_of_Endodontic_Instruments_Torque_and_Fatigue.md)
+
+**Ingles Endodontics 7th**
+
+- [Chapter 13: Crown-Originating Dental Fractures](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/13_Chapter_13_Crown_Originating_Dental_Fractures.md)
+- [Chapter 14: Vertical Root Fractures](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/14_Chapter_14_Vertical_Root_Fractures.md)
 
 **Modern Operative Dentistry**
 

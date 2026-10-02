@@ -78,3 +78,4 @@ Tooth survival after periapical surgery has been assessed in only one dedicated 
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
 - [Gulabivala & Ng — Endodontics (4e)](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/00_INDEX.md)
+- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)

@@ -60,5 +60,5 @@ For a tooth already undergoing ankylosis-driven replacement resorption (Sub-Modu
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Weine — Endodontic Therapy (6e)](../../textbooks/Endodontics/Endodontic_Therapy_Franklin_S_Weine_6th_Ed_Mosby_2004_Chapterwise/00_INDEX.md)
+- [Weine — Endodontic Therapy (6e, full)](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/00_INDEX.md)
 - [Andreasen — Textbook and Color Atlas of Traumatic Injuries](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/00_INDEX.md)

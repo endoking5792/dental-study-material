@@ -17,7 +17,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md)
 - [M3 5.1 Biocompatibility Assessment](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.1_Biocompatibility_Assessment.md)
 
-## Textbook chapters (16)
+## Textbook chapters (17)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -33,6 +33,10 @@ Chapters in the textbook folders whose titles match this topic.
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Chapter 11: Vital Pulp Therapy and Apexification](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/11_Chapter_11_Vital_Pulp_Therapy_and_Apexification.md)
+
+**Ingles Endodontics 7th**
+
+- [Chapter 27: Vital Pulp Therapy](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/27_Chapter_27_Vital_Pulp_Therapy.md)
 
 **Introduction to Dental Materials 4th Edition**
 

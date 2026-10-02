@@ -51,6 +51,7 @@
 - [Grossman s Endodontic Practice 14th ed 1](Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/00_INDEX.md)
 - [Guidelines for Surgical Endodontics](Endodontics/Guidelines_for_Surgical_Endodontics_Chapterwise/00_INDEX.md)
 - [Harty s Endodontics in Clinical Practice 7th ed](Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)
+- [Ingles Endodontics 7th](Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
 - [Oral Microbiology and Immunology](Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/00_INDEX.md)
 - [Principles and practice of endodontic 2002 compressed](Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/00_INDEX.md)
 - [Problem Solving in Endodontics James L Gutmann](Endodontics/Problem_Solving_in_Endodontics_James_L_Gutmann_Chapterwise/00_INDEX.md)
@@ -63,4 +64,5 @@
 - [Treatment of Endodontic Infections](Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/00_INDEX.md)
 - [Vimal K Sikri Essentials of Endodontics 2nd Ed](Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/00_INDEX.md)
 - [Vital Pulp Treatment](Endodontics/Vital_Pulp_Treatment_Chapterwise/00_INDEX.md)
+- [Weines Endodontics Full](Endodontics/Weines_Endodontics_Full_Chapterwise/00_INDEX.md)
 

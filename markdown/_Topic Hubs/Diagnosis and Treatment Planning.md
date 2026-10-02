@@ -14,7 +14,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M2 3.5 Medically Complex Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md)
 - [M2 3.2 Radiographic Examination](../Module%202%20-%20Endodontics/SubModule_3.2_Radiographic_Examination.md)
 
-## Textbook chapters (42)
+## Textbook chapters (46)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -70,6 +70,12 @@ Chapters in the textbook folders whose titles match this topic.
 **Indirect Restorations Sikri**
 
 - [2. Treatment Planning](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/11_2_Treatment_Planning.md)
+
+**Ingles Endodontics 7th**
+
+- [Chapter 8: Examination and Diagnosis of Pulp, Root Canal, and Periapical/Periradicular Conditions](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/08_Chapter_8_Examination_and_Diagnosis_of_Pulp_Root_Canal_and_P.md)
+- [Chapter 11: Treatment Planning and Case Selection](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/11_Chapter_11_Treatment_Planning_and_Case_Selection.md)
+- [Chapter 39: Interrelationships of Endodontics and Orthodontics in Treatment Planning and Patient Tre](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/39_Chapter_39_Interrelationships_of_Endodontics_and_Orthodontic.md)
 
 **Modern Operative Dentistry**
 
@@ -140,4 +146,8 @@ Chapters in the textbook folders whose titles match this topic.
 
 - [9. Diagnosis and Diagnostic Aids](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/09_9_Diagnosis_and_Diagnostic_Aids.md)
 - [10. Endodontic Case Selection: Treatment Planning](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/10_10_Endodontic_Case_Selection_Treatment_Planning.md)
+
+**Weines Endodontics Full**
+
+- [CHAPTER 2 Diagnosis and Treatment Planning](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/02_CHAPTER_2_Diagnosis_and_Treatment_Planning.md)
 

@@ -106,6 +106,7 @@ C-shaped canals present a genuinely distinct anatomic challenge — most often e
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
 - [Grossman's Endodontic Practice (14e)](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/00_INDEX.md)
+- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
 - [Guidebook to Molar Endodontics](../../textbooks/Endodontics/The_Guidebook_to_Molar_Endodontics_Chapterwise/00_INDEX.md)
-- [Weine — Endodontic Therapy (6e)](../../textbooks/Endodontics/Endodontic_Therapy_Franklin_S_Weine_6th_Ed_Mosby_2004_Chapterwise/00_INDEX.md)
+- [Weine — Endodontic Therapy (6e, full)](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/00_INDEX.md)
 - [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)

@@ -45,3 +45,8 @@ Restoration of the intracoronally bleached tooth carries its own endodontic-spec
 - [M1 5.1.6 Shade Matching and Color Science](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.6_Shade_Matching_and_Color_Science.md) *(other module)*
 - [M1 6.2 Restoration of Esthetic Zone](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone.md) *(other module)*
 - [M1 6.5 Natural Tooth Bleaching](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.5_Natural_Tooth_Bleaching.md) *(other module)*
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)

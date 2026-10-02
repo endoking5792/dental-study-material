@@ -130,6 +130,7 @@ Obturation quality is judged by the same criteria established in 4.5.1 — adequ
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
 - [Current Therapy in Endodontics](../../textbooks/Endodontics/Current_Therapy_in_Endodontics_Chapterwise/00_INDEX.md)
+- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
 - [Endodontic Prognosis: Clinical Guide](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/00_INDEX.md)
 - [Gulabivala & Ng — Endodontics (4e)](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/00_INDEX.md)
 - [Guidebook to Molar Endodontics](../../textbooks/Endodontics/The_Guidebook_to_Molar_Endodontics_Chapterwise/00_INDEX.md)

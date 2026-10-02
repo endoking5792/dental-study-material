@@ -12,7 +12,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M2 3.5 Medically Complex Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md)
 - [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
 
-## Textbook chapters (19)
+## Textbook chapters (22)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -40,6 +40,12 @@ Chapters in the textbook folders whose titles match this topic.
 **Endodontology**
 
 - [7 Local Anesthesia](../../textbooks/Endodontics/Endodontology_Chapterwise/07_7_Local_Anesthesia.md)
+
+**Ingles Endodontics 7th**
+
+- [Chapter 7: Dental Innervations and Pain of Pulpal Origin](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/07_Chapter_7_Dental_Innervations_and_Pain_of_Pulpal_Origin.md)
+- [Chapter 17: Non-Odontogenic Toothache and Chronic Head and Neck Pain](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/17_Chapter_17_Non_Odontogenic_Toothache_and_Chronic_Head_and_Ne.md)
+- [Chapter 18: Management of Pain, Fear, and Anxiety in the Endodontic Patient](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/18_Chapter_18_Management_of_Pain_Fear_and_Anxiety_in_the_Endodo.md)
 
 **Principles and practice of endodontic 2002 compressed**
 

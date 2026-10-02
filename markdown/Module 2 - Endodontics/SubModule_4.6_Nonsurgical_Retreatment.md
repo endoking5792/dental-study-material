@@ -133,7 +133,7 @@ Repairing any perforation involves two distinct challenges, both best managed un
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
 - [Guidebook to Molar Endodontics](../../textbooks/Endodontics/The_Guidebook_to_Molar_Endodontics_Chapterwise/00_INDEX.md)
-- [Weine — Endodontic Therapy (6e)](../../textbooks/Endodontics/Endodontic_Therapy_Franklin_S_Weine_6th_Ed_Mosby_2004_Chapterwise/00_INDEX.md)
+- [Weine — Endodontic Therapy (6e, full)](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/00_INDEX.md)
 - [Gulabivala & Ng — Endodontics (4e)](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/00_INDEX.md)
 - [Endodontic Prognosis: Clinical Guide](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/00_INDEX.md)
 - [Current Therapy in Endodontics](../../textbooks/Endodontics/Current_Therapy_in_Endodontics_Chapterwise/00_INDEX.md)

@@ -17,7 +17,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 
 - [M3 4.1 Cement Types and Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md)
 
-## Textbook chapters (14)
+## Textbook chapters (17)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -57,6 +57,11 @@ Chapters in the textbook folders whose titles match this topic.
 
 - [6. Post and Core Restorations](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/15_6_Post_and_Core_Restorations.md)
 
+**Ingles Endodontics 7th**
+
+- [Chapter 25: Intentional Replantation of Endodontically Treated Teeth](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/25_Chapter_25_Intentional_Replantation_of_Endodontically_Treate.md)
+- [Chapter 35: Contemporary Restoration of Endodontically Treated Teeth](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/35_Chapter_35_Contemporary_Restoration_of_Endodontically_Treate.md)
+
 **Problem Solving in Endodontics James L Gutmann**
 
 - [Chapter 20  Problem Solving the Challenges Faced in the Restoration of Endodontically Treated Teeth](../../textbooks/Endodontics/Problem_Solving_in_Endodontics_James_L_Gutmann_Chapterwise/20_Chapter_20_Problem_Solving_the_Challenges_Faced_in_the_Resto.md)
@@ -64,4 +69,8 @@ Chapters in the textbook folders whose titles match this topic.
 **Summitts Fundamentals of Operative Dentistry**
 
 - [21. Restoration of Endodontically Treated Teeth](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/21_21_Restoration_of_Endodontically_Treated_Teeth.md)
+
+**Weines Endodontics Full**
+
+- [CHAPTER 15 Restoration of the Endodontically Treated Tooth](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/15_CHAPTER_15_Restoration_of_the_Endodontically_Treated_Tooth.md)
 

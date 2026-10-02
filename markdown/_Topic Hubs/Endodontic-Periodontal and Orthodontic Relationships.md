@@ -9,7 +9,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M2 2.2 Periapical Diseases and Apical Pathology](../Module%202%20-%20Endodontics/SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
 - [M2 5.5 Other Surgical Procedures](../Module%202%20-%20Endodontics/SubModule_5.5_Other_Surgical_Procedures.md)
 
-## Textbook chapters (29)
+## Textbook chapters (33)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -49,6 +49,11 @@ Chapters in the textbook folders whose titles match this topic.
 **Harty s Endodontics in Clinical Practice 7th ed**
 
 - [13 Marginal Periodontitis and the Dental Pulp](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md)
+
+**Ingles Endodontics 7th**
+
+- [Chapter 36: Endodontic–Periodontal Interrelationships](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/36_Chapter_36_Endodontic_Periodontal_Interrelationships.md)
+- [Chapter 39: Interrelationships of Endodontics and Orthodontics in Treatment Planning and Patient Tre](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/39_Chapter_39_Interrelationships_of_Endodontics_and_Orthodontic.md)
 
 **Marzouk Operative Dentistry**
 
@@ -101,4 +106,9 @@ Chapters in the textbook folders whose titles match this topic.
 
 - [34. Endodontic–Periodontal Relationship](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/34_34_Endodontic_Periodontal_Relationship.md)
 - [35. Endodontic–Orthodontic Continuum](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/35_35_Endodontic_Orthodontic_Continuum.md)
+
+**Weines Endodontics Full**
+
+- [CHAPTER 11 Endodontic-Periodontal Problems](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/11_CHAPTER_11_Endodontic_Periodontal_Problems.md)
+- [CHAPTER 12 Endodontic-Orthodontic Relationships](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/12_CHAPTER_12_Endodontic_Orthodontic_Relationships.md)
 

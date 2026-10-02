@@ -14,7 +14,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M2 8.3 Nonsurgical Retreatment Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
 - [M2 6.2 Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md)
 
-## Textbook chapters (11)
+## Textbook chapters (12)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -49,4 +49,8 @@ Chapters in the textbook folders whose titles match this topic.
 
 - [Chapter 11 - Pin- and post-retained non-cast restorations and foundations](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/11_Chapter_11_Pin_and_post_retained_non_cast_restorations_and_f.md)
 - [Chapter 25 - Casting pre-cementation, cementation, and post-cementation adjustments](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/25_Chapter_25_Casting_pre_cementation_cementation_and_post_ceme.md)
+
+**Weines Endodontics Full**
+
+- [CHAPTER 8 Solid-Core Canal Filling Materials: Theory, Technique, and Re-Treatment](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/08_CHAPTER_8_Solid_Core_Canal_Filling_Materials_Theory_Techniqu.md)
 

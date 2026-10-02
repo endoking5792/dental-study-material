@@ -13,7 +13,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md)
 - [M3 6.1 Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md)
 
-## Textbook chapters (25)
+## Textbook chapters (27)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -24,6 +24,11 @@ Chapters in the textbook folders whose titles match this topic.
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Chapter 8: Selection of Cases for Treatment](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/08_Chapter_8_Selection_of_Cases_for_Treatment.md)
+
+**Ingles Endodontics 7th**
+
+- [Chapter 11: Treatment Planning and Case Selection](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/11_Chapter_11_Treatment_Planning_and_Case_Selection.md)
+- [Chapter 26: Endodontic Therapy in Teeth with Anatomical Variations](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/26_Chapter_26_Endodontic_Therapy_in_Teeth_with_Anatomical_Varia.md)
 
 **Introduction to Dental Materials 4th Edition**
 

@@ -10,7 +10,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M2 8.1 Outcome Assessment Success Rates](../Module%202%20-%20Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates.md)
 - [M2 4.5 Obturation of Root Canals](../Module%202%20-%20Endodontics/SubModule_4.5_Obturation_of_Root_Canals.md)
 
-## Textbook chapters (10)
+## Textbook chapters (11)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -34,6 +34,10 @@ Chapters in the textbook folders whose titles match this topic.
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Chapter 21: Nonsurgical Endodontic Retreatment](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/21_Chapter_21_Nonsurgical_Endodontic_Retreatment.md)
+
+**Ingles Endodontics 7th**
+
+- [Chapter 23: Endodontic Orthograde Retreatment and Management of Mishaps](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/23_Chapter_23_Endodontic_Orthograde_Retreatment_and_Management_.md)
 
 **Principles and practice of endodontic 2002 compressed**
 
