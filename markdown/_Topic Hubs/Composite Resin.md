@@ -31,9 +31,13 @@
 - [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) — 30 mentions
 - [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) — 27 mentions
 
-## Textbook chapters (13 chapters across 8 books)
+## Textbook chapters (24 chapters across 15 books)
 
 ### Endodontics
+
+**Endodontology**
+
+- [Adhesive-retained, Fiber-reinforced Composite Posts](../../textbooks/Endodontics/Endodontology_Chapterwise/37_37_Adhesive_retained_Fiber_reinforced_Composite_Posts.md) (PDF pp.281-288)
 
 **Textbook and Color Atlas of Traumatic**
 
@@ -51,6 +55,12 @@
 - [Cavity and tooth preparations for direct tooth-colored materials](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/09_Chapter_9_Cavity_and_tooth_preparations_for_direct_tooth_col.md) (PDF pp.180-198)
 - [Principles for fabricating direct tooth-colored restorations](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/10_Chapter_10_Principles_for_fabricating_direct_tooth_colored_r.md) (PDF pp.199-204)
 
+**Modern Operative Dentistry**
+
+- [Light-Curing Units](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/18_13_Light_Curing_Units.md) (PDF pp.442-471)
+- [Composite Restoration on Anterior Teeth](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/19_14_Composite_Restoration_on_Anterior_Teeth.md) (PDF pp.472-582)
+- [Composite Restoration on Posterior Teeth](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/20_15_Composite_Restoration_on_Posterior_Teeth.md) (PDF pp.583-636)
+
 **Preservation and Restoration of Tooth Structure Graham J Mount**
 
 - [Resin‐Based Composite Restorative Materials](../../textbooks/Conservative%20Dentistry/Preservation_and_Restoration_of_Tooth_Structure_Graham_J_Mount_Chapterwise/10_10_Resin_Based_Composite_Restorative_Materials.md) (PDF pp.185-196)
@@ -62,11 +72,33 @@
 - [Class I, II, and VI Direct Composite and Other Tooth-Colored Restorations](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/13%20-%20Class%20I%2C%20II%2C%20and%20VI%20Direct%20Composite%20and%20Other%20Tooth-Colored%20Restorations.md)
 - [Class I and II Indirect Tooth-Colored Restorations](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/14%20-%20Class%20I%20and%20II%20Indirect%20Tooth-Colored%20Restorations.md)
 
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Composite Restorations](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/27_19_Composite_Restorations.md) (PDF pp.369-405)
+
 ### Dental Materials
+
+**A Clinical Guide to Applied Dental Materials**
+
+- [The Tooth-Coloured Restorative Materials I Resin Composites](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/Chapter_07_The_Tooth_Coloured_Restorative_Materials_I_Resin_Composites.md)
+
+**Craig Restorative Dental Materials 14e**
+
+- [Restorative Materials: Resin Composites and Polymers](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/Chapter_09.md)
 
 **Introduction to Dental Materials 4th Edition**
 
 - [2 Resin composites and polyacid-modified resin composites](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/2_2_resin_composites_and_polyacid_modified_resin_composites.md)
+
+**McCabe Applied Dental Materials**
+
+- [Resin-based Filling Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/23_Chapter_22_Resin_based_Filling_Materials.md) (PDF pp.204-233)
+- [Adhesive Restorative Materials: Bonding of Resin-based Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/24_Chapter_23_Adhesive_Restorative_Materials_Bonding_of_Resin_based_Mater.md) (PDF pp.234-253)
+
+**Michigan Restorative Dental Materials**
+
+- [ch 7 : polymers and polymerization](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/10_ch_7_polymers_and_polymerization.md) (PDF pp.194-207)
+- [ch 9 : composite restorative materials](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/12_ch_9_composite_restorative_materials.md) (PDF pp.240-267)
 
 **Philips Science of Dental Materials 12e**
 
@@ -81,7 +113,9 @@
 Books with chapters on this topic that the notes above do not cite:
 
 - Advances in Operative Dentistry — The "Composite-up" Technique: A Simple Approach to
+- Textbook of Conservative and Restorative Dentistry — Composite Restorations
 - Science of Dental Materials — Composite Restorative Resins
+- Endodontology — Adhesive-retained, Fiber-reinforced Composite Post
 - Textbook and Color Atlas of Traumatic — Restoration of Traumatized Teeth with Resin Compos
 
 ## See also

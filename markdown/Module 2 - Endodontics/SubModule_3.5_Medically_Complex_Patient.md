@@ -92,6 +92,6 @@ The laboratory values most directly relevant to safe endodontic treatment planni
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
+- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
 - [Seltzer & Bender's Dental Pulp](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/00_INDEX.md)
 - [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)

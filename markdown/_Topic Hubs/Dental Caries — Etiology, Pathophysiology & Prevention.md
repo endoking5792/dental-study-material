@@ -22,7 +22,7 @@
 - [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) — 28 mentions
 - [M1 · 2.3: Cavity Classification & Design by Type](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.3_Cavity_Classification_and_Design.md) — 25 mentions
 
-## Textbook chapters (12 chapters across 7 books)
+## Textbook chapters (16 chapters across 10 books)
 
 ### Endodontics
 
@@ -34,6 +34,11 @@
 
 - [## Microbiology of Dental Caries and Dentinal](../../textbooks/Endodontics/Endodontic_Microbiology_2nd_ed_Chapterwise/03_Chapter_3_Microbiology_of_Dental_Caries_and_Dentinal.md) (PDF pp.36-60)
 
+**Oral Microbiology and Immunology**
+
+- [Dental Caries: Etiology and Pathogenesis](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/11_11_Dental_Caries_Etiology_and_Pathogenesis.md) (PDF pp.280-295)
+- [Pathogenic Mechanisms in Dental Caries](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/12_12_Pathogenic_Mechanisms_in_Dental_Caries.md) (PDF pp.296-315)
+
 **Seltzer and Bender Dental Pulp**
 
 - [Pulpal Infections, Including Caries](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_10_Pulpal_Infections_Including_Caries.md)
@@ -44,6 +49,10 @@
 **Advanced Operative Dentistry**
 
 - [Management of dental caries](../../textbooks/Conservative%20Dentistry/Advanced_Operative_Dentistry_Chapterwise/05_Chapter_1_Management_of_dental_caries.md) (PDF pp.9-23)
+
+**Modern Operative Dentistry**
+
+- [Cariology](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/08_3_Cariology.md) (PDF pp.91-135)
 
 **Preservation and Restoration of Tooth Structure Graham J Mount**
 
@@ -61,12 +70,19 @@
 - [Diagnosis and Treatment of Root Caries](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/13_13_Diagnosis_and_Treatment_of_Root_Caries.md) (PDF pp.729-751)
 - [Fluoride-Releasing Materials](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/14_14_Fluoride_Releasing_Materials.md) (PDF pp.752-785)
 
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Dental Caries](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/11_3_Dental_Caries.md) (PDF pp.48-79)
+
 ## Not used by my notes on this topic
 
 Books with chapters on this topic that the notes above do not cite:
 
+- Modern Operative Dentistry — Cariology
+- Textbook of Conservative and Restorative Dentistry — Dental Caries
 - Cohen s Pathways of the Pulp 12th edi Louis H Berman — Pulp reactions to caries and dental procedures
 - Endodontic Microbiology 2nd ed — ## Microbiology of Dental Caries and Dentinal
+- Oral Microbiology and Immunology — Dental Caries: Etiology and Pathogenesis, Pathogenic Mechanisms in Dental Caries
 - Seltzer and Bender Dental Pulp — Pulpal Infections, Including Caries, Caries, Restorative Dentistry, and the Pulp
 
 ## See also

@@ -25,7 +25,7 @@
 - [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) — 29 mentions
 - [M3 · 2.1: Metals & Alloys](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.1_Metals_and_Alloys.md) — 23 mentions
 
-## Textbook chapters (16 chapters across 8 books)
+## Textbook chapters (23 chapters across 13 books)
 
 ### Conservative Dentistry
 
@@ -36,6 +36,12 @@
 - [Class II cavity preparation for amalgam](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/06_Chapter_6_Class_II_cavity_preparation_for_amalgam.md) (PDF pp.136-158)
 - [Class III, IV and V cavity preparations for amalgam](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/07_Chapter_7_Class_III_IV_and_V_cavity_preparations_for_amalgam.md) (PDF pp.159-169)
 - [Direct gold restorations](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/26_Chapter_26_Direct_gold_restorations.md) (PDF pp.390-411)
+
+**Modern Operative Dentistry**
+
+- [Tooth Preparations for Amalgam Restorations](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/15_10_Tooth_Preparations_for_Amalgam_Restorations.md) (PDF pp.345-381)
+- [Amalgam Restorations](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/16_11_Amalgam_Restorations.md) (PDF pp.382-418)
+- [Extensive Amalgam Restorations](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/17_12_Extensive_Amalgam_Restorations.md) (PDF pp.419-441)
 
 **Preservation and Restoration of Tooth Structure Graham J Mount**
 
@@ -53,7 +59,15 @@
 
 - [Amalgam Restorations](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/12_12_Amalgam_Restorations.md) (PDF pp.649-728)
 
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Silver Amalgam](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/22_14_Silver_Amalgam.md) (PDF pp.264-285)
+
 ### Dental Materials
+
+**A Clinical Guide to Applied Dental Materials**
+
+- [Dental Amalgam](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/Chapter_06_Dental_Amalgam.md)
 
 **Dental Materials Properties and Manipulation 10e**
 
@@ -62,6 +76,14 @@
 **Introduction to Dental Materials 4th Edition**
 
 - [1 Dental amalgams](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/2_1_dental_amalgams.md)
+
+**McCabe Applied Dental Materials**
+
+- [Dental Amalgam](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/22_Chapter_21_Dental_Amalgam.md) (PDF pp.190-203)
+
+**Michigan Restorative Dental Materials**
+
+- [ch 11: amalgam](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/14_ch_11_amalgam.md) (PDF pp.296-337)
 
 **Philips Science of Dental Materials 12e**
 
@@ -75,6 +97,8 @@
 
 Books with chapters on this topic that the notes above do not cite:
 
+- Modern Operative Dentistry — Tooth Preparations for Amalgam Restorations, Amalgam Restorations
+- Textbook of Conservative and Restorative Dentistry — Silver Amalgam
 - Science of Dental Materials — Silver Amalgam
 
 ## See also

@@ -25,7 +25,7 @@
 - [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](../Module%202%20-%20Endodontics/SubModule_6.8_Endodontics_in_Primary_Teeth.md) — 12 mentions
 - [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) — 15 mentions
 
-## Textbook chapters (15 chapters across 6 books)
+## Textbook chapters (20 chapters across 9 books)
 
 ### Conservative Dentistry
 
@@ -42,11 +42,19 @@
 
 - [Tooth Whitening and Management of Discolored Endodontically Treated Teeth](../../textbooks/Conservative%20Dentistry/Contemporary_Restoration_of_Endodontically_Treated_Teeth_Chapterwise/06_6_Tooth_Whitening_and_Management_of_Discolored_Endodonticall.md) (PDF pp.201-232)
 
+**Indirect Restorations Sikri**
+
+- [Shade Matching](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/16_7_Shade_Matching.md) (PDF pp.334-378)
+
 **Marzouk Operative Dentistry**
 
 - [Direct tooth-colored restorations](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/08_Chapter_8_Direct_tooth_colored_restorations.md) (PDF pp.170-179)
 - [Cavity and tooth preparations for direct tooth-colored materials](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/09_Chapter_9_Cavity_and_tooth_preparations_for_direct_tooth_col.md) (PDF pp.180-198)
 - [Principles for fabricating direct tooth-colored restorations](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/10_Chapter_10_Principles_for_fabricating_direct_tooth_colored_r.md) (PDF pp.199-204)
+
+**Modern Operative Dentistry**
+
+- [Aesthetic Veneers: What Are They and How to Handle Them?](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/22_17_Aesthetic_Veneers_What_Are_They_and_How_to_Handle_Them.md) (PDF pp.673-696)
 
 **Sturdevants Art Science Operative Dentistry 5e**
 
@@ -62,12 +70,19 @@
 - [Direct Posterior Esthetic Restorations](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/11_11_Direct_Posterior_Esthetic_Restorations.md) (PDF pp.564-648)
 - [Esthetic Inlays and Onlays](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/19_19_Esthetic_Inlays_and_Onlays.md) (PDF pp.983-1029)
 
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Color Perception](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/32_24_Color_Perception.md) (PDF pp.488-502)
+- [Esthetics and Smile Designing](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/33_25_Esthetics_and_Smile_Designing.md) (PDF pp.503-515)
+- [Tooth Discoloration and Bleaching](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/40_32_Tooth_Discoloration_and_Bleaching.md) (PDF pp.608-627)
+
 ## Not used by my notes on this topic
 
 Books with chapters on this topic that the notes above do not cite:
 
 - Advances in Operative Dentistry — Esthetic Anterior Restorations, Esthetic Posterior Indirect Restorations
 - Contemporary Restoration of Endodontically Treated Teeth — Tooth Whitening and Management of Discolored Endod
+- Textbook of Conservative and Restorative Dentistry — Color Perception, Esthetics and Smile Designing
 
 ## See also
 

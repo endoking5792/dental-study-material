@@ -14,13 +14,17 @@
 
 - [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) — 19 mentions
 
-## Textbook chapters (2 chapters across 2 books)
+## Textbook chapters (3 chapters across 3 books)
 
 ### Endodontics
 
 **Cohen s Pathways of the Pulp 12th edi Louis H Berman**
 
 - [Chronic cracks and fractures](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/22_22_Chronic_cracks_and_fractures.md) (PDF pp.2673-2733)
+
+**Ingles Endodontics 7th**
+
+- [Crown-Originating Dental Fractures](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/13_Chapter_13_Crown_Originating_Dental_Fractures.md) (PDF pp.349-359)
 
 **The Guidebook to Molar Endodontics**
 

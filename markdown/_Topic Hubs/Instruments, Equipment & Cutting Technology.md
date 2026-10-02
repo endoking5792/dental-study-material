@@ -21,7 +21,7 @@
 - [M2 · 4.1: Access Cavity Preparation](../Module%202%20-%20Endodontics/SubModule_4.1_Access_Cavity_Preparation.md) — 29 mentions
 - [M2 · 4.2: Working Length Determination](../Module%202%20-%20Endodontics/SubModule_4.2_Working_Length_Determination.md) — 16 mentions
 
-## Textbook chapters (5 chapters across 5 books)
+## Textbook chapters (7 chapters across 7 books)
 
 ### Conservative Dentistry
 
@@ -32,6 +32,10 @@
 **Marzouk Operative Dentistry**
 
 - [Operative dentistry armamentarium](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/02_Chapter_2_Operative_dentistry_armamentarium.md) (PDF pp.61-85)
+
+**Modern Operative Dentistry**
+
+- [Instruments and Equipments](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/09_4_Instruments_and_Equipments.md) (PDF pp.136-178)
 
 **Preservation and Restoration of Tooth Structure Graham J Mount**
 
@@ -45,9 +49,15 @@
 
 - [Nomenclature and Instrumentation](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/07_7_Nomenclature_and_Instrumentation.md) (PDF pp.326-378)
 
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Instruments, Instrumentation and Operating Positions](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/16_8_Instruments_Instrumentation_and_Operating_Positions.md) (PDF pp.156-181)
+
 ## Not used by my notes on this topic
 
 Books with chapters on this topic that the notes above do not cite:
 
 - Contemporary Restoration of Endodontically Treated Teeth — Removal of Broken Instruments from the Root Canal 
+- Modern Operative Dentistry — Instruments and Equipments
 - Preservation and Restoration of Tooth Structure Graham J Mount — Instruments Used in Cavity Preparation
+- Textbook of Conservative and Restorative Dentistry — Instruments, Instrumentation and Operating Positio

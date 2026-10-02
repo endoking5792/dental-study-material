@@ -90,5 +90,5 @@ Healing after root canal treatment presents the same fundamental limitation in r
 ## Source Textbooks (available in vault)
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
-- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
-- [[Endodontic Radiology|Endodontic Radiology (2e)]]
+- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [Endodontic Radiology (2e)](../../textbooks/Endodontics/Endodontic_Radiology_2nd_ed_Chapterwise/00_INDEX.md)

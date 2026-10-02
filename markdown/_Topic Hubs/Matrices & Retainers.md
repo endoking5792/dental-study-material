@@ -20,7 +20,7 @@
 - [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) — 39 mentions
 - [M1 · 5.4: Occlusion & Indirect Restoration Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.4_Occlusion_and_Indirect_Restoration_Planning.md) — 33 mentions
 
-## Textbook chapters (1 chapters across 1 books)
+## Textbook chapters (4 chapters across 3 books)
 
 ### Conservative Dentistry
 
@@ -28,6 +28,17 @@
 
 - [Contacts and contours](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/12_Chapter_12_Contacts_and_contours.md) (PDF pp.237-257)
 
+**Modern Operative Dentistry**
+
+- [Matrix and Wedge Systems](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/13_8_Matrix_and_Wedge_Systems.md) (PDF pp.272-299)
+
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Contacts, Contours and Periodontium](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/13_5_Contacts_Contours_and_Periodontium.md) (PDF pp.100-112)
+- [Matrices, Retainers and Wedges](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/18_10_Matrices_Retainers_and_Wedges.md) (PDF pp.202-214)
+
 ## Not used by my notes on this topic
 
-*Every book with a chapter on this topic is already cited by the notes above.*
+Books with chapters on this topic that the notes above do not cite:
+
+- Textbook of Conservative and Restorative Dentistry — Contacts, Contours and Periodontium, Matrices, Retainers and Wedges

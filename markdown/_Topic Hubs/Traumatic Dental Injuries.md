@@ -19,13 +19,29 @@
 - [M2 · 6.9: Endodontic-Orthodontic Relationships](../Module%202%20-%20Endodontics/SubModule_6.9_Endodontic_Orthodontic_Relationships.md) — 12 mentions
 - [M2 · 6.3: Internal Resorption](../Module%202%20-%20Endodontics/SubModule_6.3_Internal_Resorption.md) — 12 mentions
 
-## Textbook chapters (23 chapters across 5 books)
+## Textbook chapters (30 chapters across 12 books)
 
 ### Endodontics
 
 **Cohen s Pathways of the Pulp 12th edi Louis H Berman**
 
 - [The role of endodontics after dental traumatic injuries](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/21_21_The_role_of_endodontics_after_dental_traumatic_injuries.md) (PDF pp.2555-2672)
+
+**Endodontic Radiology 2nd ed**
+
+- [Radiographic Interpretation of Traumatic Injuries](../../textbooks/Endodontics/Endodontic_Radiology_2nd_ed_Chapterwise/09_9_Radiographic_Interpretation_of_Traumatic_Injuries.md) (PDF pp.149-172)
+
+**Endodontics Kishor Gulabivala Yuan Ling Ng 4th Ed Mosby 2014**
+
+- [Management of acute emergencies and traumatic dental injuries](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/10_10_Management_of_acute_emergencies_and_traumatic_dental_inju.md) (PDF pp.273-293)
+
+**Endodontics Principles and Practice**
+
+- [Management of Traumatic Dental Injuries](../../textbooks/Endodontics/Endodontics_Principles_and_Practice_Chapterwise/11_11_Management_of_Traumatic_Dental_Injuries.md) (PDF pp.203-231)
+
+**Endodontology**
+
+- [Traumatology](../../textbooks/Endodontics/Endodontology_Chapterwise/41_41_Traumatology.md) (PDF pp.338-349)
 
 **Grossman s Endodontic Practice 14th ed 1**
 
@@ -34,6 +50,14 @@
 **Harty s Endodontics in Clinical Practice 7th ed**
 
 - [Endodontic Aspects of Traumatic Injuries](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/12_12_Endodontic_Aspects_of_Traumatic_Injuries.md) (PDF pp.251-278)
+
+**Ingles Endodontics 7th**
+
+- [Endodontic Considerations in Dental Trauma](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/12_Chapter_12_Endodontic_Considerations_in_Dental_Trauma.md) (PDF pp.334-348)
+
+**Principles and practice of endodontic 2002 compressed**
+
+- [Management of Traumatized Teeth](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/25_Part_25_Management_of_Traumatized_Teeth.md) (PDF pp.462-482)
 
 **Problem Solving in Endodontics James L Gutmann**
 
@@ -61,12 +85,22 @@
 - [Economic Aspects of Traumatic Dental Injuries](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/34_34_Economic_Aspects_of_Traumatic_Dental_Injuries.md) (PDF pp.877-884)
 - [Information to the Public, Patients and Emergency Services on Traumatic Dental Injuries](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/35_35_Information_to_the_Public_Patients_and_Emergency_Services.md) (PDF pp.885-913)
 
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Traumatic Injuries and Management](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/26_26_Traumatic_Injuries_and_Management.md) (PDF pp.482-509)
+
 ## Not used by my notes on this topic
 
 Books with chapters on this topic that the notes above do not cite:
 
+- Endodontic Radiology 2nd ed — Radiographic Interpretation of Traumatic Injuries
+- Endodontics Kishor Gulabivala Yuan Ling Ng 4th Ed Mosby 2014 — Management of acute emergencies and traumatic dent
+- Endodontics Principles and Practice — Management of Traumatic Dental Injuries
+- Endodontology — Traumatology
 - Grossman s Endodontic Practice 14th ed 1 — Treatment of Traumatized Teeth
+- Principles and practice of endodontic 2002 compressed — Management of Traumatized Teeth
 - Problem Solving in Endodontics James L Gutmann — Problem Solving in the Management of Tooth Fractur
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Traumatic Injuries and Management
 
 ## See also
 

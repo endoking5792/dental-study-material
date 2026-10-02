@@ -9,19 +9,29 @@
 
 *No study note covers this topic yet — a gap in the notes.*
 
-## Textbook chapters (1 chapters across 1 books)
+## Textbook chapters (3 chapters across 3 books)
 
 ### Conservative Dentistry
+
+**Modern Operative Dentistry**
+
+- [Preventive Measures and Minimally Invasive Restorative Procedures](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/21_16_Preventive_Measures_and_Minimally_Invasive_Restorative_Pr.md) (PDF pp.637-672)
 
 **Pickards Guide Minimally Invasive Operative Dentistry**
 
 - [Essentials of minimally invasive operative dentistry](../../textbooks/Conservative%20Dentistry/Pickards_Guide_Minimally_Invasive_Operative_Dentistry_Chapterwise/08_5_Essentials_of_minimally_invasive_operative_dentistry.md) (PDF pp.71-109)
 
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Minimal Intervention Dentistry](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/36_28_Minimal_Intervention_Dentistry.md) (PDF pp.553-571)
+
 ## Not used by my notes on this topic
 
 Books with chapters on this topic that the notes above do not cite:
 
+- Modern Operative Dentistry — Preventive Measures and Minimally Invasive Restora
 - Pickards Guide Minimally Invasive Operative Dentistry — Essentials of minimally invasive operative dentist
+- Textbook of Conservative and Restorative Dentistry — Minimal Intervention Dentistry
 
 ## See also
 

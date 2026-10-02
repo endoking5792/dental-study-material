@@ -8,7 +8,7 @@
 
 *No study note covers this topic yet — a gap in the notes.*
 
-## Textbook chapters (1 chapters across 1 books)
+## Textbook chapters (2 chapters across 2 books)
 
 ### Endodontics
 
@@ -16,11 +16,16 @@
 
 - [## Postoperative Appointment;](../../textbooks/Endodontics/Surgical_Endodontics_A_Colour_Manual_Chapterwise/11_Chapter_13_Postoperative_Appointment.md) (PDF pp.71-75)
 
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Single-Visit Endodontics](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/21_21_Single_Visit_Endodontics.md) (PDF pp.387-393)
+
 ## Not used by my notes on this topic
 
 Books with chapters on this topic that the notes above do not cite:
 
 - Surgical Endodontics A Colour Manual — ## Postoperative Appointment;
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Single-Visit Endodontics
 
 ## See also
 

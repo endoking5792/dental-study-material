@@ -8,13 +8,19 @@
 
 *No study note covers this topic yet — a gap in the notes.*
 
-## Textbook chapters (0 chapters across 0 books)
+## Textbook chapters (1 chapters across 1 books)
 
-*No chapter title in the converted textbooks matches this topic.*
+### Endodontics
+
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Endodontic Smear Layer](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/17_17_Endodontic_Smear_Layer.md) (PDF pp.302-310)
 
 ## Not used by my notes on this topic
 
-*—*
+Books with chapters on this topic that the notes above do not cite:
+
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Endodontic Smear Layer
 
 ## See also
 

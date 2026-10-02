@@ -11,7 +11,7 @@
 
 - [M2 · 7.3: Regenerative Endodontics](../Module%202%20-%20Endodontics/SubModule_7.3_Regenerative_Endodontics.md) — 33 mentions
 
-## Textbook chapters (6 chapters across 6 books)
+## Textbook chapters (8 chapters across 8 books)
 
 ### Endodontics
 
@@ -31,6 +31,10 @@
 
 - [Regenerative Endodontics](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/12_Chapter_12_Regenerative_Endodontics.md) (PDF pp.238-245)
 
+**Ingles Endodontics 7th**
+
+- [Regenerative Endodontics](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/29_Chapter_29_Regenerative_Endodontics.md) (PDF pp.824-844)
+
 **Seltzer and Bender Dental Pulp**
 
 - [Stem Cells and Regeneration of the Pulpodentin Complex](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_05_Stem_Cells_and_Regeneration_of_the_Pulpodentin_Complex.md)
@@ -38,6 +42,10 @@
 **Textbook and Color Atlas of Traumatic**
 
 - [Stem Cells and Regeneration of Injured Dental Tissue](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/03_3_Stem_Cells_and_Regeneration_of_Injured_Dental_Tissue.md) (PDF pp.130-152)
+
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Regenerative Endodontics](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/38_38_Regenerative_Endodontics.md) (PDF pp.648-660)
 
 ## Not used by my notes on this topic
 
@@ -48,6 +56,7 @@ Books with chapters on this topic that the notes above do not cite:
 - Grossman s Endodontic Practice 14th ed 1 — Regenerative Endodontics
 - Seltzer and Bender Dental Pulp — Stem Cells and Regeneration of the Pulpodentin Com
 - Textbook and Color Atlas of Traumatic — Stem Cells and Regeneration of Injured Dental Tiss
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Regenerative Endodontics
 
 ## See also
 

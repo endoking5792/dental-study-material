@@ -22,7 +22,7 @@
 - [M2 · 6.2: Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md) — 10 mentions
 - [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) — 11 mentions
 
-## Textbook chapters (11 chapters across 6 books)
+## Textbook chapters (15 chapters across 9 books)
 
 ### Conservative Dentistry
 
@@ -30,6 +30,14 @@
 
 - [Impact of Outcomes Data on Diagnosis and Treatment Planning](../../textbooks/Conservative%20Dentistry/Contemporary_Restoration_of_Endodontically_Treated_Teeth_Chapterwise/01_1_Impact_of_Outcomes_Data_on_Diagnosis_and_Treatment_Plannin.md) (PDF pp.19-54)
 - [Treatment Planning Considerations for Endodontically Treated Teeth](../../textbooks/Conservative%20Dentistry/Contemporary_Restoration_of_Endodontically_Treated_Teeth_Chapterwise/02_2_Treatment_Planning_Considerations_for_Endodontically_Treat.md) (PDF pp.55-79)
+
+**Indirect Restorations Sikri**
+
+- [Treatment Planning](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/11_2_Treatment_Planning.md) (PDF pp.36-71)
+
+**Modern Operative Dentistry**
+
+- [Diagnosis and Treatment Planning](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/06_1_Diagnosis_and_Treatment_Planning.md) (PDF pp.15-56)
 
 **Pickards Guide Minimally Invasive Operative Dentistry**
 
@@ -55,13 +63,20 @@
 - [Caries Management: Diagnosis and Treatment Strategies](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/05_5_Caries_Management_Diagnosis_and_Treatment_Strategies.md) (PDF pp.207-278)
 - [Diagnosis and Treatment of Root Caries](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/13_13_Diagnosis_and_Treatment_of_Root_Caries.md) (PDF pp.729-751)
 
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Case Selection: Treatment Planning](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/14_6_Case_Selection_Treatment_Planning.md) (PDF pp.113-125)
+- [Diagnosis and Diagnostic Aids](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/15_7_Diagnosis_and_Diagnostic_Aids.md) (PDF pp.126-155)
+
 ## Not used by my notes on this topic
 
 Books with chapters on this topic that the notes above do not cite:
 
 - Contemporary Restoration of Endodontically Treated Teeth — Impact of Outcomes Data on Diagnosis and Treatment, Treatment Planning Considerations for Endodontical
+- Modern Operative Dentistry — Diagnosis and Treatment Planning
 - Pickards Guide Minimally Invasive Operative Dentistry — Diagnosis, prognosis, and care planning: ‘informat
 - Preservation and Restoration of Tooth Structure Graham J Mount — Dental Caries: Activity and Risk Assessment as a L, Non‐Carious Tooth Structure Loss: Diagnosis, Risk 
+- Textbook of Conservative and Restorative Dentistry — Case Selection: Treatment Planning, Diagnosis and Diagnostic Aids
 
 ## See also
 

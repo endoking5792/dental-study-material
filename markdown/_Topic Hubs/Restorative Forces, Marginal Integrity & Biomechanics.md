@@ -32,14 +32,28 @@
 - [M3 · 8.3: Impression Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.3_Impression_Materials.md) — 32 mentions
 - [M3 · 8.2: Dental Amalgam](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.2_Dental_Amalgam.md) — 26 mentions
 
-## Textbook chapters (3 chapters across 2 books)
+## Textbook chapters (8 chapters across 5 books)
 
 ### Dental Materials
+
+**Craig Restorative Dental Materials 14e**
+
+- [Testing of Dental Materials and Biomechanics](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/Chapter_05.md)
 
 **Introduction to Dental Materials 4th Edition**
 
 - [6 Mechanical properties](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/1_6_mechanical_properties.md)
 - [6 All-ceramic restorations: high-strength core ceramics](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/3_6_all_ceramic_restorations_high_strength_core_ceramics.md)
+
+**McCabe Applied Dental Materials**
+
+- [Non-elastic Impression Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/18_Chapter_17_Non_elastic_Impression_Materials.md) (PDF pp.156-162)
+- [Elastic Impression Materials: Hydrocolloids](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/19_Chapter_18_Elastic_Impression_Materials_Hydrocolloids.md) (PDF pp.163-171)
+- [Elastic Impression Materials: Synthetic Elastomers](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/20_Chapter_19_Elastic_Impression_Materials_Synthetic_Elastomers.md) (PDF pp.172-186)
+
+**Michigan Restorative Dental Materials**
+
+- [ch 4 : mechanical properties](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/07_ch_4_mechanical_properties.md) (PDF pp.77-134)
 
 **Philips Science of Dental Materials 12e**
 

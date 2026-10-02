@@ -23,7 +23,7 @@
 - [M2 · 6.2: Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md) — 10 mentions
 - [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) — 11 mentions
 
-## Textbook chapters (13 chapters across 11 books)
+## Textbook chapters (20 chapters across 17 books)
 
 ### Endodontics
 
@@ -44,6 +44,18 @@
 
 - [Diagnosis of Pulpal and Periradicular Disease](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/03_3_Diagnosis_of_Pulpal_and_Periradicular_Disease.md) (PDF pp.39-52)
 
+**Endodontics Kishor Gulabivala Yuan Ling Ng 4th Ed Mosby 2014**
+
+- [Diagnosis of endodontic problems](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/04_4_Diagnosis_of_endodontic_problems.md) (PDF pp.102-128)
+
+**Endodontics Principles and Practice**
+
+- [Endodontic Diagnosis and Treatment Planning](../../textbooks/Endodontics/Endodontics_Principles_and_Practice_Chapterwise/04_4_Endodontic_Diagnosis_and_Treatment_Planning.md) (PDF pp.68-89)
+
+**Endodontology**
+
+- [Endodontic Diagnosis](../../textbooks/Endodontics/Endodontology_Chapterwise/04_4_Endodontic_Diagnosis.md) (PDF pp.48-55)
+
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Clinical Diagnostic Methods](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/06_Chapter_6_Clinical_Diagnostic_Methods.md) (PDF pp.125-154)
@@ -52,6 +64,15 @@
 
 - [Diagnosis](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/03_3_Diagnosis.md) (PDF pp.39-58)
 - [Maintaining Dental Pulp Vitality](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/05_5_Maintaining_Dental_Pulp_Vitality.md) (PDF pp.81-102)
+
+**Ingles Endodontics 7th**
+
+- [Examination and Diagnosis of Pulp, Root Canal, and Periapical/Periradicular Conditions](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/08_Chapter_8_Examination_and_Diagnosis_of_Pulp_Root_Canal_and_P.md) (PDF pp.191-240)
+
+**Principles and practice of endodontic 2002 compressed**
+
+- [Diagnosis and Treatment Planning](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/04_Part_4_Diagnosis_and_Treatment_Planning.md) (PDF pp.62-83)
+- [Differential Diagnosis of Orofacial Pain](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/29_Part_29_Differential_Diagnosis_of_Orofacial_Pain.md) (PDF pp.541-552)
 
 **Problem Solving in Endodontics James L Gutmann**
 
@@ -69,6 +90,10 @@
 
 - [Diagnosis in Molar Endodontics](../../textbooks/Endodontics/The_Guidebook_to_Molar_Endodontics_Chapterwise/02_2_Diagnosis_in_Molar_Endodontics.md) (PDF pp.41-85)
 
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Diagnosis and Diagnostic Aids](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/09_9_Diagnosis_and_Diagnostic_Aids.md) (PDF pp.129-158)
+
 **Weines Endodontics Full**
 
 - [Diagnosis and Treatment Planning](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/02_CHAPTER_2_Diagnosis_and_Treatment_Planning.md) (PDF pp.83-235)
@@ -80,11 +105,15 @@ Books with chapters on this topic that the notes above do not cite:
 - Common Complications in Endodontics — Clinical Diagnosis and Treatment Planning Priyanka
 - Endodontic Microbiology 2nd ed — ## Diagnosis, Epidemiology, and Global Impact
 - Endodontic Prognosis Clinical Guide — Diagnosis of Pulpal and Periradicular Disease
+- Endodontics Kishor Gulabivala Yuan Ling Ng 4th Ed Mosby 2014 — Diagnosis of endodontic problems
+- Endodontics Principles and Practice — Endodontic Diagnosis and Treatment Planning
+- Endodontology — Endodontic Diagnosis
 - Harty s Endodontics in Clinical Practice 7th ed — Diagnosis, Maintaining Dental Pulp Vitality
 - Problem Solving in Endodontics James L Gutmann — Problem Solving in the Diagnosis of Odontogenic Pa
 - Textbook and Color Atlas of Traumatic — Examination and Diagnosis of Dental Injuries
 - The Art and Science of Contemporary Surgical Endodontics Mahmoud 2 — Diagnosis and Treatment Planning
 - The Guidebook to Molar Endodontics — Diagnosis in Molar Endodontics
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Diagnosis and Diagnostic Aids
 
 ## See also
 

@@ -17,7 +17,7 @@
 - [M2 · 4.6: Nonsurgical Endodontic Retreatment](../Module%202%20-%20Endodontics/SubModule_4.6_Nonsurgical_Retreatment.md) — 34 mentions
 - [M2 · 5.1: Indications, Contraindications & Case Selection for Surgery](../Module%202%20-%20Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection.md) — 20 mentions
 
-## Textbook chapters (10 chapters across 5 books)
+## Textbook chapters (14 chapters across 9 books)
 
 ### Endodontics
 
@@ -38,6 +38,14 @@
 
 - [Complications of Endodontic Irrigation: Dental, Medical, and Legal](../../textbooks/Endodontics/Endodontic_Irrigation_Chemical_disinfection_of_the_root_canal_system_Chapterwise/06_6_Complications_of_Endodontic_Irrigation_Dental_Medical_and_.md) (PDF pp.133-152)
 
+**Endodontics Principles and Practice**
+
+- [Procedural Accidents](../../textbooks/Endodontics/Endodontics_Principles_and_Practice_Chapterwise/18_18_Procedural_Accidents.md) (PDF pp.390-411)
+
+**Endodontology**
+
+- [Perforations](../../textbooks/Endodontics/Endodontology_Chapterwise/43_43_Perforations.md) (PDF pp.357-363)
+
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Procedural Errors: Prevention and Management](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/17_Chapter_17_Procedural_Errors_Prevention_and_Management.md) (PDF pp.367-380)
@@ -46,13 +54,24 @@
 
 - [Acknowledgements](../../textbooks/Endodontics/Guidelines_for_Surgical_Endodontics_Chapterwise/05_Acknowledgements.md) (PDF pp.8-11)
 
+**Ingles Endodontics 7th**
+
+- [Endodontic Orthograde Retreatment and Management of Mishaps](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/23_Chapter_23_Endodontic_Orthograde_Retreatment_and_Management_.md) (PDF pp.644-707)
+
+**Principles and practice of endodontic 2002 compressed**
+
+- [Procedural Accidents](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/18_Part_18_Procedural_Accidents.md) (PDF pp.325-335)
+
 ## Not used by my notes on this topic
 
 Books with chapters on this topic that the notes above do not cite:
 
 - Common Complications in Endodontics — Complications of Local Anaesthesia in Endodontics, Access-Related Complications Bradford R. Johnson 4
 - Endodontic Irrigation Chemical disinfection of the root canal system — Complications of Endodontic Irrigation: Dental, Me
+- Endodontics Principles and Practice — Procedural Accidents
+- Endodontology — Perforations
 - Guidelines for Surgical Endodontics — Acknowledgements
+- Principles and practice of endodontic 2002 compressed — Procedural Accidents
 
 ## See also
 

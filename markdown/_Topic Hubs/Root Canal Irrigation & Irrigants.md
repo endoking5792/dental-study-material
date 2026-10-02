@@ -10,7 +10,7 @@
 
 - [M2 · 4.4: Irrigation & Intracanal Medicaments](../Module%202%20-%20Endodontics/SubModule_4.4_Irrigation_and_Intracanal_Medicaments.md) — 54 mentions
 
-## Textbook chapters (16 chapters across 5 books)
+## Textbook chapters (18 chapters across 6 books)
 
 ### Endodontics
 
@@ -31,6 +31,11 @@
 
 - [Instrumentation and Disinfection of Root Canals](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/08_8_Instrumentation_and_Disinfection_of_Root_Canals.md) (PDF pp.139-148)
 
+**Endodontology**
+
+- [Irrigation, Drying, Medicated Dressings](../../textbooks/Endodontics/Endodontology_Chapterwise/11_11_Irrigation_Drying_Medicated_Dressings.md) (PDF pp.101-101)
+- [Root Canal Disinfection](../../textbooks/Endodontics/Endodontology_Chapterwise/25_25_Root_Canal_Disinfection.md) (PDF pp.204-234)
+
 **Problem Solving in Endodontics James L Gutmann**
 
 - [Problem Solving in Cleaning and Disinfecting the Root Canal System](../../textbooks/Endodontics/Problem_Solving_in_Endodontics_James_L_Gutmann_Chapterwise/11_Chapter_11_Problem_Solving_in_Cleaning_and_Disinfecting_the_.md) (PDF pp.220-228)
@@ -49,6 +54,7 @@
 
 Books with chapters on this topic that the notes above do not cite:
 
+- Endodontology — Irrigation, Drying, Medicated Dressings, Root Canal Disinfection
 - Problem Solving in Endodontics James L Gutmann — Problem Solving in Cleaning and Disinfecting the R
 - The Guidebook to Molar Endodontics — Shaping, Disinfection and Obturation for Molars
 - Treatment of Endodontic Infections — Mechanical aspects of irrigation determined by flu, Supplementary disinfection of the root canal syste
@@ -56,4 +62,4 @@ Books with chapters on this topic that the notes above do not cite:
 ## See also
 
 - [Smear Layer](Smear%20Layer.md)
-- [Cleaning & Shaping / Biomechanical Preparation](Cleaning%20%26%20Shaping%20/%20Biomechanical%20Preparation.md)
+- [Cleaning & Shaping / Biomechanical Preparation](Cleaning%20%26%20Shaping%20-%20Biomechanical%20Preparation.md)

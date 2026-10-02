@@ -180,14 +180,14 @@ Incorporating 30wt% of fine (under 10μm) 45S5 bioactive glass particles into a 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [[Craig Restorative Dental Materials 14e|Craig's Restorative Dental Materials (14e)]]
-- [[Restorative Dental Materials (Craig, Michigan|Restorative Dental Materials (Craig, Michigan 11e)]]
+- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
+- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)
 - [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
-- [[A Clinical Guide to Applied Dental Materials|Bonsor & Pearson — A Clinical Guide to Applied Dental Materials]]
+- [Bonsor & Pearson — A Clinical Guide to Applied Dental Materials](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/00_INDEX.md)
 - [van Noort — Introduction to Dental Materials (4e)](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/00_INDEX.md)
-- [[Applied Dental Materials (McCabe & Walls)|McCabe — Applied Dental Materials]]
+- [McCabe — Applied Dental Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/00_INDEX.md)
 - [Powers & Wataha — Dental Materials: Properties and Manipulation (10e)](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/Dental_Materials_Properties_and_Manipulation_10e_MD/00_INDEX.md)
-- [[Adhesive Techniques in Restorative Dentistry|Adhesive Techniques in Restorative Dentistry]]
+- [Adhesive Techniques in Restorative Dentistry](../../textbooks/Conservative%20Dentistry/Adhesive_Techniques_in_Restorative_Dentistry_Niranjan_s_Mac_Chapterwise/00_INDEX.md)
 - [Bioceramics in Endodontics](../../textbooks/Endodontics/Bioceramics_in_Endodontics_Chapterwise/00_INDEX.md)
 - [Mineral Trioxide Aggregate (Torabinejad)](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/00_INDEX.md)
 - [An Atlas of Glass-Ionomer Cements (Mount)](../../textbooks/Dental%20Materials/An_Atlas_of_Glass_Ionomer_Cements_Chapterwise_MD/00_INDEX.md)

@@ -19,9 +19,13 @@
 
 - [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) — 30 mentions
 
-## Textbook chapters (15 chapters across 3 books)
+## Textbook chapters (20 chapters across 6 books)
 
 ### Conservative Dentistry
+
+**Indirect Restorations Sikri**
+
+- [Principles of Tooth Preparation](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/13_4_Principles_of_Tooth_Preparation.md) (PDF pp.132-175)
 
 **Marzouk Operative Dentistry**
 
@@ -30,6 +34,12 @@
 - [Class III, IV and V cavity preparations for amalgam](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/07_Chapter_7_Class_III_IV_and_V_cavity_preparations_for_amalgam.md) (PDF pp.159-169)
 - [Cavity and tooth preparations for direct tooth-colored materials](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/09_Chapter_9_Cavity_and_tooth_preparations_for_direct_tooth_col.md) (PDF pp.180-198)
 - [Designs of cavity and tooth preparations for cast restorations](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/18_Chapter_18_Designs_of_cavity_and_tooth_preparations_for_cast.md) (PDF pp.322-339)
+
+**Modern Operative Dentistry**
+
+- [Nomenclature and Classification of Cavities and Tooth Preparations](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/10_5_Nomenclature_and_Classification_of_Cavities_and_Tooth_Prep.md) (PDF pp.179-194)
+- [General Principles of Tooth Preparation and Carious Tissue Removal](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/11_6_General_Principles_of_Tooth_Preparation_and_Carious_Tissue.md) (PDF pp.195-233)
+- [Tooth Preparations for Amalgam Restorations](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/15_10_Tooth_Preparations_for_Amalgam_Restorations.md) (PDF pp.345-381)
 
 **Preservation and Restoration of Tooth Structure Graham J Mount**
 
@@ -47,9 +57,16 @@
 - [Class III and V Amalgam Restorations](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/18%20-%20Class%20III%20and%20V%20Amalgam%20Restorations.md)
 - [Class II Cast Metal Restorations](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/20%20-%20Class%20II%20Cast%20Metal%20Restorations.md)
 
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Principles of Cavity Preparation](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/20_12_Principles_of_Cavity_Preparation.md) (PDF pp.233-253)
+
 ## Not used by my notes on this topic
 
-*Every book with a chapter on this topic is already cited by the notes above.*
+Books with chapters on this topic that the notes above do not cite:
+
+- Indirect Restorations Sikri — Principles of Tooth Preparation
+- Textbook of Conservative and Restorative Dentistry — Principles of Cavity Preparation
 
 ## See also
 

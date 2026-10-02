@@ -94,4 +94,4 @@ Prognosis data, though limited, are genuinely useful for patient counseling: Cam
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
+- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)

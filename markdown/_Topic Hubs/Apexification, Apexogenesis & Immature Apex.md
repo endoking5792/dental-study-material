@@ -10,7 +10,7 @@
 
 - [M2 · 7.3: Regenerative Endodontics](../Module%202%20-%20Endodontics/SubModule_7.3_Regenerative_Endodontics.md) — 19 mentions
 
-## Textbook chapters (2 chapters across 2 books)
+## Textbook chapters (4 chapters across 4 books)
 
 ### Endodontics
 
@@ -18,15 +18,24 @@
 
 - [Regenerative Approaches in Endodontic Therapies of Immature Teeth](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Immatur.md) (PDF pp.74-95)
 
+**Endodontics Principles and Practice**
+
+- [Management of the Vital Pulp and of Immature Teeth](../../textbooks/Endodontics/Endodontics_Principles_and_Practice_Chapterwise/10_10_Management_of_the_Vital_Pulp_and_of_Immature_Teeth.md) (PDF pp.183-202)
+
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Vital Pulp Therapy and Apexification](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/11_Chapter_11_Vital_Pulp_Therapy_and_Apexification.md) (PDF pp.214-237)
+
+**Ingles Endodontics 7th**
+
+- [Management of Teeth with Immature Apices](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md) (PDF pp.805-823)
 
 ## Not used by my notes on this topic
 
 Books with chapters on this topic that the notes above do not cite:
 
 - Endodontic Prognosis Clinical Guide — Regenerative Approaches in Endodontic Therapies of
+- Endodontics Principles and Practice — Management of the Vital Pulp and of Immature Teeth
 - Grossman s Endodontic Practice 14th ed 1 — Vital Pulp Therapy and Apexification
 
 ## See also

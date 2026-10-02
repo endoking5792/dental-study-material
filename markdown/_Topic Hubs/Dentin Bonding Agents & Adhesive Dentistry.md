@@ -28,7 +28,13 @@
 - [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) — 32 mentions
 - [M3 · 1.1: Atomic & Molecular Structure](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.1_Atomic_and_Molecular_Structure.md) — 15 mentions
 
-## Textbook chapters (9 chapters across 6 books)
+## Textbook chapters (15 chapters across 12 books)
+
+### Endodontics
+
+**Endodontology**
+
+- [Adhesive-retained, Fiber-reinforced Composite Posts](../../textbooks/Endodontics/Endodontology_Chapterwise/37_37_Adhesive_retained_Fiber_reinforced_Composite_Posts.md) (PDF pp.281-288)
 
 ### Conservative Dentistry
 
@@ -45,12 +51,32 @@
 
 - [Adhesion to Enamel and Dentin](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/09_9_Adhesion_to_Enamel_and_Dentin.md) (PDF pp.423-505)
 
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Dentin Hybridization: Bonding Agents](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/26_18_Dentin_Hybridization_Bonding_Agents.md) (PDF pp.337-368)
+
 ### Dental Materials
+
+**A Clinical Guide to Applied Dental Materials**
+
+- [Bonding Systems](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/Chapter_11_Bonding_Systems.md)
+
+**Craig Restorative Dental Materials 14e**
+
+- [Materials for Adhesion and Luting](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/Chapter_13.md)
 
 **Introduction to Dental Materials 4th Edition**
 
 - [9 Principles of adhesion](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/1_9_principles_of_adhesion.md)
 - [5 Enamel and dentine bonding](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/2_5_enamel_and_dentine_bonding.md)
+
+**McCabe Applied Dental Materials**
+
+- [Adhesive Restorative Materials: Bonding of Resin-based Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/24_Chapter_23_Adhesive_Restorative_Materials_Bonding_of_Resin_based_Mater.md) (PDF pp.234-253)
+
+**Michigan Restorative Dental Materials**
+
+- [ch 10 : bonding to dental substrates](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/13_ch_10_bonding_to_dental_substrates.md) (PDF pp.268-295)
 
 **Philips Science of Dental Materials 12e**
 
@@ -66,7 +92,9 @@
 Books with chapters on this topic that the notes above do not cite:
 
 - Advances in Operative Dentistry — Protection of the Pulp-Dentin Complex with Adhesiv, Adhesive Techniques for the Management of Fracture
+- Textbook of Conservative and Restorative Dentistry — Dentin Hybridization: Bonding Agents
 - Science of Dental Materials — Bonding of Restorations
+- Endodontology — Adhesive-retained, Fiber-reinforced Composite Post
 
 ## See also
 

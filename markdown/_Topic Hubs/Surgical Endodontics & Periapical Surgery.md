@@ -22,7 +22,7 @@
 - [M2 · 5.2: Surgical Anatomy & Flap Design](../Module%202%20-%20Endodontics/SubModule_5.2_Surgical_Anatomy_Flap_Design.md) — 32 mentions
 - [M2 · 8.1: Outcome Assessment, Classification Systems & Success Rates](../Module%202%20-%20Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates.md) — 12 mentions
 
-## Textbook chapters (23 chapters across 11 books)
+## Textbook chapters (30 chapters across 17 books)
 
 ### Endodontics
 
@@ -38,6 +38,18 @@
 
 - [Criteria for Outcome Assessment of Nonsurgical Endodontic Treatment](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/12_12_Criteria_for_Outcome_Assessment_of_Nonsurgical_Endodontic.md) (PDF pp.218-235)
 
+**Endodontics Kishor Gulabivala Yuan Ling Ng 4th Ed Mosby 2014**
+
+- [The oral medicine and oral surgery?endo interface](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/17_17_The_oral_medicine_and_oral_surgery_endo_interface.md) (PDF pp.383-390)
+
+**Endodontics Principles and Practice**
+
+- [Apical Microsurgery](../../textbooks/Endodontics/Endodontics_Principles_and_Practice_Chapterwise/20_20_Apical_Microsurgery.md) (PDF pp.435-448)
+
+**Endodontology**
+
+- [Endodontic Surgery](../../textbooks/Endodontics/Endodontology_Chapterwise/40_40_Endodontic_Surgery.md) (PDF pp.318-337)
+
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Nonsurgical Endodontic Retreatment](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/21_Chapter_21_Nonsurgical_Endodontic_Retreatment.md) (PDF pp.437-450)
@@ -51,6 +63,15 @@
 **Harty s Endodontics in Clinical Practice 7th ed**
 
 - [Surgical Endodontics](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/10_10_Surgical_Endodontics.md) (PDF pp.195-234)
+
+**Ingles Endodontics 7th**
+
+- [Surgical Endodontics](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/24_Chapter_24_Surgical_Endodontics.md) (PDF pp.708-742)
+- [Intentional Replantation of Endodontically Treated Teeth](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/25_Chapter_25_Intentional_Replantation_of_Endodontically_Treate.md) (PDF pp.743-765)
+
+**Principles and practice of endodontic 2002 compressed**
+
+- [Endodontic Surgery](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/24_Part_24_Endodontic_Surgery.md) (PDF pp.439-461)
 
 **Problem Solving in Endodontics James L Gutmann**
 
@@ -77,6 +98,10 @@
 
 - [Management of posttreatment apical periodontitis: nonsurgical retreatment and periradicular surgery](../../textbooks/Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/17_Chapter_17_Management_of_posttreatment_apical_periodontitis_.md) (PDF pp.935-1013)
 
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Surgical Endodontics](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/32_32_Surgical_Endodontics.md) (PDF pp.574-604)
+
 **Weines Endodontics Full**
 
 - [Periapical Surgery; Intraoral Imaging and Its Use with Surgery and Other Procedures*](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/09_CHAPTER_9_Periapical_Surgery_Intraoral_Imaging_and_Its_Use_w.md) (PDF pp.1011-1227)
@@ -87,9 +112,13 @@
 Books with chapters on this topic that the notes above do not cite:
 
 - Common Complications in Endodontics — Complications of Endodontic Surgery
+- Endodontics Principles and Practice — Apical Microsurgery
+- Endodontology — Endodontic Surgery
 - Guidelines for Surgical Endodontics — Contraindications to surgical endodontics, Outcomes of surgical endodontic intervention
+- Principles and practice of endodontic 2002 compressed — Endodontic Surgery
 - Problem Solving in Endodontics James L Gutmann — Problem-Solving Challenges in Periapical Surgery
 - Treatment of Endodontic Infections — Management of posttreatment apical periodontitis: 
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Surgical Endodontics
 
 ## See also
 

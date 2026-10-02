@@ -22,7 +22,7 @@
 - [M2 · 3.4: Treatment Planning](../Module%202%20-%20Endodontics/SubModule_3.4_Treatment_Planning.md) — 19 mentions
 - [M2 · 3.5: Management of the Medically Complex Endodontic Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md) — 14 mentions
 
-## Textbook chapters (18 chapters across 11 books)
+## Textbook chapters (33 chapters across 17 books)
 
 ### Endodontics
 
@@ -40,9 +40,37 @@
 
 - [## Endodontic Infections and Pain](../../textbooks/Endodontics/Endodontic_Microbiology_2nd_ed_Chapterwise/11_Chapter_11_Endodontic_Infections_and_Pain.md) (PDF pp.258-274)
 
+**Endodontics Kishor Gulabivala Yuan Ling Ng 4th Ed Mosby 2014**
+
+- [Management of acute emergencies and traumatic dental injuries](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/10_10_Management_of_acute_emergencies_and_traumatic_dental_inju.md) (PDF pp.273-293)
+- [The orofacial pain?endo interface](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/16_16_The_orofacial_pain_endo_interface.md) (PDF pp.378-382)
+
+**Endodontics Principles and Practice**
+
+- [Local Anesthesia](../../textbooks/Endodontics/Endodontics_Principles_and_Practice_Chapterwise/08_8_Local_Anesthesia.md) (PDF pp.144-166)
+- [Endodontic Emergencies and Therapeutics](../../textbooks/Endodontics/Endodontics_Principles_and_Practice_Chapterwise/09_9_Endodontic_Emergencies_and_Therapeutics.md) (PDF pp.167-182)
+
+**Endodontology**
+
+- [Local Anesthesia](../../textbooks/Endodontics/Endodontology_Chapterwise/07_7_Local_Anesthesia.md) (PDF pp.76-81)
+- [Emergency Endodontics](../../textbooks/Endodontics/Endodontology_Chapterwise/08_8_Emergency_Endodontics.md) (PDF pp.82-92)
+
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Endodontic Emergencies](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/07_Chapter_7_Endodontic_Emergencies.md) (PDF pp.155-167)
+
+**Ingles Endodontics 7th**
+
+- [Dental Innervations and Pain of Pulpal Origin](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/07_Chapter_7_Dental_Innervations_and_Pain_of_Pulpal_Origin.md) (PDF pp.177-190)
+- [Non-Odontogenic Toothache and Chronic Head and Neck Pain](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/17_Chapter_17_Non_Odontogenic_Toothache_and_Chronic_Head_and_Ne.md) (PDF pp.399-433)
+- [Management of Pain, Fear, and Anxiety in the Endodontic Patient](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/18_Chapter_18_Management_of_Pain_Fear_and_Anxiety_in_the_Endodo.md) (PDF pp.434-450)
+- [Treatment of Endodontic Abscesses/Cellulitis, Cysts, and Flare-ups](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/30_Chapter_30_Treatment_of_Endodontic_Abscesses_Cellulitis_Cyst.md) (PDF pp.845-859)
+
+**Principles and practice of endodontic 2002 compressed**
+
+- [Local Anesthesia](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/07_Part_7_Local_Anesthesia.md) (PDF pp.112-130)
+- [Endodontic Emergencies](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/17_Part_17_Endodontic_Emergencies.md) (PDF pp.308-324)
+- [Differential Diagnosis of Orofacial Pain](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/29_Part_29_Differential_Diagnosis_of_Orofacial_Pain.md) (PDF pp.541-552)
 
 **Problem Solving in Endodontics James L Gutmann**
 
@@ -73,6 +101,11 @@
 - [Causes of posttreatment pain in endodontics](../../textbooks/Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/08_Chapter_8_Causes_of_posttreatment_pain_in_endodontics.md) (PDF pp.419-440)
 - [Endodontic emergencies of infectious origin](../../textbooks/Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/18_Chapter_18_Endodontic_emergencies_of_infectious_origin.md) (PDF pp.1014-1062)
 
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Pathophysiology of Pain](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/03_3_Pathophysiology_of_Pain.md) (PDF pp.40-50)
+- [Endodontic Emergencies](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/23_23_Endodontic_Emergencies.md) (PDF pp.430-442)
+
 **Weines Endodontics Full**
 
 - [Endodontic Emergency Treatment](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/03_CHAPTER_3_Endodontic_Emergency_Treatment.md) (PDF pp.236-343)
@@ -82,11 +115,16 @@
 Books with chapters on this topic that the notes above do not cite:
 
 - Common Complications in Endodontics — Complications of Local Anaesthesia in Endodontics
+- Endodontics Kishor Gulabivala Yuan Ling Ng 4th Ed Mosby 2014 — Management of acute emergencies and traumatic dent, The orofacial pain?endo interface
+- Endodontics Principles and Practice — Local Anesthesia, Endodontic Emergencies and Therapeutics
+- Endodontology — Local Anesthesia, Emergency Endodontics
+- Principles and practice of endodontic 2002 compressed — Local Anesthesia, Endodontic Emergencies
 - Problem Solving in Endodontics James L Gutmann — Problem Solving in the Diagnosis of Odontogenic Pa, Problem Solving in the Diagnosis of Nonodontogenic
 - Textbook and Color Atlas of Traumatic — Information to the Public, Patients and Emergency 
 - The Art and Science of Contemporary Surgical Endodontics Mahmoud 2 — Local Anesthesia and Hemostasis
 - The Guidebook to Molar Endodontics — Local Anaesthesia for Molar Endodontics John M. Nu
 - Treatment of Endodontic Infections — Causes of posttreatment pain in endodontics, Endodontic emergencies of infectious origin
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Pathophysiology of Pain, Endodontic Emergencies
 - Weines Endodontics Full — Endodontic Emergency Treatment
 
 ## See also

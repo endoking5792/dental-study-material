@@ -19,7 +19,14 @@
 
 - [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) — 28 mentions
 
-## Textbook chapters (9 chapters across 3 books)
+## Textbook chapters (13 chapters across 6 books)
+
+### Endodontics
+
+**Endodontology**
+
+- [Adhesive-retained, Fiber-reinforced Composite Posts](../../textbooks/Endodontics/Endodontology_Chapterwise/37_37_Adhesive_retained_Fiber_reinforced_Composite_Posts.md) (PDF pp.281-288)
+- [Clinical Methods with Glass Fiber Posts](../../textbooks/Endodontics/Endodontology_Chapterwise/38_38_Clinical_Methods_with_Glass_Fiber_Posts.md) (PDF pp.289-291)
 
 ### Conservative Dentistry
 
@@ -28,6 +35,10 @@
 - [Cementation of Posts and Provisional Restoration](../../textbooks/Conservative%20Dentistry/Contemporary_Restoration_of_Endodontically_Treated_Teeth_Chapterwise/05_5_Cementation_of_Posts_and_Provisional_Restoration.md) (PDF pp.166-200)
 - [Removal of Posts](../../textbooks/Conservative%20Dentistry/Contemporary_Restoration_of_Endodontically_Treated_Teeth_Chapterwise/13_13_Removal_of_Posts.md) (PDF pp.372-399)
 - [Retrofitting a Post to an Existing Crown](../../textbooks/Conservative%20Dentistry/Contemporary_Restoration_of_Endodontically_Treated_Teeth_Chapterwise/16_16_Retrofitting_a_Post_to_an_Existing_Crown.md) (PDF pp.418-432)
+
+**Indirect Restorations Sikri**
+
+- [Post and Core Restorations](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/15_6_Post_and_Core_Restorations.md) (PDF pp.243-333)
 
 **Marzouk Operative Dentistry**
 
@@ -41,11 +52,17 @@
 
 - [Class II Cast Metal Restorations](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/20%20-%20Class%20II%20Cast%20Metal%20Restorations.md)
 
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Cast Metal Restorations](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/24_16_Cast_Metal_Restorations.md) (PDF pp.300-325)
+
 ## Not used by my notes on this topic
 
 Books with chapters on this topic that the notes above do not cite:
 
 - Contemporary Restoration of Endodontically Treated Teeth — Cementation of Posts and Provisional Restoration, Removal of Posts
+- Textbook of Conservative and Restorative Dentistry — Cast Metal Restorations
+- Endodontology — Adhesive-retained, Fiber-reinforced Composite Post, Clinical Methods with Glass Fiber Posts
 
 ## See also
 

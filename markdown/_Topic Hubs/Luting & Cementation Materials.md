@@ -27,9 +27,15 @@
 - [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) — 18 mentions
 - [M3 · 6.2: Cost-Effectiveness & Longevity Analysis](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis.md) — 13 mentions
 
-## Textbook chapters (13 chapters across 6 books)
+## Textbook chapters (22 chapters across 10 books)
 
 ### Dental Materials
+
+**A Clinical Guide to Applied Dental Materials**
+
+- [The Tooth-Coloured Restorative Materials III Glass Ionomer Cements](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/Chapter_09_The_Tooth_Coloured_Restorative_Materials_III_Glass_Ionomer_Cements.md)
+- [The Tooth-Coloured Restorative Materials IV Resin-Modified Glass Ionomer Cements](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/Chapter_10_The_Tooth_Coloured_Restorative_Materials_IV_Resin_Modified_Glass_Ionomer_Cements.md)
+- [Other Dental Cements](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/Chapter_12_Other_Dental_Cements.md)
 
 **An Atlas of Glass Ionomer Cements**
 
@@ -40,6 +46,10 @@
 - [Type III: Lining Cements](../../textbooks/Dental%20Materials/An_Atlas_of_Glass_Ionomer_Cements_Chapterwise_MD/Chapter_05_type_iii_lining_cements.md)
 - [Modified Cavity Designs Suitable for Restoration with Glass-Ionomer Cements](../../textbooks/Dental%20Materials/An_Atlas_of_Glass_Ionomer_Cements_Chapterwise_MD/Chapter_06_modified_cavity_designs_suitable_for_restoration_with_glass_ionomer_cements.md)
 - [An Atlas of Glass-Ionomer Cements: A Clinician’s Guide](../../textbooks/Dental%20Materials/An_Atlas_of_Glass_Ionomer_Cements_Chapterwise_MD/README.md)
+
+**Craig Restorative Dental Materials 14e**
+
+- [Materials for Adhesion and Luting](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/Chapter_13.md)
 
 **Dental Materials Properties and Manipulation 10e**
 
@@ -53,6 +63,17 @@
 **MTA Torabinejad**
 
 - [Calcium Silicate–Based Cements](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/14_10_Calcium_Silicate_Based_Cements.md) (PDF pp.301-352)
+
+**McCabe Applied Dental Materials**
+
+- [Requirements of Dental Cements for Lining, Base and Luting Applications](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/28_Chapter_27_Requirements_of_Dental_Cements_for_Lining_Base_and_Luting_A.md) (PDF pp.276-281)
+- [Cements based on Phosphoric Acid](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/29_Chapter_28_Cements_based_on_Phosphoric_Acid.md) (PDF pp.282-286)
+- [Cements based on Organometallic Chelate Compounds](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/30_Chapter_29_Cements_based_on_Organometallic_Chelate_Compounds.md) (PDF pp.287-292)
+- [Polycarboxylates, Glass Ionomers and Resin-modified Glass Ionomers for Luting and Lining](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/31_Chapter_30_Polycarboxylates_Glass_Ionomers_and_Resin_modified_Glass_Io.md) (PDF pp.293-297)
+
+**Michigan Restorative Dental Materials**
+
+- [ch 20 : cements](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/23_ch_20_cements.md) (PDF pp.602-643)
 
 **Philips Science of Dental Materials 12e**
 
@@ -70,4 +91,4 @@ Books with chapters on this topic that the notes above do not cite:
 
 ## See also
 
-- [Post & Core / Cast Restorations](Post%20%26%20Core%20/%20Cast%20Restorations.md)
+- [Post & Core / Cast Restorations](Post%20%26%20Core%20-%20Cast%20Restorations.md)

@@ -211,8 +211,8 @@ A genuinely important, practice-changing finding directly affects how follow-up 
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
 - [Glossary of Endodontic Terms](../../textbooks/Endodontics/Glossary_of_Endodontic_Terms_Chapterwise/00_INDEX.md)
-- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
+- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
 - [Vital Pulp Treatment (Duncan & El-Karim)](../../textbooks/Endodontics/Vital_Pulp_Treatment_Chapterwise/00_INDEX.md)
 - [Weine — Endodontic Therapy (6e, full)](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/00_INDEX.md)
-- [[Principles and practice of endodontic|Walton & Torabinejad — Principles and Practice of Endodontics (2002)]]
-- [[Current Therapy in Endodontics|Current Therapy in Endodontics]]
+- [Walton & Torabinejad — Principles and Practice of Endodontics (2002)](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/00_INDEX.md)
+- [Current Therapy in Endodontics](../../textbooks/Endodontics/Current_Therapy_in_Endodontics_Chapterwise/00_INDEX.md)

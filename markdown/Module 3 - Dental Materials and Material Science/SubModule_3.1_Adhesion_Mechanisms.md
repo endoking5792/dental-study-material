@@ -220,8 +220,8 @@ Every substrate-specific mechanism covered in Section 3.1.3 above — sandblasti
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [[Craig Restorative Dental Materials 14e|Craig's Restorative Dental Materials (14e)]]
-- [[Applied Dental Materials (McCabe & Walls)|McCabe — Applied Dental Materials]]
-- [[A Clinical Guide to Applied Dental Materials|Bonsor & Pearson — A Clinical Guide to Applied Dental Materials]]
-- [[Restorative Dental Materials (Craig, Michigan|Restorative Dental Materials (Craig, Michigan 11e)]]
-- [[Adhesive Techniques in Restorative Dentistry|Adhesive Techniques in Restorative Dentistry]]
+- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
+- [McCabe — Applied Dental Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/00_INDEX.md)
+- [Bonsor & Pearson — A Clinical Guide to Applied Dental Materials](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/00_INDEX.md)
+- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)
+- [Adhesive Techniques in Restorative Dentistry](../../textbooks/Conservative%20Dentistry/Adhesive_Techniques_in_Restorative_Dentistry_Niranjan_s_Mac_Chapterwise/00_INDEX.md)

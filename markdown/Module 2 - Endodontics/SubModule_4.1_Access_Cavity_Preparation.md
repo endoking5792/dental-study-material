@@ -164,7 +164,7 @@ Taurodontism — a short-rooted tooth with a much larger than normal pulp chambe
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
 - [Grossman's Endodontic Practice (14e)](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/00_INDEX.md)
-- [[Endodontic Radiology|Endodontic Radiology (2e)]]
+- [Endodontic Radiology (2e)](../../textbooks/Endodontics/Endodontic_Radiology_2nd_ed_Chapterwise/00_INDEX.md)
 - [Guidebook to Molar Endodontics](../../textbooks/Endodontics/The_Guidebook_to_Molar_Endodontics_Chapterwise/00_INDEX.md)
 - [Endodontic Prognosis: Clinical Guide](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/00_INDEX.md)
-- [[Endodontics Kishor Gulabivala Yuan Ling|Gulabivala & Ng — Endodontics (4e)]]
+- [Gulabivala & Ng — Endodontics (4e)](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/00_INDEX.md)

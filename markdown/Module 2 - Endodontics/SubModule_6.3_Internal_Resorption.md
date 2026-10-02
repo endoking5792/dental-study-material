@@ -78,5 +78,5 @@ A genuinely contested management question is flagged explicitly by the source ra
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
+- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
 - [Andreasen — Textbook and Color Atlas of Traumatic Injuries](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/00_INDEX.md)

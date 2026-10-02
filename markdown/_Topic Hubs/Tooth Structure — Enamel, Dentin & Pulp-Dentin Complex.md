@@ -40,7 +40,7 @@
 - [M2 · 4.4: Irrigation & Intracanal Medicaments](../Module%202%20-%20Endodontics/SubModule_4.4_Irrigation_and_Intracanal_Medicaments.md) — 25 mentions
 - [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) — 26 mentions
 
-## Textbook chapters (21 chapters across 11 books)
+## Textbook chapters (27 chapters across 16 books)
 
 ### Endodontics
 
@@ -52,6 +52,10 @@
 
 - [## Microbiology of Dental Caries and Dentinal](../../textbooks/Endodontics/Endodontic_Microbiology_2nd_ed_Chapterwise/03_Chapter_3_Microbiology_of_Dental_Caries_and_Dentinal.md) (PDF pp.36-60)
 
+**Endodontology**
+
+- [Histology of the Pulp](../../textbooks/Endodontics/Endodontology_Chapterwise/01_1_Histology_of_the_Pulp.md) (PDF pp.19-23)
+
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [The Dental Pulp and Periradicular Tissues](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/01_Chapter_1_The_Dental_Pulp_and_Periradicular_Tissues.md) (PDF pp.26-59)
@@ -61,6 +65,14 @@
 
 - [Maintaining Dental Pulp Vitality](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/05_5_Maintaining_Dental_Pulp_Vitality.md) (PDF pp.81-102)
 - [Marginal Periodontitis and the Dental Pulp](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md) (PDF pp.279-302)
+
+**Ingles Endodontics 7th**
+
+- [Structure and Function of the Pulp–Dentin Complex](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/02_Chapter_2_Structure_and_Function_of_the_Pulp_Dentin_Complex.md) (PDF pp.47-68)
+
+**Principles and practice of endodontic 2002 compressed**
+
+- [Biology of the Dental Pulp and Periradicular Tissues](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/02_Part_2_Biology_of_the_Dental_Pulp_and_Periradicular_Tissues.md) (PDF pp.12-35)
 
 **Seltzer and Bender Dental Pulp**
 
@@ -76,11 +88,20 @@
 
 - [Histology of Tissues Involved in Surgical Endodontics](../../textbooks/Endodontics/The_Art_and_Science_of_Contemporary_Surgical_Endodontics_Mahmoud_2_Chapterwise/02_Chapter_2_Histology_of_Tissues_Involved_in_Surgical_Endodont.md) (PDF pp.32-41)
 
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Biology of Pulp–Dentin Complex](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/02_2_Biology_of_Pulp_Dentin_Complex.md) (PDF pp.30-39)
+- [Diseases of Dental Pulp](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/05_5_Diseases_of_Dental_Pulp.md) (PDF pp.69-83)
+
 ### Conservative Dentistry
 
 **Advances in Operative Dentistry**
 
 - [Protection of Dentin and Pulp](../../textbooks/Conservative%20Dentistry/Advances_in_Operative_Dentistry_Chapterwise/06_Protection_of_Dentin_and_Pulp.md) (PDF pp.15-24)
+
+**Modern Operative Dentistry**
+
+- [Protection of the Dentin-Pulp Complex](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/14_9_Protection_of_the_Dentin_Pulp_Complex.md) (PDF pp.300-344)
 
 **Pickards Guide Minimally Invasive Operative Dentistry**
 
@@ -106,4 +127,6 @@ Books with chapters on this topic that the notes above do not cite:
 
 - Advances in Operative Dentistry — Protection of Dentin and Pulp
 - Endodontic Microbiology 2nd ed — ## Microbiology of Dental Caries and Dentinal
+- Endodontology — Histology of the Pulp
 - The Art and Science of Contemporary Surgical Endodontics Mahmoud 2 — Histology of Tissues Involved in Surgical Endodont
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Biology of Pulp–Dentin Complex, Diseases of Dental Pulp

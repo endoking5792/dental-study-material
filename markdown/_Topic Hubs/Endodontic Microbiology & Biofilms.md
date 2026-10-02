@@ -21,7 +21,7 @@
 - [M2 · 5.6: Surgical Complications & Management](../Module%202%20-%20Endodontics/SubModule_5.6_Surgical_Complications_Management.md) — 20 mentions
 - [M2 · 3.5: Management of the Medically Complex Endodontic Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md) — 14 mentions
 
-## Textbook chapters (34 chapters across 10 books)
+## Textbook chapters (50 chapters across 15 books)
 
 ### Endodontics
 
@@ -60,9 +60,36 @@
 - [Microbiology and Immunology of Endodontic Infections](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/02_2_Microbiology_and_Immunology_of_Endodontic_Infections.md) (PDF pp.24-38)
 - [Instrumentation and Disinfection of Root Canals](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/08_8_Instrumentation_and_Disinfection_of_Root_Canals.md) (PDF pp.139-148)
 
+**Endodontology**
+
+- [Endodontic Microbiology](../../textbooks/Endodontics/Endodontology_Chapterwise/03_3_Endodontic_Microbiology.md) (PDF pp.38-47)
+- [Root Canal Disinfection](../../textbooks/Endodontics/Endodontology_Chapterwise/25_25_Root_Canal_Disinfection.md) (PDF pp.204-234)
+
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Endodontic Microbiology](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/02_Chapter_2_Endodontic_Microbiology.md) (PDF pp.60-68)
+
+**Ingles Endodontics 7th**
+
+- [Microbial and Nonmicrobial Etiologies of Endodontic Diseases](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/03_Chapter_3_Microbial_and_Nonmicrobial_Etiologies_of_Endodonti.md) (PDF pp.69-86)
+
+**Oral Microbiology and Immunology**
+
+- [General Microbiology](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/01_1_General_Microbiology.md) (PDF pp.32-57)
+- [Isolation, Classification, and Identification of Oral Bacteria](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/04_4_Isolation_Classification_and_Identification_of_Oral_Bacter.md) (PDF pp.110-129)
+- [Oral Microbial Ecology](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/05_5_Oral_Microbial_Ecology.md) (PDF pp.130-151)
+- [Oral Microbial Physiology](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/06_6_Oral_Microbial_Physiology.md) (PDF pp.152-177)
+- [Population Genetics of Oral Bacteria](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/09_9_Population_Genetics_of_Oral_Bacteria.md) (PDF pp.242-255)
+- [Virulence Factors of Periodontal Bacteria](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/14_14_Virulence_Factors_of_Periodontal_Bacteria.md) (PDF pp.338-361)
+- [Fungi and Fungal Infections of the Oral Cavity](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/17_17_Fungi_and_Fungal_Infections_of_the_Oral_Cavity.md) (PDF pp.426-445)
+- [Endodontic Infections and Therapeutic Approaches](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/18_18_Endodontic_Infections_and_Therapeutic_Approaches.md) (PDF pp.446-461)
+- [Systemic Disease and the Oral Microbiota](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/19_19_Systemic_Disease_and_the_Oral_Microbiota.md) (PDF pp.462-485)
+- [Therapeutic Approaches for Biofilm Control and Host Modulation in Oral Diseases](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/21_21_Therapeutic_Approaches_for_Biofilm_Control_and_Host_Modul.md) (PDF pp.524-553)
+- [Infection Prevention and Control in Dentistry](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/22_22_Infection_Prevention_and_Control_in_Dentistry.md) (PDF pp.554-579)
+
+**Principles and practice of endodontic 2002 compressed**
+
+- [Endodontic Microbiology](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/16_Part_16_Endodontic_Microbiology.md) (PDF pp.295-307)
 
 **Seltzer and Bender Dental Pulp**
 
@@ -85,6 +112,10 @@
 - [Supplementary disinfection of the root canal system](../../textbooks/Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/14_Chapter_14_Supplementary_disinfection_of_the_root_canal_syst.md) (PDF pp.754-833)
 - [Nonconventional and emerging antimicrobials for root canal disinfection](../../textbooks/Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/16_Chapter_16_Nonconventional_and_emerging_antimicrobials_for_r.md) (PDF pp.898-934)
 
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Endodontic Microbiology](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/08_8_Endodontic_Microbiology.md) (PDF pp.111-128)
+
 **Weines Endodontics Full**
 
 - [Microbiology and Sterilization in Endodontics](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/13_CHAPTER_13_Microbiology_and_Sterilization_in_Endodontics.md) (PDF pp.1430-1486)
@@ -94,7 +125,11 @@
 Books with chapters on this topic that the notes above do not cite:
 
 - Common Complications in Endodontics — Strategies to Reduce the Risk of Reinfection in En
+- Endodontology — Endodontic Microbiology, Root Canal Disinfection
+- Oral Microbiology and Immunology — General Microbiology, Isolation, Classification, and Identification of O
+- Principles and practice of endodontic 2002 compressed — Endodontic Microbiology
 - The Guidebook to Molar Endodontics — Shaping, Disinfection and Obturation for Molars
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Endodontic Microbiology
 - Weines Endodontics Full — Microbiology and Sterilization in Endodontics
 
 ## See also

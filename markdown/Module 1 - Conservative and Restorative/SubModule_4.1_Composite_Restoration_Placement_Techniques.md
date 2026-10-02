@@ -270,5 +270,5 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [[Modern Operative Dentistry Principles for Clinical Practice|Modern Operative Dentistry]]
+- [Modern Operative Dentistry](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/00_INDEX.md)
 - [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)

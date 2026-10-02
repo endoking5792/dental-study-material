@@ -20,13 +20,25 @@
 - [M3 · 8.2: Dental Amalgam](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.2_Dental_Amalgam.md) — 17 mentions
 - [M3 · 6.1: Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md) — 16 mentions
 
-## Textbook chapters (4 chapters across 3 books)
+## Textbook chapters (7 chapters across 6 books)
 
 ### Dental Materials
+
+**A Clinical Guide to Applied Dental Materials**
+
+- [Biological Effects and Safety Aspects of Dental Materials](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/Chapter_03_Biological_Effects_and_Safety_Aspects_of_Dental_Materials.md)
+
+**Craig Restorative Dental Materials 14e**
+
+- [Biocompatibility and Tissue Reaction to Biomaterials](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/Chapter_06.md)
 
 **Introduction to Dental Materials 4th Edition**
 
 - [1 Biomaterials, safety and biocompatibility](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/1_1_biomaterials_safety_and_biocompatibility.md)
+
+**Michigan Restorative Dental Materials**
+
+- [ch 5 : biocompatibility of dental materials](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/08_ch_5_biocompatibility_of_dental_materials.md) (PDF pp.135-172)
 
 **Philips Science of Dental Materials 12e**
 

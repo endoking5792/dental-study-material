@@ -10,7 +10,7 @@
 
 *No study note covers this topic yet — a gap in the notes.*
 
-## Textbook chapters (7 chapters across 2 books)
+## Textbook chapters (9 chapters across 4 books)
 
 ### Endodontics
 
@@ -27,10 +27,22 @@
 
 - [Problem-Solving Challenges in Dentin Hypersensitivity and Vital Pulp Therapy](../../textbooks/Endodontics/Problem_Solving_in_Endodontics_James_L_Gutmann_Chapterwise/07_Chapter_7_Problem_Solving_Challenges_in_Dentin_Hypersensitiv.md) (PDF pp.143-160)
 
+### Conservative Dentistry
+
+**Modern Operative Dentistry**
+
+- [Dentin Hypersensitivity and Cracked Teeth](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/23_18_Dentin_Hypersensitivity_and_Cracked_Teeth.md) (PDF pp.697-711)
+
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Dentinal Hypersensitivity](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/37_29_Dentinal_Hypersensitivity.md) (PDF pp.572-583)
+
 ## Not used by my notes on this topic
 
 Books with chapters on this topic that the notes above do not cite:
 
+- Modern Operative Dentistry — Dentin Hypersensitivity and Cracked Teeth
+- Textbook of Conservative and Restorative Dentistry — Dentinal Hypersensitivity
 - Dentine HyperSensitivity — The Prevalence of Dentine Hypersensitivity, The Impact of Dentine Hypersensitivity on Oral Hea
 - Problem Solving in Endodontics James L Gutmann — Problem-Solving Challenges in Dentin Hypersensitiv
 

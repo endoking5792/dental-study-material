@@ -19,7 +19,7 @@
 - [M2 · 2.3: Microbiology of Endodontic Infections](../Module%202%20-%20Endodontics/SubModule_2.3_Microbiology_of_Endodontic_Infections.md) — 19 mentions
 - [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](../Module%202%20-%20Endodontics/SubModule_6.8_Endodontics_in_Primary_Teeth.md) — 13 mentions
 
-## Textbook chapters (9 chapters across 8 books)
+## Textbook chapters (13 chapters across 12 books)
 
 ### Endodontics
 
@@ -36,6 +36,10 @@
 
 - [## Systemic Antibiotics in Endodontic Infections](../../textbooks/Endodontics/Endodontic_Microbiology_2nd_ed_Chapterwise/12_Chapter_12_Systemic_Antibiotics_in_Endodontic_Infections.md) (PDF pp.275-291)
 
+**Endodontology**
+
+- [Intracanal Dressings](../../textbooks/Endodontics/Endodontology_Chapterwise/26_26_Intracanal_Dressings.md) (PDF pp.235-239)
+
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Irrigants and Intracanal Medicaments](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/15_Chapter_15_Irrigants_and_Intracanal_Medicaments.md) (PDF pp.323-339)
@@ -44,6 +48,14 @@
 
 - [Intracanal Medication](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/08_8_Intracanal_Medication.md) (PDF pp.145-166)
 
+**Ingles Endodontics 7th**
+
+- [Irrigants and Intracanal Medicaments](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/21_Chapter_21_Irrigants_and_Intracanal_Medicaments.md) (PDF pp.565-590)
+
+**Oral Microbiology and Immunology**
+
+- [Antibiotics: Mechanisms of Action, Resistance, and Clinical Use in Dentistry](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/20_20_Antibiotics_Mechanisms_of_Action_Resistance_and_Clinical_.md) (PDF pp.486-523)
+
 **Textbook and Color Atlas of Traumatic**
 
 - [Endodontic Management and the Use of Calcium Hydroxide in Traumatized Permanent Teeth](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxide_in.md) (PDF pp.614-673)
@@ -51,6 +63,10 @@
 **Treatment of Endodontic Infections**
 
 - [Systemic antibiotics in endodontics](../../textbooks/Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/19_Chapter_19_Systemic_antibiotics_in_endodontics.md) (PDF pp.1063-1105)
+
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Root Canal Irrigants and Medicaments](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/18_18_Root_Canal_Irrigants_and_Medicaments.md) (PDF pp.311-334)
 
 **Weines Endodontics Full**
 
@@ -61,8 +77,11 @@
 Books with chapters on this topic that the notes above do not cite:
 
 - Common Complications in Endodontics — Complications Due to Medicaments
+- Endodontology — Intracanal Dressings
 - Grossman s Endodontic Practice 14th ed 1 — Irrigants and Intracanal Medicaments
+- Oral Microbiology and Immunology — Antibiotics: Mechanisms of Action, Resistance, and
 - Treatment of Endodontic Infections — Systemic antibiotics in endodontics
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Root Canal Irrigants and Medicaments
 - Weines Endodontics Full — Intracanal Treatment Procedures, Basic and Advance
 
 ## See also

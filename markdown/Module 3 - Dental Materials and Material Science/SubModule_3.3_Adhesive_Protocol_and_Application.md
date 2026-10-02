@@ -169,6 +169,6 @@ This directly connects back to Module 1's polymerization-shrinkage-stress conten
 ## Source Textbooks (available in vault)
 
 - [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)
-- [[Applied Dental Materials (McCabe & Walls)|McCabe — Applied Dental Materials]]
-- [[Adhesive Techniques in Restorative Dentistry|Adhesive Techniques in Restorative Dentistry]]
+- [McCabe — Applied Dental Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/00_INDEX.md)
+- [Adhesive Techniques in Restorative Dentistry](../../textbooks/Conservative%20Dentistry/Adhesive_Techniques_in_Restorative_Dentistry_Niranjan_s_Mac_Chapterwise/00_INDEX.md)
 - [An Atlas of Glass-Ionomer Cements (Mount)](../../textbooks/Dental%20Materials/An_Atlas_of_Glass_Ionomer_Cements_Chapterwise_MD/00_INDEX.md)

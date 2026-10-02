@@ -140,4 +140,4 @@ Between the dentin mamelons and the outer enamel layer, a HIGHLY TRANSLUCENT com
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [[Modern Operative Dentistry Principles for Clinical Practice|Modern Operative Dentistry]]
+- [Modern Operative Dentistry](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/00_INDEX.md)

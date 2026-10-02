@@ -21,7 +21,7 @@
 - [M2 · 3.1: Clinical Examination](../Module%202%20-%20Endodontics/SubModule_3.1_Clinical_Examination.md) — 15 mentions
 - [M2 · 6.2: Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md) — 10 mentions
 
-## Textbook chapters (14 chapters across 10 books)
+## Textbook chapters (22 chapters across 15 books)
 
 ### Endodontics
 
@@ -34,6 +34,11 @@
 
 - [Endodontic–Periodontal Relationship Mehmet Omer Gorduysus 10.1](../../textbooks/Endodontics/Common_Complications_in_Endodontics_Chapterwise/10_10_Endodontic_Periodontal_Relationship_Mehmet_Omer_Gorduysus.md) (PDF pp.234-261)
 
+**Endodontic Radiology 2nd ed**
+
+- [Radiographic Analysis of Periodontal and Endodontic Lesions](../../textbooks/Endodontics/Endodontic_Radiology_2nd_ed_Chapterwise/11_11_Radiographic_Analysis_of_Periodontal_and_Endodontic_Lesio.md) (PDF pp.186-196)
+- [Healing of Chronic Apical Periodontitis](../../textbooks/Endodontics/Endodontic_Radiology_2nd_ed_Chapterwise/16_16_Healing_of_Chronic_Apical_Periodontitis.md) (PDF pp.271-288)
+
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Endodontic–Periodontic Interrelationship](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/20_Chapter_20_Endodontic_Periodontic_Interrelationship.md) (PDF pp.426-436)
@@ -41,6 +46,20 @@
 **Harty s Endodontics in Clinical Practice 7th ed**
 
 - [Marginal Periodontitis and the Dental Pulp](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md) (PDF pp.279-302)
+
+**Ingles Endodontics 7th**
+
+- [Endodontic–Periodontal Interrelationships](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/36_Chapter_36_Endodontic_Periodontal_Interrelationships.md) (PDF pp.962-979)
+
+**Oral Microbiology and Immunology**
+
+- [Periodontal Diseases: General Concepts](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/13_13_Periodontal_Diseases_General_Concepts.md) (PDF pp.316-337)
+- [Virulence Factors of Periodontal Bacteria](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/14_14_Virulence_Factors_of_Periodontal_Bacteria.md) (PDF pp.338-361)
+- [Immunopathogenic Mechanisms in Periodontal Disease](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/15_15_Immunopathogenic_Mechanisms_in_Periodontal_Disease.md) (PDF pp.362-387)
+
+**Principles and practice of endodontic 2002 compressed**
+
+- [Periodontal-Endodontic Considerations](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/26_Part_26_Periodontal_Endodontic_Considerations.md) (PDF pp.483-505)
 
 **Problem Solving in Endodontics James L Gutmann**
 
@@ -65,6 +84,10 @@
 - [The disease: clinical manifestations and pathophysiology of apical periodontitis](../../textbooks/Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/04_Chapter_4_The_disease_clinical_manifestations_and_pathophysi.md) (PDF pp.159-253)
 - [Management of posttreatment apical periodontitis: nonsurgical retreatment and periradicular surgery](../../textbooks/Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/17_Chapter_17_Management_of_posttreatment_apical_periodontitis_.md) (PDF pp.935-1013)
 
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Endodontic–Periodontal Relationship](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/34_34_Endodontic_Periodontal_Relationship.md) (PDF pp.609-617)
+
 **Weines Endodontics Full**
 
 - [Endodontic-Periodontal Problems](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/11_CHAPTER_11_Endodontic_Periodontal_Problems.md) (PDF pp.1310-1388)
@@ -74,9 +97,13 @@
 Books with chapters on this topic that the notes above do not cite:
 
 - Common Complications in Endodontics — Endodontic–Periodontal Relationship Mehmet Omer Go
+- Endodontic Radiology 2nd ed — Radiographic Analysis of Periodontal and Endodonti, Healing of Chronic Apical Periodontitis
+- Oral Microbiology and Immunology — Periodontal Diseases: General Concepts, Virulence Factors of Periodontal Bacteria
+- Principles and practice of endodontic 2002 compressed — Periodontal-Endodontic Considerations
 - Problem Solving in Endodontics James L Gutmann — Problem Solving in the Differential Diagnosis of B
 - Seltzer and Bender Dental Pulp — Interrelationship of the Pulp and Apical Periodont, Interrelationship of Pulpal and Periodontal Diseas
 - Surgical Endodontics A Colour Manual — ## Periodontal Considerations II
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Endodontic–Periodontal Relationship
 - Weines Endodontics Full — Endodontic-Periodontal Problems
 
 ## See also

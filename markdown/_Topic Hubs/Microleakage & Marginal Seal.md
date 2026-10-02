@@ -11,7 +11,20 @@
 
 - [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) — 23 mentions
 
-## Textbook chapters (3 chapters across 3 books)
+## Textbook chapters (6 chapters across 5 books)
+
+### Endodontics
+
+**Endodontology**
+
+- [Coronal Seal / Leakage](../../textbooks/Endodontics/Endodontology_Chapterwise/35_35_Coronal_Seal_Leakage.md) (PDF pp.271-276)
+
+### Conservative Dentistry
+
+**Textbook of Conservative and Restorative Dentistry**
+
+- [Microleakage](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/30_22_Microleakage.md) (PDF pp.454-469)
+- [Finishing and Polishing](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/31_23_Finishing_and_Polishing.md) (PDF pp.470-487)
 
 ### Dental Materials
 
@@ -31,6 +44,8 @@
 
 Books with chapters on this topic that the notes above do not cite:
 
+- Textbook of Conservative and Restorative Dentistry — Microleakage, Finishing and Polishing
 - Dental Materials Properties and Manipulation 10e — Finishing Polishing and Cleansing Materials
 - Philips Science of Dental Materials 12e — Materials and Processes for Cutting, Grinding, Fin
 - Science of Dental Materials — Cutting and Finishing Mechanics: Tools and Materia
+- Endodontology — Coronal Seal / Leakage

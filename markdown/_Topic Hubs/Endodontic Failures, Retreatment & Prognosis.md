@@ -33,7 +33,7 @@
 - [M2 · 7.3: Regenerative Endodontics](../Module%202%20-%20Endodontics/SubModule_7.3_Regenerative_Endodontics.md) — 23 mentions
 - [M2 · 4.7: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) — 21 mentions
 
-## Textbook chapters (24 chapters across 14 books)
+## Textbook chapters (38 chapters across 21 books)
 
 ### Endodontics
 
@@ -60,6 +60,26 @@
 - [Local, Systemic, and Genetic Considerations of Endodontic Treatment Prognosis](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/11_11_Local_Systemic_and_Genetic_Considerations_of_Endodontic_T.md) (PDF pp.200-217)
 - [Criteria for Outcome Assessment of Nonsurgical Endodontic Treatment](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/12_12_Criteria_for_Outcome_Assessment_of_Nonsurgical_Endodontic.md) (PDF pp.218-235)
 
+**Endodontic Radiology 2nd ed**
+
+- [Healing of Chronic Apical Periodontitis](../../textbooks/Endodontics/Endodontic_Radiology_2nd_ed_Chapterwise/16_16_Healing_of_Chronic_Apical_Periodontitis.md) (PDF pp.271-288)
+
+**Endodontics Kishor Gulabivala Yuan Ling Ng 4th Ed Mosby 2014**
+
+- [Biological and clinical rationale for root-canal treatment and management of its failure](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/03_3_Biological_and_clinical_rationale_for_root_canal_treatment.md) (PDF pp.52-101)
+- [Management of non-surgical root-canal treatment failure](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/09_9_Management_of_non_surgical_root_canal_treatment_failure.md) (PDF pp.246-272)
+
+**Endodontics Principles and Practice**
+
+- [Nonsurgical Retreatment](../../textbooks/Endodontics/Endodontics_Principles_and_Practice_Chapterwise/19_19_Nonsurgical_Retreatment.md) (PDF pp.412-434)
+- [Endodontic Treatment Outcomes](../../textbooks/Endodontics/Endodontics_Principles_and_Practice_Chapterwise/22_22_Endodontic_Treatment_Outcomes.md) (PDF pp.460-477)
+
+**Endodontology**
+
+- [Retreatment](../../textbooks/Endodontics/Endodontology_Chapterwise/15_15_Retreatment.md) (PDF pp.111-115)
+- [Endodontic Retreatment Procedures](../../textbooks/Endodontics/Endodontology_Chapterwise/39_39_Endodontic_Retreatment_Procedures.md) (PDF pp.292-317)
+- [Outcomes of Endodontic Treatment](../../textbooks/Endodontics/Endodontology_Chapterwise/50_50_Outcomes_of_Endodontic_Treatment.md) (PDF pp.392-396)
+
 **Grossman s Endodontic Practice 14th ed 1**
 
 - [Nonsurgical Endodontic Retreatment](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/21_Chapter_21_Nonsurgical_Endodontic_Retreatment.md) (PDF pp.437-450)
@@ -67,6 +87,17 @@
 **Guidelines for Surgical Endodontics**
 
 - [Outcomes of surgical endodontic intervention](../../textbooks/Endodontics/Guidelines_for_Surgical_Endodontics_Chapterwise/04_Outcomes_of_surgical_endodontic_intervention.md) (PDF pp.7-7)
+
+**Ingles Endodontics 7th**
+
+- [Endodontic Orthograde Retreatment and Management of Mishaps](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/23_Chapter_23_Endodontic_Orthograde_Retreatment_and_Management_.md) (PDF pp.644-707)
+- [Outcomes of Endodontic Therapy](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/33_Chapter_33_Outcomes_of_Endodontic_Therapy.md) (PDF pp.891-925)
+- [Achieving Long-Term Success with Endodontic Therapy](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/34_Chapter_34_Achieving_Long_Term_Success_with_Endodontic_Thera.md) (PDF pp.926-935)
+
+**Principles and practice of endodontic 2002 compressed**
+
+- [Evaluation of Success and Failure](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/19_Part_19_Evaluation_of_Success_and_Failure.md) (PDF pp.336-359)
+- [Orthograde Retreatment](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/20_Part_20_Orthograde_Retreatment.md) (PDF pp.360-383)
 
 **Problem Solving in Endodontics James L Gutmann**
 
@@ -99,6 +130,10 @@
 - [Management of posttreatment apical periodontitis: nonsurgical retreatment and periradicular surgery](../../textbooks/Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/17_Chapter_17_Management_of_posttreatment_apical_periodontitis_.md) (PDF pp.935-1013)
 - [Outcomes of endodontic therapy](../../textbooks/Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/20_Chapter_20_Outcomes_of_endodontic_therapy.md) (PDF pp.1106-1207)
 
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [Endodontic Failure and Retreatment](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/36_36_Endodontic_Failure_and_Retreatment.md) (PDF pp.624-641)
+
 **Weines Endodontics Full**
 
 - [Basis for Successful Endodontics](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/01_CHAPTER_1_Basis_for_Successful_Endodontics.md) (PDF pp.16-82)
@@ -109,9 +144,13 @@ Books with chapters on this topic that the notes above do not cite:
 
 - Common Complications in Endodontics — Mechanical Failure After Root Canal Shaping: Strat
 - Endodontic Irrigation Chemical disinfection of the root canal system — Disinfection in Nonsurgical Retreatment Cases
+- Endodontic Radiology 2nd ed — Healing of Chronic Apical Periodontitis
+- Endodontics Principles and Practice — Nonsurgical Retreatment, Endodontic Treatment Outcomes
+- Endodontology — Retreatment, Endodontic Retreatment Procedures
 - Guidelines for Surgical Endodontics — Outcomes of surgical endodontic intervention
 - Problem Solving in Endodontics James L Gutmann — Problem Solving in the Diagnosis of Treatment Fail
 - Surgical Endodontics A Colour Manual — ## Correction of Failure
+- Vimal K Sikri Essentials of Endodontics 2nd Ed — Endodontic Failure and Retreatment
 
 ## See also
 

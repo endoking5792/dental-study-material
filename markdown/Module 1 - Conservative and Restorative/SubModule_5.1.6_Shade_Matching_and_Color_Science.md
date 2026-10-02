@@ -167,6 +167,6 @@ For a FULL-ARCH OR SMILE-MAKEOVER case, by contrast, there is no longer a fixed 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [[Indirect Restorations in Dental Practice|Indirect Restorations in Dental Practice (Sikri)]]
+- [Indirect Restorations in Dental Practice (Sikri)](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/00_INDEX.md)
 - [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)
 - [Pickard's Manual of Operative Dentistry (9th)](../../textbooks/Conservative%20Dentistry/Pickards_Manual_of_Operative_Dentistry_9th_Chapterwise/00_INDEX.md)
