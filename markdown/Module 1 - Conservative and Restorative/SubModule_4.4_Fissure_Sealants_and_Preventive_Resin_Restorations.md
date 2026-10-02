@@ -105,18 +105,18 @@ A genuinely useful, real technique worth including directly for the specific cli
 <!-- related-notes -->
 ## Related Notes
 
-**Caries and Pulp Response** — hub: [[Dental Study Material/_Topic Hubs/Caries and Pulp Response|Caries and Pulp Response]]
+**Caries and Pulp Response** — hub: [Caries and Pulp Response](../_Topic%20Hubs/Caries%20and%20Pulp%20Response.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis|M1 1.1 Caries Etiology and Pathogenesis]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection|M1 1.2 Caries Diagnosis and Detection]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management|M1 1.3 Caries Risk Assessment and Management]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_2.2_Caries_Removal_Strategies|M1 2.2 Caries Removal Strategies]]
+- [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M1 1.1 Caries Etiology and Pathogenesis](SubModule_1.1_Caries_Etiology_and_Pathogenesis.md)
+- [M1 1.2 Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
+- [M1 1.3 Caries Risk Assessment and Management](SubModule_1.3_Caries_Risk_Assessment_and_Management.md)
+- [M1 2.2 Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
 
-**Isolation and Rubber Dam** — hub: [[Dental Study Material/_Topic Hubs/Isolation and Rubber Dam|Isolation and Rubber Dam]]
+**Isolation and Rubber Dam** — hub: [Isolation and Rubber Dam](../_Topic%20Hubs/Isolation%20and%20Rubber%20Dam.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.3_Adhesive_Protocol_and_Application|M3 3.3 Adhesive Protocol and Application]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_8.3_Isolation_and_Moisture_Control|M1 8.3 Isolation and Moisture Control]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]]
+- [M3 3.3 Adhesive Protocol and Application](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.3_Adhesive_Protocol_and_Application.md) *(other module)*
+- [M1 8.3 Isolation and Moisture Control](SubModule_8.3_Isolation_and_Moisture_Control.md)
+- [M1 4.1 Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
 

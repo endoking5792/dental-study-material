@@ -182,27 +182,27 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 <!-- related-notes -->
 ## Related Notes
 
-**Adhesion and Bonding** — hub: [[Dental Study Material/_Topic Hubs/Adhesion and Bonding|Adhesion and Bonding]]
+**Adhesion and Bonding** — hub: [Adhesion and Bonding](../_Topic%20Hubs/Adhesion%20and%20Bonding.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.1_Adhesion_Mechanisms|M3 3.1 Adhesion Mechanisms]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.2_Adhesive_System_Types|M3 3.2 Adhesive System Types]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.3_Adhesive_Protocol_and_Application|M3 3.3 Adhesive Protocol and Application]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth|M2 8.4 Restoration of the Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding|M1 3.2 Adhesive Systems and Bonding]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]]
+- [M3 3.1 Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 3.2 Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
+- [M3 3.3 Adhesive Protocol and Application](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.3_Adhesive_Protocol_and_Application.md) *(other module)*
+- [M2 8.4 Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 3.2 Adhesive Systems and Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
+- [M1 5.3 Indirect Restoration Preparation and Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
+- [M1 5.1.5 Post and Core Restorations](SubModule_5.1.5_Post_and_Core_Restorations.md)
 
-**Isolation and Rubber Dam** — hub: [[Dental Study Material/_Topic Hubs/Isolation and Rubber Dam|Isolation and Rubber Dam]]
+**Isolation and Rubber Dam** — hub: [Isolation and Rubber Dam](../_Topic%20Hubs/Isolation%20and%20Rubber%20Dam.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.3_Adhesive_Protocol_and_Application|M3 3.3 Adhesive Protocol and Application]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_8.3_Isolation_and_Moisture_Control|M1 8.3 Isolation and Moisture Control]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations|M1 4.4 Fissure Sealants and Preventive Resin Restorations]]
+- [M3 3.3 Adhesive Protocol and Application](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.3_Adhesive_Protocol_and_Application.md) *(other module)*
+- [M1 8.3 Isolation and Moisture Control](SubModule_8.3_Isolation_and_Moisture_Control.md)
+- [M1 4.4 Fissure Sealants and Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
 
-**Composite Resin and Polymers** — hub: [[Dental Study Material/_Topic Hubs/Composite Resin and Polymers|Composite Resin and Polymers]]
+**Composite Resin and Polymers** — hub: [Composite Resin and Polymers](../_Topic%20Hubs/Composite%20Resin%20and%20Polymers.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.3_Polymer_Materials|M3 2.3 Polymer Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols|M1 4.2a ClassI II Composite Protocols]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols|M1 4.2b ClassIII IV V Composite Protocols]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.3_Matrix_Systems_Contacts_and_Contours|M1 4.3 Matrix Systems Contacts and Contours]]
+- [M3 2.3 Polymer Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.3_Polymer_Materials.md) *(other module)*
+- [M1 3.1 Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
+- [M1 4.2a ClassI II Composite Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
+- [M1 4.2b ClassIII IV V Composite Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+- [M1 4.3 Matrix Systems Contacts and Contours](SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md)
 

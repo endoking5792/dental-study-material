@@ -109,19 +109,19 @@ Obturation quality is judged by the same criteria established in 4.5.1 — adequ
 <!-- related-notes -->
 ## Related Notes
 
-**Nonsurgical Retreatment** — hub: [[Dental Study Material/_Topic Hubs/Nonsurgical Retreatment|Nonsurgical Retreatment]]
+**Nonsurgical Retreatment** — hub: [Nonsurgical Retreatment](../_Topic%20Hubs/Nonsurgical%20Retreatment.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection|M2 5.1 Indications Contraindications Case Selection]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates|M2 8.1 Outcome Assessment Success Rates]]
+- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+- [M2 8.1 Outcome Assessment Success Rates](SubModule_8.1_Outcome_Assessment_Success_Rates.md)
 
-**MTA, Calcium Silicates and Bioceramics** — hub: [[Dental Study Material/_Topic Hubs/MTA, Calcium Silicates and Bioceramics|MTA, Calcium Silicates and Bioceramics]]
+**MTA, Calcium Silicates and Bioceramics** — hub: [MTA, Calcium Silicates and Bioceramics](../_Topic%20Hubs/MTA%2C%20Calcium%20Silicates%20and%20Bioceramics.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.3_Regenerative_Endodontics|M2 7.3 Regenerative Endodontics]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials|M2 5.4 Root End Preparation Retrograde Filling Materials]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 7.3 Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
+- [M2 5.4 Root End Preparation Retrograde Filling Materials](SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md)
+- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
 

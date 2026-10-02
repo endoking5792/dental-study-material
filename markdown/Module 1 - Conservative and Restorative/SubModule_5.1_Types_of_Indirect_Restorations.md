@@ -153,26 +153,26 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 <!-- related-notes -->
 ## Related Notes
 
-**Restoration of the Endodontically Treated Tooth** — hub: [[Dental Study Material/_Topic Hubs/Restoration of the Endodontically Treated Tooth|Restoration of the Endodontically Treated Tooth]]
+**Restoration of the Endodontically Treated Tooth** — hub: [Restoration of the Endodontically Treated Tooth](../_Topic%20Hubs/Restoration%20of%20the%20Endodontically%20Treated%20Tooth.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth|M2 8.4 Restoration of the Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_4.1_Cement_Types_and_Selection|M3 4.1 Cement Types and Selection]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases|M1 6.1 Large Restorations and Complex Cases]]
+- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 8.4 Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M3 4.1 Cement Types and Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
+- [M1 5.1.5 Post and Core Restorations](SubModule_5.1.5_Post_and_Core_Restorations.md)
+- [M1 6.1 Large Restorations and Complex Cases](SubModule_6.1_Large_Restorations_and_Complex_Cases.md)
 
-**Cements and Cementation** — hub: [[Dental Study Material/_Topic Hubs/Cements and Cementation|Cements and Cementation]]
+**Cements and Cementation** — hub: [Cements and Cementation](../_Topic%20Hubs/Cements%20and%20Cementation.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_4.1_Cement_Types_and_Selection|M3 4.1 Cement Types and Selection]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_4.2_Cementation_Protocol|M3 4.2 Cementation Protocol]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]]
+- [M3 4.1 Cement Types and Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
+- [M3 4.2 Cementation Protocol](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.2_Cementation_Protocol.md) *(other module)*
+- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 5.3 Indirect Restoration Preparation and Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
+- [M1 5.1.5 Post and Core Restorations](SubModule_5.1.5_Post_and_Core_Restorations.md)
 
-**Ceramics and Indirect Restorative Materials** — hub: [[Dental Study Material/_Topic Hubs/Ceramics and Indirect Restorative Materials|Ceramics and Indirect Restorative Materials]]
+**Ceramics and Indirect Restorative Materials** — hub: [Ceramics and Indirect Restorative Materials](../_Topic%20Hubs/Ceramics%20and%20Indirect%20Restorative%20Materials.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.2_Ceramics_and_Glass_Materials|M3 2.2 Ceramics and Glass Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.2_Indirect_Restoration_Materials|M1 5.2 Indirect Restoration Materials]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone|M1 6.2 Restoration of Esthetic Zone]]
+- [M3 2.2 Ceramics and Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M1 5.2 Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
+- [M1 5.3 Indirect Restoration Preparation and Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
+- [M1 6.2 Restoration of Esthetic Zone](SubModule_6.2_Restoration_of_Esthetic_Zone.md)
 

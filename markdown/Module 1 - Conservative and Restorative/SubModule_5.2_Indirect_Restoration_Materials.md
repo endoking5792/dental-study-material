@@ -231,17 +231,17 @@ A metal-ceramic restoration consists of a cast metallic framework veneered with 
 <!-- related-notes -->
 ## Related Notes
 
-**Ceramics and Indirect Restorative Materials** — hub: [[Dental Study Material/_Topic Hubs/Ceramics and Indirect Restorative Materials|Ceramics and Indirect Restorative Materials]]
+**Ceramics and Indirect Restorative Materials** — hub: [Ceramics and Indirect Restorative Materials](../_Topic%20Hubs/Ceramics%20and%20Indirect%20Restorative%20Materials.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.2_Ceramics_and_Glass_Materials|M3 2.2 Ceramics and Glass Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone|M1 6.2 Restoration of Esthetic Zone]]
+- [M3 2.2 Ceramics and Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M1 5.1 Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
+- [M1 5.3 Indirect Restoration Preparation and Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
+- [M1 6.2 Restoration of Esthetic Zone](SubModule_6.2_Restoration_of_Esthetic_Zone.md)
 
-**Metals, Alloys and Casting** — hub: [[Dental Study Material/_Topic Hubs/Metals, Alloys and Casting|Metals, Alloys and Casting]]
+**Metals, Alloys and Casting** — hub: [Metals, Alloys and Casting](../_Topic%20Hubs/Metals%2C%20Alloys%20and%20Casting.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.1_Metals_and_Alloys|M3 2.1 Metals and Alloys]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.1_Casting_Procedures_and_Defects|M3 8.1 Casting Procedures and Defects]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.6_Direct_Gold_Restorations|M1 6.6 Direct Gold Restorations]]
+- [M3 2.1 Metals and Alloys](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.1_Metals_and_Alloys.md) *(other module)*
+- [M3 8.1 Casting Procedures and Defects](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.1_Casting_Procedures_and_Defects.md) *(other module)*
+- [M1 5.1.5 Post and Core Restorations](SubModule_5.1.5_Post_and_Core_Restorations.md)
+- [M1 6.6 Direct Gold Restorations](SubModule_6.6_Direct_Gold_Restorations.md)
 

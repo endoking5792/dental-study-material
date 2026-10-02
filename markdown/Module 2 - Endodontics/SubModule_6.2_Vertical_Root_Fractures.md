@@ -47,19 +47,19 @@ A useful diagnostic summary from the same chapter is worth restating explicitly:
 <!-- related-notes -->
 ## Related Notes
 
-**Post, Core and Ferrule** — hub: [[Dental Study Material/_Topic Hubs/Post, Core and Ferrule|Post, Core and Ferrule]]
+**Post, Core and Ferrule** — hub: [Post, Core and Ferrule](../_Topic%20Hubs/Post%2C%20Core%20and%20Ferrule.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth|M2 8.4 Restoration of the Endodontically Treated Tooth]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 4.7 Restoration of Endodontically Treated Tooth](SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md)
+- [M2 8.4 Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
 
-**Cracks and Fractures of Teeth** — hub: [[Dental Study Material/_Topic Hubs/Cracks and Fractures of Teeth|Cracks and Fractures of Teeth]]
+**Cracks and Fractures of Teeth** — hub: [Cracks and Fractures of Teeth](../_Topic%20Hubs/Cracks%20and%20Fractures%20of%20Teeth.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases|M1 6.1 Large Restorations and Complex Cases]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.3_Mechanical_Properties|M3 1.3 Mechanical Properties]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures|M2 6.5 Crown Originating Dental Fractures]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.1_Traumatic_Dental_Injuries|M2 6.1 Traumatic Dental Injuries]]
+- [M1 6.1 Large Restorations and Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
+- [M1 6.3 Restoration Longevity and Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
+- [M2 6.5 Crown Originating Dental Fractures](SubModule_6.5_Crown_Originating_Dental_Fractures.md)
+- [M2 6.1 Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
 

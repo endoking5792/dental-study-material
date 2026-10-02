@@ -107,18 +107,18 @@ Surgical endodontics is not a recent development — root amputation was first d
 <!-- related-notes -->
 ## Related Notes
 
-**Nonsurgical Retreatment** — hub: [[Dental Study Material/_Topic Hubs/Nonsurgical Retreatment|Nonsurgical Retreatment]]
+**Nonsurgical Retreatment** — hub: [Nonsurgical Retreatment](../_Topic%20Hubs/Nonsurgical%20Retreatment.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates|M2 8.1 Outcome Assessment Success Rates]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.5_Obturation_of_Root_Canals|M2 4.5 Obturation of Root Canals]]
+- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 8.1 Outcome Assessment Success Rates](SubModule_8.1_Outcome_Assessment_Success_Rates.md)
+- [M2 4.5 Obturation of Root Canals](SubModule_4.5_Obturation_of_Root_Canals.md)
 
-**Root Perforation and Repair** — hub: [[Dental Study Material/_Topic Hubs/Root Perforation and Repair|Root Perforation and Repair]]
+**Root Perforation and Repair** — hub: [Root Perforation and Repair](../_Topic%20Hubs/Root%20Perforation%20and%20Repair.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.5_Other_Surgical_Procedures|M2 5.5 Other Surgical Procedures]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.1_Access_Cavity_Preparation|M2 4.1 Access Cavity Preparation]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.6_Surgical_Complications_Management|M2 5.6 Surgical Complications Management]]
+- [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 4.1 Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
+- [M2 5.6 Surgical Complications Management](SubModule_5.6_Surgical_Complications_Management.md)
 

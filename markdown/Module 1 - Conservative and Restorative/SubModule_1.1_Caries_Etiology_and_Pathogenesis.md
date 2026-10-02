@@ -191,19 +191,19 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 <!-- related-notes -->
 ## Related Notes
 
-**Caries and Pulp Response** — hub: [[Dental Study Material/_Topic Hubs/Caries and Pulp Response|Caries and Pulp Response]]
+**Caries and Pulp Response** — hub: [Caries and Pulp Response](../_Topic%20Hubs/Caries%20and%20Pulp%20Response.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection|M1 1.2 Caries Diagnosis and Detection]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management|M1 1.3 Caries Risk Assessment and Management]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_2.2_Caries_Removal_Strategies|M1 2.2 Caries Removal Strategies]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations|M1 4.4 Fissure Sealants and Preventive Resin Restorations]]
+- [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M1 1.2 Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
+- [M1 1.3 Caries Risk Assessment and Management](SubModule_1.3_Caries_Risk_Assessment_and_Management.md)
+- [M1 2.2 Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+- [M1 4.4 Fissure Sealants and Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
 
-**Dentin and Pulp Biology** — hub: [[Dental Study Material/_Topic Hubs/Dentin and Pulp Biology|Dentin and Pulp Biology]]
+**Dentin and Pulp Biology** — hub: [Dentin and Pulp Biology](../_Topic%20Hubs/Dentin%20and%20Pulp%20Biology.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology|M2 1.1-1.3 Pulp Dentin Complex Biology]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.1_Adhesion_Mechanisms|M3 3.1 Adhesion Mechanisms]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss|M1 6.4 Non Carious Tooth Structure Loss]]
+- [M2 1.1-1.3 Pulp Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M3 3.1 Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
+- [M1 6.4 Non Carious Tooth Structure Loss](SubModule_6.4_Non_Carious_Tooth_Structure_Loss.md)
 

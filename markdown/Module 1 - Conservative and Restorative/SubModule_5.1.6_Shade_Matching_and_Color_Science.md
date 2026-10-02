@@ -139,9 +139,9 @@ For a FULL-ARCH OR SMILE-MAKEOVER case, by contrast, there is no longer a fixed 
 <!-- related-notes -->
 ## Related Notes
 
-**Esthetics, Shade and Color** — hub: [[Dental Study Material/_Topic Hubs/Esthetics, Shade and Color|Esthetics, Shade and Color]]
+**Esthetics, Shade and Color** — hub: [Esthetics, Shade and Color](../_Topic%20Hubs/Esthetics%2C%20Shade%20and%20Color.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching|M2 6.7 Non Vital Tooth Bleaching]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone|M1 6.2 Restoration of Esthetic Zone]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.5_Natural_Tooth_Bleaching|M1 6.5 Natural Tooth Bleaching]]
+- [M2 6.7 Non Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md) *(other module)*
+- [M1 6.2 Restoration of Esthetic Zone](SubModule_6.2_Restoration_of_Esthetic_Zone.md)
+- [M1 6.5 Natural Tooth Bleaching](SubModule_6.5_Natural_Tooth_Bleaching.md)
 

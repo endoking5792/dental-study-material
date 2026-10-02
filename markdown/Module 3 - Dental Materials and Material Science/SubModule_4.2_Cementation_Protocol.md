@@ -111,11 +111,11 @@ A real, complete clinical sequence for adhesive cementation of a resin-bonded br
 <!-- related-notes -->
 ## Related Notes
 
-**Cements and Cementation** — hub: [[Dental Study Material/_Topic Hubs/Cements and Cementation|Cements and Cementation]]
+**Cements and Cementation** — hub: [Cements and Cementation](../_Topic%20Hubs/Cements%20and%20Cementation.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_4.1_Cement_Types_and_Selection|M3 4.1 Cement Types and Selection]]
+- [M1 5.3 Indirect Restoration Preparation and Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 5.1 Types of Indirect Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1_Types_of_Indirect_Restorations.md) *(other module)*
+- [M3 4.1 Cement Types and Selection](SubModule_4.1_Cement_Types_and_Selection.md)
 

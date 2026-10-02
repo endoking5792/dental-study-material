@@ -35,14 +35,14 @@ Restoration of the intracoronally bleached tooth carries its own endodontic-spec
 <!-- related-notes -->
 ## Related Notes
 
-**Tooth Bleaching** — hub: [[Dental Study Material/_Topic Hubs/Tooth Bleaching|Tooth Bleaching]]
+**Tooth Bleaching** — hub: [Tooth Bleaching](../_Topic%20Hubs/Tooth%20Bleaching.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.5_Natural_Tooth_Bleaching|M1 6.5 Natural Tooth Bleaching]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss|M1 6.4 Non Carious Tooth Structure Loss]] *(other module)*
+- [M1 6.5 Natural Tooth Bleaching](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.5_Natural_Tooth_Bleaching.md) *(other module)*
+- [M1 6.4 Non Carious Tooth Structure Loss](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss.md) *(other module)*
 
-**Esthetics, Shade and Color** — hub: [[Dental Study Material/_Topic Hubs/Esthetics, Shade and Color|Esthetics, Shade and Color]]
+**Esthetics, Shade and Color** — hub: [Esthetics, Shade and Color](../_Topic%20Hubs/Esthetics%2C%20Shade%20and%20Color.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.6_Shade_Matching_and_Color_Science|M1 5.1.6 Shade Matching and Color Science]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone|M1 6.2 Restoration of Esthetic Zone]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.5_Natural_Tooth_Bleaching|M1 6.5 Natural Tooth Bleaching]] *(other module)*
+- [M1 5.1.6 Shade Matching and Color Science](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.6_Shade_Matching_and_Color_Science.md) *(other module)*
+- [M1 6.2 Restoration of Esthetic Zone](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone.md) *(other module)*
+- [M1 6.5 Natural Tooth Bleaching](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.5_Natural_Tooth_Bleaching.md) *(other module)*
 

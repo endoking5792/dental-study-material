@@ -87,16 +87,16 @@ Between the dentin mamelons and the outer enamel layer, a HIGHLY TRANSLUCENT com
 <!-- related-notes -->
 ## Related Notes
 
-**Ceramics and Indirect Restorative Materials** — hub: [[Dental Study Material/_Topic Hubs/Ceramics and Indirect Restorative Materials|Ceramics and Indirect Restorative Materials]]
+**Ceramics and Indirect Restorative Materials** — hub: [Ceramics and Indirect Restorative Materials](../_Topic%20Hubs/Ceramics%20and%20Indirect%20Restorative%20Materials.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.2_Ceramics_and_Glass_Materials|M3 2.2 Ceramics and Glass Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.2_Indirect_Restoration_Materials|M1 5.2 Indirect Restoration Materials]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]]
+- [M3 2.2 Ceramics and Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M1 5.2 Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
+- [M1 5.1 Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
+- [M1 5.3 Indirect Restoration Preparation and Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
 
-**Esthetics, Shade and Color** — hub: [[Dental Study Material/_Topic Hubs/Esthetics, Shade and Color|Esthetics, Shade and Color]]
+**Esthetics, Shade and Color** — hub: [Esthetics, Shade and Color](../_Topic%20Hubs/Esthetics%2C%20Shade%20and%20Color.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching|M2 6.7 Non Vital Tooth Bleaching]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.6_Shade_Matching_and_Color_Science|M1 5.1.6 Shade Matching and Color Science]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.5_Natural_Tooth_Bleaching|M1 6.5 Natural Tooth Bleaching]]
+- [M2 6.7 Non Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md) *(other module)*
+- [M1 5.1.6 Shade Matching and Color Science](SubModule_5.1.6_Shade_Matching_and_Color_Science.md)
+- [M1 6.5 Natural Tooth Bleaching](SubModule_6.5_Natural_Tooth_Bleaching.md)
 

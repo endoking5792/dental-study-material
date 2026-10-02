@@ -292,19 +292,19 @@ For bonding resin-based composite or compomer over MTA that has already set for 
 <!-- related-notes -->
 ## Related Notes
 
-**Restoration of the Endodontically Treated Tooth** — hub: [[Dental Study Material/_Topic Hubs/Restoration of the Endodontically Treated Tooth|Restoration of the Endodontically Treated Tooth]]
+**Restoration of the Endodontically Treated Tooth** — hub: [Restoration of the Endodontically Treated Tooth](../_Topic%20Hubs/Restoration%20of%20the%20Endodontically%20Treated%20Tooth.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth|M2 8.4 Restoration of the Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases|M1 6.1 Large Restorations and Complex Cases]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]] *(other module)*
+- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 8.4 Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M1 6.1 Large Restorations and Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
+- [M1 5.1 Types of Indirect Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1_Types_of_Indirect_Restorations.md) *(other module)*
 
-**Cements and Cementation** — hub: [[Dental Study Material/_Topic Hubs/Cements and Cementation|Cements and Cementation]]
+**Cements and Cementation** — hub: [Cements and Cementation](../_Topic%20Hubs/Cements%20and%20Cementation.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_4.2_Cementation_Protocol|M3 4.2 Cementation Protocol]]
+- [M1 5.3 Indirect Restoration Preparation and Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 5.1 Types of Indirect Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1_Types_of_Indirect_Restorations.md) *(other module)*
+- [M3 4.2 Cementation Protocol](SubModule_4.2_Cementation_Protocol.md)
 

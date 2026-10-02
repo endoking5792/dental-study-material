@@ -241,18 +241,18 @@ PCO is worth distinguishing explicitly from ordinary age-related canal narrowing
 <!-- related-notes -->
 ## Related Notes
 
-**Pulp Protection, Liners and Pulp Capping** — hub: [[Dental Study Material/_Topic Hubs/Pulp Protection, Liners and Pulp Capping|Pulp Protection, Liners and Pulp Capping]]
+**Pulp Protection, Liners and Pulp Capping** — hub: [Pulp Protection, Liners and Pulp Capping](../_Topic%20Hubs/Pulp%20Protection%2C%20Liners%20and%20Pulp%20Capping.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.1_Biocompatibility_Assessment|M3 5.1 Biocompatibility Assessment]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_2.2_Caries_Removal_Strategies|M1 2.2 Caries Removal Strategies]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]]
+- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M3 5.1 Biocompatibility Assessment](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.1_Biocompatibility_Assessment.md) *(other module)*
+- [M1 2.2 Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
 
-**Dentin and Pulp Biology** — hub: [[Dental Study Material/_Topic Hubs/Dentin and Pulp Biology|Dentin and Pulp Biology]]
+**Dentin and Pulp Biology** — hub: [Dentin and Pulp Biology](../_Topic%20Hubs/Dentin%20and%20Pulp%20Biology.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis|M1 1.1 Caries Etiology and Pathogenesis]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.1_Adhesion_Mechanisms|M3 3.1 Adhesion Mechanisms]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss|M1 6.4 Non Carious Tooth Structure Loss]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]]
+- [M1 1.1 Caries Etiology and Pathogenesis](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis.md) *(other module)*
+- [M3 3.1 Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M1 6.4 Non Carious Tooth Structure Loss](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss.md) *(other module)*
+- [M2 2.1 Pulpal Diseases and Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
 

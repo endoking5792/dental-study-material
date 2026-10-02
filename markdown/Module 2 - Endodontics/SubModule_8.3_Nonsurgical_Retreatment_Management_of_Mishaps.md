@@ -105,35 +105,35 @@ Mineral trioxide aggregate (MTA) is identified as the material that resolved the
 <!-- related-notes -->
 ## Related Notes
 
-**Post, Core and Ferrule** — hub: [[Dental Study Material/_Topic Hubs/Post, Core and Ferrule|Post, Core and Ferrule]]
+**Post, Core and Ferrule** — hub: [Post, Core and Ferrule](../_Topic%20Hubs/Post%2C%20Core%20and%20Ferrule.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth|M2 8.4 Restoration of the Endodontically Treated Tooth]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.2_Vertical_Root_Fractures|M2 6.2 Vertical Root Fractures]]
+- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 4.7 Restoration of Endodontically Treated Tooth](SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md)
+- [M2 8.4 Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 6.2 Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
 
-**Nonsurgical Retreatment** — hub: [[Dental Study Material/_Topic Hubs/Nonsurgical Retreatment|Nonsurgical Retreatment]]
+**Nonsurgical Retreatment** — hub: [Nonsurgical Retreatment](../_Topic%20Hubs/Nonsurgical%20Retreatment.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection|M2 5.1 Indications Contraindications Case Selection]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates|M2 8.1 Outcome Assessment Success Rates]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.5_Obturation_of_Root_Canals|M2 4.5 Obturation of Root Canals]]
+- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+- [M2 8.1 Outcome Assessment Success Rates](SubModule_8.1_Outcome_Assessment_Success_Rates.md)
+- [M2 4.5 Obturation of Root Canals](SubModule_4.5_Obturation_of_Root_Canals.md)
 
-**MTA, Calcium Silicates and Bioceramics** — hub: [[Dental Study Material/_Topic Hubs/MTA, Calcium Silicates and Bioceramics|MTA, Calcium Silicates and Bioceramics]]
+**MTA, Calcium Silicates and Bioceramics** — hub: [MTA, Calcium Silicates and Bioceramics](../_Topic%20Hubs/MTA%2C%20Calcium%20Silicates%20and%20Bioceramics.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.3_Regenerative_Endodontics|M2 7.3 Regenerative Endodontics]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials|M2 5.4 Root End Preparation Retrograde Filling Materials]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.5_Obturation_of_Root_Canals|M2 4.5 Obturation of Root Canals]]
+- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 7.3 Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
+- [M2 5.4 Root End Preparation Retrograde Filling Materials](SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md)
+- [M2 4.5 Obturation of Root Canals](SubModule_4.5_Obturation_of_Root_Canals.md)
 
-**Root Perforation and Repair** — hub: [[Dental Study Material/_Topic Hubs/Root Perforation and Repair|Root Perforation and Repair]]
+**Root Perforation and Repair** — hub: [Root Perforation and Repair](../_Topic%20Hubs/Root%20Perforation%20and%20Repair.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.5_Other_Surgical_Procedures|M2 5.5 Other Surgical Procedures]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.1_Access_Cavity_Preparation|M2 4.1 Access Cavity Preparation]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.6_Surgical_Complications_Management|M2 5.6 Surgical Complications Management]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection|M2 5.1 Indications Contraindications Case Selection]]
+- [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 4.1 Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
+- [M2 5.6 Surgical Complications Management](SubModule_5.6_Surgical_Complications_Management.md)
+- [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
 

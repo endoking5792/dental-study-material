@@ -55,29 +55,29 @@ This chapter's historical framing is itself informative: post-retained crown res
 <!-- related-notes -->
 ## Related Notes
 
-**Restoration of the Endodontically Treated Tooth** — hub: [[Dental Study Material/_Topic Hubs/Restoration of the Endodontically Treated Tooth|Restoration of the Endodontically Treated Tooth]]
+**Restoration of the Endodontically Treated Tooth** — hub: [Restoration of the Endodontically Treated Tooth](../_Topic%20Hubs/Restoration%20of%20the%20Endodontically%20Treated%20Tooth.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases|M1 6.1 Large Restorations and Complex Cases]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_4.1_Cement_Types_and_Selection|M3 4.1 Cement Types and Selection]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]]
+- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M1 6.1 Large Restorations and Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
+- [M1 5.1 Types of Indirect Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1_Types_of_Indirect_Restorations.md) *(other module)*
+- [M3 4.1 Cement Types and Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
+- [M2 4.7 Restoration of Endodontically Treated Tooth](SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md)
 
-**Post, Core and Ferrule** — hub: [[Dental Study Material/_Topic Hubs/Post, Core and Ferrule|Post, Core and Ferrule]]
+**Post, Core and Ferrule** — hub: [Post, Core and Ferrule](../_Topic%20Hubs/Post%2C%20Core%20and%20Ferrule.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.2_Vertical_Root_Fractures|M2 6.2 Vertical Root Fractures]]
+- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 4.7 Restoration of Endodontically Treated Tooth](SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md)
+- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 6.2 Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
 
-**Adhesion and Bonding** — hub: [[Dental Study Material/_Topic Hubs/Adhesion and Bonding|Adhesion and Bonding]]
+**Adhesion and Bonding** — hub: [Adhesion and Bonding](../_Topic%20Hubs/Adhesion%20and%20Bonding.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.1_Adhesion_Mechanisms|M3 3.1 Adhesion Mechanisms]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.2_Adhesive_System_Types|M3 3.2 Adhesive System Types]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.3_Adhesive_Protocol_and_Application|M3 3.3 Adhesive Protocol and Application]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding|M1 3.2 Adhesive Systems and Bonding]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
+- [M3 3.1 Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 3.2 Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
+- [M3 3.3 Adhesive Protocol and Application](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.3_Adhesive_Protocol_and_Application.md) *(other module)*
+- [M1 3.2 Adhesive Systems and Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M1 4.1 Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M1 5.3 Indirect Restoration Preparation and Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
 

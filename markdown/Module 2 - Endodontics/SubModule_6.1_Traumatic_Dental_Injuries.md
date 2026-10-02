@@ -113,11 +113,11 @@ Whether to extract teeth located directly in a jaw-fracture line remains a genui
 <!-- related-notes -->
 ## Related Notes
 
-**Cracks and Fractures of Teeth** — hub: [[Dental Study Material/_Topic Hubs/Cracks and Fractures of Teeth|Cracks and Fractures of Teeth]]
+**Cracks and Fractures of Teeth** — hub: [Cracks and Fractures of Teeth](../_Topic%20Hubs/Cracks%20and%20Fractures%20of%20Teeth.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases|M1 6.1 Large Restorations and Complex Cases]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.3_Mechanical_Properties|M3 1.3 Mechanical Properties]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.2_Vertical_Root_Fractures|M2 6.2 Vertical Root Fractures]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures|M2 6.5 Crown Originating Dental Fractures]]
+- [M1 6.1 Large Restorations and Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
+- [M1 6.3 Restoration Longevity and Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
+- [M2 6.2 Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
+- [M2 6.5 Crown Originating Dental Fractures](SubModule_6.5_Crown_Originating_Dental_Fractures.md)
 

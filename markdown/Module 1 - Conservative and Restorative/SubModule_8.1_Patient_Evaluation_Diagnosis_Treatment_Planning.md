@@ -105,17 +105,17 @@ Pickard's states the real justification directly and specifically, worth using a
 <!-- related-notes -->
 ## Related Notes
 
-**Diagnosis and Treatment Planning** — hub: [[Dental Study Material/_Topic Hubs/Diagnosis and Treatment Planning|Diagnosis and Treatment Planning]]
+**Diagnosis and Treatment Planning** — hub: [Diagnosis and Treatment Planning](../_Topic%20Hubs/Diagnosis%20and%20Treatment%20Planning.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.1_Clinical_Examination|M2 3.1 Clinical Examination]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.3_Diagnostic_Decision_Making|M2 3.3 Diagnostic Decision Making]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.4_Treatment_Planning|M2 3.4 Treatment Planning]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.5_Medically_Complex_Patient|M2 3.5 Medically Complex Patient]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.2_Radiographic_Examination|M2 3.2 Radiographic Examination]] *(other module)*
+- [M2 3.1 Clinical Examination](../Module%202%20-%20Endodontics/SubModule_3.1_Clinical_Examination.md) *(other module)*
+- [M2 3.3 Diagnostic Decision Making](../Module%202%20-%20Endodontics/SubModule_3.3_Diagnostic_Decision_Making.md) *(other module)*
+- [M2 3.4 Treatment Planning](../Module%202%20-%20Endodontics/SubModule_3.4_Treatment_Planning.md) *(other module)*
+- [M2 3.5 Medically Complex Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md) *(other module)*
+- [M2 3.2 Radiographic Examination](../Module%202%20-%20Endodontics/SubModule_3.2_Radiographic_Examination.md) *(other module)*
 
-**Pain, Anesthesia and Anxiety** — hub: [[Dental Study Material/_Topic Hubs/Pain, Anesthesia and Anxiety|Pain, Anesthesia and Anxiety]]
+**Pain, Anesthesia and Anxiety** — hub: [Pain, Anesthesia and Anxiety](../_Topic%20Hubs/Pain%2C%20Anesthesia%20and%20Anxiety.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.6_Pain_Fear_Anxiety_Management|M2 3.6 Pain Fear Anxiety Management]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.5_Medically_Complex_Patient|M2 3.5 Medically Complex Patient]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]] *(other module)*
+- [M2 3.6 Pain Fear Anxiety Management](../Module%202%20-%20Endodontics/SubModule_3.6_Pain_Fear_Anxiety_Management.md) *(other module)*
+- [M2 3.5 Medically Complex Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md) *(other module)*
+- [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
 

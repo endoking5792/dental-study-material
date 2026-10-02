@@ -65,12 +65,12 @@ For COMPOSITE, Sub-Module 7.1 already establishes the real mechanism (unreacted 
 <!-- related-notes -->
 ## Related Notes
 
-**Restoration Failure and Longevity** — hub: [[Dental Study Material/_Topic Hubs/Restoration Failure and Longevity|Restoration Failure and Longevity]]
+**Restoration Failure and Longevity** — hub: [Restoration Failure and Longevity](../_Topic%20Hubs/Restoration%20Failure%20and%20Longevity.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates|M2 8.1 Outcome Assessment Success Rates]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.2_Prognostic_Factors_Long_Term_Success|M2 8.2 Prognostic Factors Long Term Success]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics|M2 5.7 Outcomes Prognosis Surgical Endodontics]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis|M3 6.2 Cost Effectiveness and Longevity Analysis]]
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.1_Material_Degradation_Mechanisms|M3 7.1 Material Degradation Mechanisms]]
+- [M1 6.3 Restoration Longevity and Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 8.1 Outcome Assessment Success Rates](../Module%202%20-%20Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates.md) *(other module)*
+- [M2 8.2 Prognostic Factors Long Term Success](../Module%202%20-%20Endodontics/SubModule_8.2_Prognostic_Factors_Long_Term_Success.md) *(other module)*
+- [M2 5.7 Outcomes Prognosis Surgical Endodontics](../Module%202%20-%20Endodontics/SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md) *(other module)*
+- [M3 6.2 Cost Effectiveness and Longevity Analysis](SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis.md)
+- [M3 7.1 Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
 

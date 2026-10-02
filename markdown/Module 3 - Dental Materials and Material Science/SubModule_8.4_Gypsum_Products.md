@@ -115,10 +115,10 @@ A real, practical, and genuinely material-specific finding directly relevant to 
 <!-- related-notes -->
 ## Related Notes
 
-**Impressions, Gypsum and Waxes** — hub: [[Dental Study Material/_Topic Hubs/Impressions, Gypsum and Waxes|Impressions, Gypsum and Waxes]]
+**Impressions, Gypsum and Waxes** — hub: [Impressions, Gypsum and Waxes](../_Topic%20Hubs/Impressions%2C%20Gypsum%20and%20Waxes.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.3_Impression_Materials|M3 8.3 Impression Materials]]
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.5_Dental_Waxes|M3 8.5 Dental Waxes]]
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.1_Casting_Procedures_and_Defects|M3 8.1 Casting Procedures and Defects]]
+- [M1 5.3 Indirect Restoration Preparation and Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M3 8.3 Impression Materials](SubModule_8.3_Impression_Materials.md)
+- [M3 8.5 Dental Waxes](SubModule_8.5_Dental_Waxes.md)
+- [M3 8.1 Casting Procedures and Defects](SubModule_8.1_Casting_Procedures_and_Defects.md)
 

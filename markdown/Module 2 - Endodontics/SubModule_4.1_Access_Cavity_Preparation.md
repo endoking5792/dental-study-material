@@ -109,11 +109,11 @@ Taurodontism — a short-rooted tooth with a much larger than normal pulp chambe
 <!-- related-notes -->
 ## Related Notes
 
-**Root Perforation and Repair** — hub: [[Dental Study Material/_Topic Hubs/Root Perforation and Repair|Root Perforation and Repair]]
+**Root Perforation and Repair** — hub: [Root Perforation and Repair](../_Topic%20Hubs/Root%20Perforation%20and%20Repair.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.5_Other_Surgical_Procedures|M2 5.5 Other Surgical Procedures]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.6_Surgical_Complications_Management|M2 5.6 Surgical Complications Management]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection|M2 5.1 Indications Contraindications Case Selection]]
+- [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 5.6 Surgical Complications Management](SubModule_5.6_Surgical_Complications_Management.md)
+- [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
 

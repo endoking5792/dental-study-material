@@ -57,10 +57,10 @@ Cohesion between two pieces of direct gold occurs ONLY through direct, intimate 
 <!-- related-notes -->
 ## Related Notes
 
-**Metals, Alloys and Casting** — hub: [[Dental Study Material/_Topic Hubs/Metals, Alloys and Casting|Metals, Alloys and Casting]]
+**Metals, Alloys and Casting** — hub: [Metals, Alloys and Casting](../_Topic%20Hubs/Metals%2C%20Alloys%20and%20Casting.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.1_Metals_and_Alloys|M3 2.1 Metals and Alloys]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.1_Casting_Procedures_and_Defects|M3 8.1 Casting Procedures and Defects]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.2_Indirect_Restoration_Materials|M1 5.2 Indirect Restoration Materials]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]]
+- [M3 2.1 Metals and Alloys](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.1_Metals_and_Alloys.md) *(other module)*
+- [M3 8.1 Casting Procedures and Defects](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.1_Casting_Procedures_and_Defects.md) *(other module)*
+- [M1 5.2 Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
+- [M1 5.1.5 Post and Core Restorations](SubModule_5.1.5_Post_and_Core_Restorations.md)
 

@@ -71,20 +71,20 @@ Two further clinical findings are worth flagging as genuinely practical rather t
 <!-- related-notes -->
 ## Related Notes
 
-**MTA, Calcium Silicates and Bioceramics** — hub: [[Dental Study Material/_Topic Hubs/MTA, Calcium Silicates and Bioceramics|MTA, Calcium Silicates and Bioceramics]]
+**MTA, Calcium Silicates and Bioceramics** — hub: [MTA, Calcium Silicates and Bioceramics](../_Topic%20Hubs/MTA%2C%20Calcium%20Silicates%20and%20Bioceramics.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.3_Regenerative_Endodontics|M2 7.3 Regenerative Endodontics]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.5_Obturation_of_Root_Canals|M2 4.5 Obturation of Root Canals]]
+- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 7.3 Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
+- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 4.5 Obturation of Root Canals](SubModule_4.5_Obturation_of_Root_Canals.md)
 
-**Dental Amalgam** — hub: [[Dental Study Material/_Topic Hubs/Dental Amalgam|Dental Amalgam]]
+**Dental Amalgam** — hub: [Dental Amalgam](../_Topic%20Hubs/Dental%20Amalgam.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.2_Dental_Amalgam|M3 8.2 Dental Amalgam]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.1_Material_Selection_Criteria|M3 6.1 Material Selection Criteria]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.1_Material_Degradation_Mechanisms|M3 7.1 Material Degradation Mechanisms]] *(other module)*
+- [M3 8.2 Dental Amalgam](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.2_Dental_Amalgam.md) *(other module)*
+- [M1 3.1 Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 6.3 Restoration Longevity and Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M3 6.1 Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md) *(other module)*
+- [M3 7.1 Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
 

@@ -201,10 +201,10 @@ Because of the silver content, cermet has the same radiopacity as amalgam, but a
 <!-- related-notes -->
 ## Related Notes
 
-**Ceramics and Indirect Restorative Materials** — hub: [[Dental Study Material/_Topic Hubs/Ceramics and Indirect Restorative Materials|Ceramics and Indirect Restorative Materials]]
+**Ceramics and Indirect Restorative Materials** — hub: [Ceramics and Indirect Restorative Materials](../_Topic%20Hubs/Ceramics%20and%20Indirect%20Restorative%20Materials.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.2_Indirect_Restoration_Materials|M1 5.2 Indirect Restoration Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone|M1 6.2 Restoration of Esthetic Zone]] *(other module)*
+- [M1 5.2 Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
+- [M1 5.1 Types of Indirect Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1_Types_of_Indirect_Restorations.md) *(other module)*
+- [M1 5.3 Indirect Restoration Preparation and Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M1 6.2 Restoration of Esthetic Zone](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone.md) *(other module)*
 

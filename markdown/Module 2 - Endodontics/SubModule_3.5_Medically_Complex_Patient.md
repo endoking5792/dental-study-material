@@ -63,17 +63,17 @@ The laboratory values most directly relevant to safe endodontic treatment planni
 <!-- related-notes -->
 ## Related Notes
 
-**Diagnosis and Treatment Planning** — hub: [[Dental Study Material/_Topic Hubs/Diagnosis and Treatment Planning|Diagnosis and Treatment Planning]]
+**Diagnosis and Treatment Planning** — hub: [Diagnosis and Treatment Planning](../_Topic%20Hubs/Diagnosis%20and%20Treatment%20Planning.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning|M1 8.1 Patient Evaluation Diagnosis Treatment Planning]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.1_Clinical_Examination|M2 3.1 Clinical Examination]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.3_Diagnostic_Decision_Making|M2 3.3 Diagnostic Decision Making]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.4_Treatment_Planning|M2 3.4 Treatment Planning]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.2_Radiographic_Examination|M2 3.2 Radiographic Examination]]
+- [M1 8.1 Patient Evaluation Diagnosis Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 3.1 Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+- [M2 3.3 Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
+- [M2 3.4 Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 3.2 Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
 
-**Pain, Anesthesia and Anxiety** — hub: [[Dental Study Material/_Topic Hubs/Pain, Anesthesia and Anxiety|Pain, Anesthesia and Anxiety]]
+**Pain, Anesthesia and Anxiety** — hub: [Pain, Anesthesia and Anxiety](../_Topic%20Hubs/Pain%2C%20Anesthesia%20and%20Anxiety.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning|M1 8.1 Patient Evaluation Diagnosis Treatment Planning]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.6_Pain_Fear_Anxiety_Management|M2 3.6 Pain Fear Anxiety Management]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]]
+- [M1 8.1 Patient Evaluation Diagnosis Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 3.6 Pain Fear Anxiety Management](SubModule_3.6_Pain_Fear_Anxiety_Management.md)
+- [M2 2.1 Pulpal Diseases and Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
 

@@ -75,9 +75,9 @@ Stated directly and without overstatement in either direction: relative isolatio
 <!-- related-notes -->
 ## Related Notes
 
-**Isolation and Rubber Dam** — hub: [[Dental Study Material/_Topic Hubs/Isolation and Rubber Dam|Isolation and Rubber Dam]]
+**Isolation and Rubber Dam** — hub: [Isolation and Rubber Dam](../_Topic%20Hubs/Isolation%20and%20Rubber%20Dam.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.3_Adhesive_Protocol_and_Application|M3 3.3 Adhesive Protocol and Application]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations|M1 4.4 Fissure Sealants and Preventive Resin Restorations]]
+- [M3 3.3 Adhesive Protocol and Application](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.3_Adhesive_Protocol_and_Application.md) *(other module)*
+- [M1 4.1 Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 4.4 Fissure Sealants and Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
 

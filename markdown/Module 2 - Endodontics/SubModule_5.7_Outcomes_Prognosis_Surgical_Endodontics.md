@@ -87,12 +87,12 @@ Taken together, the outcome evidence for modern endodontic microsurgery supports
 <!-- related-notes -->
 ## Related Notes
 
-**Restoration Failure and Longevity** — hub: [[Dental Study Material/_Topic Hubs/Restoration Failure and Longevity|Restoration Failure and Longevity]]
+**Restoration Failure and Longevity** — hub: [Restoration Failure and Longevity](../_Topic%20Hubs/Restoration%20Failure%20and%20Longevity.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis|M3 6.2 Cost Effectiveness and Longevity Analysis]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.1_Material_Degradation_Mechanisms|M3 7.1 Material Degradation Mechanisms]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance|M3 7.2 Clinical Monitoring and Maintenance]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates|M2 8.1 Outcome Assessment Success Rates]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.2_Prognostic_Factors_Long_Term_Success|M2 8.2 Prognostic Factors Long Term Success]]
+- [M1 6.3 Restoration Longevity and Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M3 6.2 Cost Effectiveness and Longevity Analysis](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis.md) *(other module)*
+- [M3 7.1 Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 7.2 Clinical Monitoring and Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M2 8.1 Outcome Assessment Success Rates](SubModule_8.1_Outcome_Assessment_Success_Rates.md)
+- [M2 8.2 Prognostic Factors Long Term Success](SubModule_8.2_Prognostic_Factors_Long_Term_Success.md)
 

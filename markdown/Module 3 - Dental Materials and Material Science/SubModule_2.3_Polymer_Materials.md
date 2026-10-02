@@ -160,11 +160,11 @@ Both preformed-shell approaches share the same two structural limitations: a pre
 <!-- related-notes -->
 ## Related Notes
 
-**Composite Resin and Polymers** — hub: [[Dental Study Material/_Topic Hubs/Composite Resin and Polymers|Composite Resin and Polymers]]
+**Composite Resin and Polymers** — hub: [Composite Resin and Polymers](../_Topic%20Hubs/Composite%20Resin%20and%20Polymers.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols|M1 4.2a ClassI II Composite Protocols]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols|M1 4.2b ClassIII IV V Composite Protocols]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.3_Matrix_Systems_Contacts_and_Contours|M1 4.3 Matrix Systems Contacts and Contours]] *(other module)*
+- [M1 3.1 Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 4.1 Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M1 4.2a ClassI II Composite Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols.md) *(other module)*
+- [M1 4.2b ClassIII IV V Composite Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md) *(other module)*
+- [M1 4.3 Matrix Systems Contacts and Contours](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md) *(other module)*
 

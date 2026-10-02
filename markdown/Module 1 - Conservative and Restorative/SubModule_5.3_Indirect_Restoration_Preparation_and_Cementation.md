@@ -139,35 +139,35 @@ Ceramic restorations are weak and fragile, so non-adhesive cements (e.g. plain z
 <!-- related-notes -->
 ## Related Notes
 
-**Adhesion and Bonding** — hub: [[Dental Study Material/_Topic Hubs/Adhesion and Bonding|Adhesion and Bonding]]
+**Adhesion and Bonding** — hub: [Adhesion and Bonding](../_Topic%20Hubs/Adhesion%20and%20Bonding.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.1_Adhesion_Mechanisms|M3 3.1 Adhesion Mechanisms]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.2_Adhesive_System_Types|M3 3.2 Adhesive System Types]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.3_Adhesive_Protocol_and_Application|M3 3.3 Adhesive Protocol and Application]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth|M2 8.4 Restoration of the Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding|M1 3.2 Adhesive Systems and Bonding]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]]
+- [M3 3.1 Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 3.2 Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
+- [M3 3.3 Adhesive Protocol and Application](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.3_Adhesive_Protocol_and_Application.md) *(other module)*
+- [M2 8.4 Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 3.2 Adhesive Systems and Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
+- [M1 4.1 Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 5.1.5 Post and Core Restorations](SubModule_5.1.5_Post_and_Core_Restorations.md)
 
-**Cements and Cementation** — hub: [[Dental Study Material/_Topic Hubs/Cements and Cementation|Cements and Cementation]]
+**Cements and Cementation** — hub: [Cements and Cementation](../_Topic%20Hubs/Cements%20and%20Cementation.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_4.1_Cement_Types_and_Selection|M3 4.1 Cement Types and Selection]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_4.2_Cementation_Protocol|M3 4.2 Cementation Protocol]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]]
+- [M3 4.1 Cement Types and Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
+- [M3 4.2 Cementation Protocol](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.2_Cementation_Protocol.md) *(other module)*
+- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 5.1.5 Post and Core Restorations](SubModule_5.1.5_Post_and_Core_Restorations.md)
+- [M1 5.1 Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
 
-**Ceramics and Indirect Restorative Materials** — hub: [[Dental Study Material/_Topic Hubs/Ceramics and Indirect Restorative Materials|Ceramics and Indirect Restorative Materials]]
+**Ceramics and Indirect Restorative Materials** — hub: [Ceramics and Indirect Restorative Materials](../_Topic%20Hubs/Ceramics%20and%20Indirect%20Restorative%20Materials.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.2_Ceramics_and_Glass_Materials|M3 2.2 Ceramics and Glass Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.2_Indirect_Restoration_Materials|M1 5.2 Indirect Restoration Materials]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone|M1 6.2 Restoration of Esthetic Zone]]
+- [M3 2.2 Ceramics and Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M1 5.2 Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
+- [M1 5.1 Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
+- [M1 6.2 Restoration of Esthetic Zone](SubModule_6.2_Restoration_of_Esthetic_Zone.md)
 
-**Impressions, Gypsum and Waxes** — hub: [[Dental Study Material/_Topic Hubs/Impressions, Gypsum and Waxes|Impressions, Gypsum and Waxes]]
+**Impressions, Gypsum and Waxes** — hub: [Impressions, Gypsum and Waxes](../_Topic%20Hubs/Impressions%2C%20Gypsum%20and%20Waxes.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.3_Impression_Materials|M3 8.3 Impression Materials]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.4_Gypsum_Products|M3 8.4 Gypsum Products]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.5_Dental_Waxes|M3 8.5 Dental Waxes]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.1_Casting_Procedures_and_Defects|M3 8.1 Casting Procedures and Defects]] *(other module)*
+- [M3 8.3 Impression Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.3_Impression_Materials.md) *(other module)*
+- [M3 8.4 Gypsum Products](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.4_Gypsum_Products.md) *(other module)*
+- [M3 8.5 Dental Waxes](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.5_Dental_Waxes.md) *(other module)*
+- [M3 8.1 Casting Procedures and Defects](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.1_Casting_Procedures_and_Defects.md) *(other module)*
 

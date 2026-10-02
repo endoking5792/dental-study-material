@@ -330,26 +330,26 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 <!-- related-notes -->
 ## Related Notes
 
-**Dental Amalgam** — hub: [[Dental Study Material/_Topic Hubs/Dental Amalgam|Dental Amalgam]]
+**Dental Amalgam** — hub: [Dental Amalgam](../_Topic%20Hubs/Dental%20Amalgam.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.2_Dental_Amalgam|M3 8.2 Dental Amalgam]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials|M2 5.4 Root End Preparation Retrograde Filling Materials]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.1_Material_Selection_Criteria|M3 6.1 Material Selection Criteria]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.1_Material_Degradation_Mechanisms|M3 7.1 Material Degradation Mechanisms]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]]
+- [M3 8.2 Dental Amalgam](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.2_Dental_Amalgam.md) *(other module)*
+- [M2 5.4 Root End Preparation Retrograde Filling Materials](../Module%202%20-%20Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md) *(other module)*
+- [M3 6.1 Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md) *(other module)*
+- [M3 7.1 Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M1 6.3 Restoration Longevity and Failure Patterns](SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md)
 
-**Composite Resin and Polymers** — hub: [[Dental Study Material/_Topic Hubs/Composite Resin and Polymers|Composite Resin and Polymers]]
+**Composite Resin and Polymers** — hub: [Composite Resin and Polymers](../_Topic%20Hubs/Composite%20Resin%20and%20Polymers.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.3_Polymer_Materials|M3 2.3 Polymer Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols|M1 4.2a ClassI II Composite Protocols]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols|M1 4.2b ClassIII IV V Composite Protocols]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.3_Matrix_Systems_Contacts_and_Contours|M1 4.3 Matrix Systems Contacts and Contours]]
+- [M3 2.3 Polymer Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.3_Polymer_Materials.md) *(other module)*
+- [M1 4.1 Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 4.2a ClassI II Composite Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
+- [M1 4.2b ClassIII IV V Composite Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+- [M1 4.3 Matrix Systems Contacts and Contours](SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md)
 
-**Material Properties and Selection** — hub: [[Dental Study Material/_Topic Hubs/Material Properties and Selection|Material Properties and Selection]]
+**Material Properties and Selection** — hub: [Material Properties and Selection](../_Topic%20Hubs/Material%20Properties%20and%20Selection.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.1_Atomic_and_Molecular_Structure|M3 1.1 Atomic and Molecular Structure]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.2_Physical_Properties|M3 1.2 Physical Properties]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.3_Mechanical_Properties|M3 1.3 Mechanical Properties]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.1_Material_Selection_Criteria|M3 6.1 Material Selection Criteria]] *(other module)*
+- [M3 1.1 Atomic and Molecular Structure](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.1_Atomic_and_Molecular_Structure.md) *(other module)*
+- [M3 1.2 Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) *(other module)*
+- [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
+- [M3 6.1 Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md) *(other module)*
 

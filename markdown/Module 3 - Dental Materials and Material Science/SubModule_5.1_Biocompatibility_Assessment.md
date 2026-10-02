@@ -131,18 +131,18 @@ Reported frequencies of POSITIVE patch-test responses to common dental allergen 
 <!-- related-notes -->
 ## Related Notes
 
-**Pulp Protection, Liners and Pulp Capping** — hub: [[Dental Study Material/_Topic Hubs/Pulp Protection, Liners and Pulp Capping|Pulp Protection, Liners and Pulp Capping]]
+**Pulp Protection, Liners and Pulp Capping** — hub: [Pulp Protection, Liners and Pulp Capping](../_Topic%20Hubs/Pulp%20Protection%2C%20Liners%20and%20Pulp%20Capping.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_2.2_Caries_Removal_Strategies|M1 2.2 Caries Removal Strategies]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology|M2 1.1-1.3 Pulp Dentin Complex Biology]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]]
+- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M1 2.2 Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M2 1.1-1.3 Pulp Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M3 5.2 Bioactive Materials](SubModule_5.2_Bioactive_Materials.md)
 
-**Biocompatibility and Bioactivity** — hub: [[Dental Study Material/_Topic Hubs/Biocompatibility and Bioactivity|Biocompatibility and Bioactivity]]
+**Biocompatibility and Bioactivity** — hub: [Biocompatibility and Bioactivity](../_Topic%20Hubs/Biocompatibility%20and%20Bioactivity.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.3_Regenerative_Endodontics|M2 7.3 Regenerative Endodontics]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]]
+- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M2 7.3 Regenerative Endodontics](../Module%202%20-%20Endodontics/SubModule_7.3_Regenerative_Endodontics.md) *(other module)*
+- [M3 5.2 Bioactive Materials](SubModule_5.2_Bioactive_Materials.md)
 

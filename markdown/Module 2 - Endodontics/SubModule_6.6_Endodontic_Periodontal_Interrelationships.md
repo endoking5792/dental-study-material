@@ -61,9 +61,9 @@ Cohen's Ch.25 reinforces this same sequencing logic from an independent authorsh
 <!-- related-notes -->
 ## Related Notes
 
-**Endodontic-Periodontal and Orthodontic Relationships** — hub: [[Dental Study Material/_Topic Hubs/Endodontic-Periodontal and Orthodontic Relationships|Endodontic-Periodontal and Orthodontic Relationships]]
+**Endodontic-Periodontal and Orthodontic Relationships** — hub: [Endodontic-Periodontal and Orthodontic Relationships](../_Topic%20Hubs/Endodontic-Periodontal%20and%20Orthodontic%20Relationships.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.9_Endodontic_Orthodontic_Relationships|M2 6.9 Endodontic Orthodontic Relationships]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.2_Periapical_Diseases_and_Apical_Pathology|M2 2.2 Periapical Diseases and Apical Pathology]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.5_Other_Surgical_Procedures|M2 5.5 Other Surgical Procedures]]
+- [M2 6.9 Endodontic Orthodontic Relationships](SubModule_6.9_Endodontic_Orthodontic_Relationships.md)
+- [M2 2.2 Periapical Diseases and Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
+- [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
 

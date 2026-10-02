@@ -85,9 +85,9 @@ The safety case against reflexive opioid use is just as direct as the efficacy c
 <!-- related-notes -->
 ## Related Notes
 
-**Pain, Anesthesia and Anxiety** — hub: [[Dental Study Material/_Topic Hubs/Pain, Anesthesia and Anxiety|Pain, Anesthesia and Anxiety]]
+**Pain, Anesthesia and Anxiety** — hub: [Pain, Anesthesia and Anxiety](../_Topic%20Hubs/Pain%2C%20Anesthesia%20and%20Anxiety.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning|M1 8.1 Patient Evaluation Diagnosis Treatment Planning]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.5_Medically_Complex_Patient|M2 3.5 Medically Complex Patient]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]]
+- [M1 8.1 Patient Evaluation Diagnosis Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 3.5 Medically Complex Patient](SubModule_3.5_Medically_Complex_Patient.md)
+- [M2 2.1 Pulpal Diseases and Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
 

@@ -169,17 +169,17 @@ Surface contamination of a gold-alloy restoration by mercury — for example, fr
 <!-- related-notes -->
 ## Related Notes
 
-**Metals, Alloys and Casting** — hub: [[Dental Study Material/_Topic Hubs/Metals, Alloys and Casting|Metals, Alloys and Casting]]
+**Metals, Alloys and Casting** — hub: [Metals, Alloys and Casting](../_Topic%20Hubs/Metals%2C%20Alloys%20and%20Casting.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.2_Indirect_Restoration_Materials|M1 5.2 Indirect Restoration Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.6_Direct_Gold_Restorations|M1 6.6 Direct Gold Restorations]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.1_Metals_and_Alloys|M3 2.1 Metals and Alloys]]
+- [M1 5.2 Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
+- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M1 6.6 Direct Gold Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.6_Direct_Gold_Restorations.md) *(other module)*
+- [M3 2.1 Metals and Alloys](SubModule_2.1_Metals_and_Alloys.md)
 
-**Impressions, Gypsum and Waxes** — hub: [[Dental Study Material/_Topic Hubs/Impressions, Gypsum and Waxes|Impressions, Gypsum and Waxes]]
+**Impressions, Gypsum and Waxes** — hub: [Impressions, Gypsum and Waxes](../_Topic%20Hubs/Impressions%2C%20Gypsum%20and%20Waxes.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.3_Impression_Materials|M3 8.3 Impression Materials]]
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.4_Gypsum_Products|M3 8.4 Gypsum Products]]
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.5_Dental_Waxes|M3 8.5 Dental Waxes]]
+- [M1 5.3 Indirect Restoration Preparation and Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M3 8.3 Impression Materials](SubModule_8.3_Impression_Materials.md)
+- [M3 8.4 Gypsum Products](SubModule_8.4_Gypsum_Products.md)
+- [M3 8.5 Dental Waxes](SubModule_8.5_Dental_Waxes.md)
 

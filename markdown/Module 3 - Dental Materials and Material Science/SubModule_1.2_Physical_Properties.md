@@ -187,10 +187,10 @@ Wettability (Section above) has a direct, quantifiable clinical application in p
 <!-- related-notes -->
 ## Related Notes
 
-**Material Properties and Selection** — hub: [[Dental Study Material/_Topic Hubs/Material Properties and Selection|Material Properties and Selection]]
+**Material Properties and Selection** — hub: [Material Properties and Selection](../_Topic%20Hubs/Material%20Properties%20and%20Selection.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.1_Atomic_and_Molecular_Structure|M3 1.1 Atomic and Molecular Structure]]
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.3_Mechanical_Properties|M3 1.3 Mechanical Properties]]
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.1_Material_Selection_Criteria|M3 6.1 Material Selection Criteria]]
+- [M1 3.1 Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M3 1.1 Atomic and Molecular Structure](SubModule_1.1_Atomic_and_Molecular_Structure.md)
+- [M3 1.3 Mechanical Properties](SubModule_1.3_Mechanical_Properties.md)
+- [M3 6.1 Material Selection Criteria](SubModule_6.1_Material_Selection_Criteria.md)
 

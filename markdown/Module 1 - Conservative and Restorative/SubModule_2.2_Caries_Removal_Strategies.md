@@ -282,20 +282,20 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 <!-- related-notes -->
 ## Related Notes
 
-**Pulp Protection, Liners and Pulp Capping** — hub: [[Dental Study Material/_Topic Hubs/Pulp Protection, Liners and Pulp Capping|Pulp Protection, Liners and Pulp Capping]]
+**Pulp Protection, Liners and Pulp Capping** — hub: [Pulp Protection, Liners and Pulp Capping](../_Topic%20Hubs/Pulp%20Protection%2C%20Liners%20and%20Pulp%20Capping.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.1_Biocompatibility_Assessment|M3 5.1 Biocompatibility Assessment]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology|M2 1.1-1.3 Pulp Dentin Complex Biology]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]]
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M3 5.1 Biocompatibility Assessment](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.1_Biocompatibility_Assessment.md) *(other module)*
+- [M2 1.1-1.3 Pulp Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M1 3.3 Liners Bases and Pulp Protection Materials](SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md)
 
-**Caries and Pulp Response** — hub: [[Dental Study Material/_Topic Hubs/Caries and Pulp Response|Caries and Pulp Response]]
+**Caries and Pulp Response** — hub: [Caries and Pulp Response](../_Topic%20Hubs/Caries%20and%20Pulp%20Response.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis|M1 1.1 Caries Etiology and Pathogenesis]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection|M1 1.2 Caries Diagnosis and Detection]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management|M1 1.3 Caries Risk Assessment and Management]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations|M1 4.4 Fissure Sealants and Preventive Resin Restorations]]
+- [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M1 1.1 Caries Etiology and Pathogenesis](SubModule_1.1_Caries_Etiology_and_Pathogenesis.md)
+- [M1 1.2 Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
+- [M1 1.3 Caries Risk Assessment and Management](SubModule_1.3_Caries_Risk_Assessment_and_Management.md)
+- [M1 4.4 Fissure Sealants and Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
 

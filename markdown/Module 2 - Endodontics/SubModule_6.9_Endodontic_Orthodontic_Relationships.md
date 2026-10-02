@@ -51,9 +51,9 @@ For a tooth already undergoing ankylosis-driven replacement resorption (Sub-Modu
 <!-- related-notes -->
 ## Related Notes
 
-**Endodontic-Periodontal and Orthodontic Relationships** — hub: [[Dental Study Material/_Topic Hubs/Endodontic-Periodontal and Orthodontic Relationships|Endodontic-Periodontal and Orthodontic Relationships]]
+**Endodontic-Periodontal and Orthodontic Relationships** — hub: [Endodontic-Periodontal and Orthodontic Relationships](../_Topic%20Hubs/Endodontic-Periodontal%20and%20Orthodontic%20Relationships.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.6_Endodontic_Periodontal_Interrelationships|M2 6.6 Endodontic Periodontal Interrelationships]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.2_Periapical_Diseases_and_Apical_Pathology|M2 2.2 Periapical Diseases and Apical Pathology]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.5_Other_Surgical_Procedures|M2 5.5 Other Surgical Procedures]]
+- [M2 6.6 Endodontic Periodontal Interrelationships](SubModule_6.6_Endodontic_Periodontal_Interrelationships.md)
+- [M2 2.2 Periapical Diseases and Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
+- [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
 

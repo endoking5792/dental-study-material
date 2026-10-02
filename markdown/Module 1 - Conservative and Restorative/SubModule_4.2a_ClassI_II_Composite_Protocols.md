@@ -117,11 +117,11 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 <!-- related-notes -->
 ## Related Notes
 
-**Composite Resin and Polymers** — hub: [[Dental Study Material/_Topic Hubs/Composite Resin and Polymers|Composite Resin and Polymers]]
+**Composite Resin and Polymers** — hub: [Composite Resin and Polymers](../_Topic%20Hubs/Composite%20Resin%20and%20Polymers.md)
 
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.3_Polymer_Materials|M3 2.3 Polymer Materials]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols|M1 4.2b ClassIII IV V Composite Protocols]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.3_Matrix_Systems_Contacts_and_Contours|M1 4.3 Matrix Systems Contacts and Contours]]
+- [M3 2.3 Polymer Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.3_Polymer_Materials.md) *(other module)*
+- [M1 3.1 Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
+- [M1 4.1 Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 4.2b ClassIII IV V Composite Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+- [M1 4.3 Matrix Systems Contacts and Contours](SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md)
 

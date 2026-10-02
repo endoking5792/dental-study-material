@@ -75,11 +75,11 @@ The test cavity — cutting an unanesthetized cavity into the tooth purely to se
 <!-- related-notes -->
 ## Related Notes
 
-**Diagnosis and Treatment Planning** — hub: [[Dental Study Material/_Topic Hubs/Diagnosis and Treatment Planning|Diagnosis and Treatment Planning]]
+**Diagnosis and Treatment Planning** — hub: [Diagnosis and Treatment Planning](../_Topic%20Hubs/Diagnosis%20and%20Treatment%20Planning.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning|M1 8.1 Patient Evaluation Diagnosis Treatment Planning]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.3_Diagnostic_Decision_Making|M2 3.3 Diagnostic Decision Making]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.4_Treatment_Planning|M2 3.4 Treatment Planning]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.5_Medically_Complex_Patient|M2 3.5 Medically Complex Patient]]
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.2_Radiographic_Examination|M2 3.2 Radiographic Examination]]
+- [M1 8.1 Patient Evaluation Diagnosis Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 3.3 Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
+- [M2 3.4 Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 3.5 Medically Complex Patient](SubModule_3.5_Medically_Complex_Patient.md)
+- [M2 3.2 Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
 

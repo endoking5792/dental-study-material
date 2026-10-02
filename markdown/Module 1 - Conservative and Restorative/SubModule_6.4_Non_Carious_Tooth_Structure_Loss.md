@@ -151,15 +151,15 @@ Cross-reference Sub-Module 6.5 (Natural Tooth Bleaching) directly for the full t
 <!-- related-notes -->
 ## Related Notes
 
-**Tooth Bleaching** — hub: [[Dental Study Material/_Topic Hubs/Tooth Bleaching|Tooth Bleaching]]
+**Tooth Bleaching** — hub: [Tooth Bleaching](../_Topic%20Hubs/Tooth%20Bleaching.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching|M2 6.7 Non Vital Tooth Bleaching]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.5_Natural_Tooth_Bleaching|M1 6.5 Natural Tooth Bleaching]]
+- [M2 6.7 Non Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md) *(other module)*
+- [M1 6.5 Natural Tooth Bleaching](SubModule_6.5_Natural_Tooth_Bleaching.md)
 
-**Dentin and Pulp Biology** — hub: [[Dental Study Material/_Topic Hubs/Dentin and Pulp Biology|Dentin and Pulp Biology]]
+**Dentin and Pulp Biology** — hub: [Dentin and Pulp Biology](../_Topic%20Hubs/Dentin%20and%20Pulp%20Biology.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology|M2 1.1-1.3 Pulp Dentin Complex Biology]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.1_Adhesion_Mechanisms|M3 3.1 Adhesion Mechanisms]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis|M1 1.1 Caries Etiology and Pathogenesis]]
+- [M2 1.1-1.3 Pulp Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M3 3.1 Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
+- [M1 1.1 Caries Etiology and Pathogenesis](SubModule_1.1_Caries_Etiology_and_Pathogenesis.md)
 

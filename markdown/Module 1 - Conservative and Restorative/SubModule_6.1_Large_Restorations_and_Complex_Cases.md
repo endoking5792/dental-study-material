@@ -109,19 +109,19 @@ A real, historically honest note worth including: the original Nayyar core was d
 <!-- related-notes -->
 ## Related Notes
 
-**Restoration of the Endodontically Treated Tooth** — hub: [[Dental Study Material/_Topic Hubs/Restoration of the Endodontically Treated Tooth|Restoration of the Endodontically Treated Tooth]]
+**Restoration of the Endodontically Treated Tooth** — hub: [Restoration of the Endodontically Treated Tooth](../_Topic%20Hubs/Restoration%20of%20the%20Endodontically%20Treated%20Tooth.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth|M2 8.4 Restoration of the Endodontically Treated Tooth]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_4.1_Cement_Types_and_Selection|M3 4.1 Cement Types and Selection]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]]
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]]
+- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 8.4 Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M3 4.1 Cement Types and Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
+- [M1 5.1.5 Post and Core Restorations](SubModule_5.1.5_Post_and_Core_Restorations.md)
+- [M1 5.1 Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
 
-**Cracks and Fractures of Teeth** — hub: [[Dental Study Material/_Topic Hubs/Cracks and Fractures of Teeth|Cracks and Fractures of Teeth]]
+**Cracks and Fractures of Teeth** — hub: [Cracks and Fractures of Teeth](../_Topic%20Hubs/Cracks%20and%20Fractures%20of%20Teeth.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.2_Vertical_Root_Fractures|M2 6.2 Vertical Root Fractures]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures|M2 6.5 Crown Originating Dental Fractures]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.1_Traumatic_Dental_Injuries|M2 6.1 Traumatic Dental Injuries]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.3_Mechanical_Properties|M3 1.3 Mechanical Properties]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]]
+- [M2 6.2 Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md) *(other module)*
+- [M2 6.5 Crown Originating Dental Fractures](../Module%202%20-%20Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures.md) *(other module)*
+- [M2 6.1 Traumatic Dental Injuries](../Module%202%20-%20Endodontics/SubModule_6.1_Traumatic_Dental_Injuries.md) *(other module)*
+- [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
+- [M1 6.3 Restoration Longevity and Failure Patterns](SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md)
 

@@ -133,27 +133,27 @@ Incorporating 30wt% of fine (under 10μm) 45S5 bioactive glass particles into a 
 <!-- related-notes -->
 ## Related Notes
 
-**Pulp Protection, Liners and Pulp Capping** — hub: [[Dental Study Material/_Topic Hubs/Pulp Protection, Liners and Pulp Capping|Pulp Protection, Liners and Pulp Capping]]
+**Pulp Protection, Liners and Pulp Capping** — hub: [Pulp Protection, Liners and Pulp Capping](../_Topic%20Hubs/Pulp%20Protection%2C%20Liners%20and%20Pulp%20Capping.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_2.2_Caries_Removal_Strategies|M1 2.2 Caries Removal Strategies]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology|M2 1.1-1.3 Pulp Dentin Complex Biology]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.1_Biocompatibility_Assessment|M3 5.1 Biocompatibility Assessment]]
+- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M1 2.2 Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M2 1.1-1.3 Pulp Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M3 5.1 Biocompatibility Assessment](SubModule_5.1_Biocompatibility_Assessment.md)
 
-**MTA, Calcium Silicates and Bioceramics** — hub: [[Dental Study Material/_Topic Hubs/MTA, Calcium Silicates and Bioceramics|MTA, Calcium Silicates and Bioceramics]]
+**MTA, Calcium Silicates and Bioceramics** — hub: [MTA, Calcium Silicates and Bioceramics](../_Topic%20Hubs/MTA%2C%20Calcium%20Silicates%20and%20Bioceramics.md)
 
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.3_Regenerative_Endodontics|M2 7.3 Regenerative Endodontics]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials|M2 5.4 Root End Preparation Retrograde Filling Materials]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]] *(other module)*
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.5_Obturation_of_Root_Canals|M2 4.5 Obturation of Root Canals]] *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M2 7.3 Regenerative Endodontics](../Module%202%20-%20Endodontics/SubModule_7.3_Regenerative_Endodontics.md) *(other module)*
+- [M2 5.4 Root End Preparation Retrograde Filling Materials](../Module%202%20-%20Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md) *(other module)*
+- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 4.5 Obturation of Root Canals](../Module%202%20-%20Endodontics/SubModule_4.5_Obturation_of_Root_Canals.md) *(other module)*
 
-**Biocompatibility and Bioactivity** — hub: [[Dental Study Material/_Topic Hubs/Biocompatibility and Bioactivity|Biocompatibility and Bioactivity]]
+**Biocompatibility and Bioactivity** — hub: [Biocompatibility and Bioactivity](../_Topic%20Hubs/Biocompatibility%20and%20Bioactivity.md)
 
-- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
-- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.3_Regenerative_Endodontics|M2 7.3 Regenerative Endodontics]] *(other module)*
-- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.1_Biocompatibility_Assessment|M3 5.1 Biocompatibility Assessment]]
+- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M2 7.3 Regenerative Endodontics](../Module%202%20-%20Endodontics/SubModule_7.3_Regenerative_Endodontics.md) *(other module)*
+- [M3 5.1 Biocompatibility Assessment](SubModule_5.1_Biocompatibility_Assessment.md)
 
