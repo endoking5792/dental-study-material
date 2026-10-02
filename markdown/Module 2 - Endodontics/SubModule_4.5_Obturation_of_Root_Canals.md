@@ -105,3 +105,23 @@ Obturation quality is judged by the same criteria established in 4.5.1 — adequ
 [7] Berman LH, Hargreaves KM, et al. Harty's Endodontics in Clinical Practice, 7th ed. Edinburgh: Elsevier; 2021.
 
 [8] Pameijer CH, Zmener O. Resin Materials for Root Canal Obturation. Dent Clin North Am 2010;54(2):325-344.
+
+<!-- related-notes -->
+## Related Notes
+
+**Nonsurgical Retreatment** — hub: [[Dental Study Material/_Topic Hubs/Nonsurgical Retreatment|Nonsurgical Retreatment]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection|M2 5.1 Indications Contraindications Case Selection]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates|M2 8.1 Outcome Assessment Success Rates]]
+
+**MTA, Calcium Silicates and Bioceramics** — hub: [[Dental Study Material/_Topic Hubs/MTA, Calcium Silicates and Bioceramics|MTA, Calcium Silicates and Bioceramics]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.3_Regenerative_Endodontics|M2 7.3 Regenerative Endodontics]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials|M2 5.4 Root End Preparation Retrograde Filling Materials]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+

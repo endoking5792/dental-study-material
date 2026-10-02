@@ -326,3 +326,30 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 5. Overton JD, Summitt JB, Osborne JW. Amalgam Restorations. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry. 4th ed. Chicago: Quintessence Publishing. p.650-651; Cakir-Ustun D, Lawson NC, Burgess JO. Fluoride-Releasing Materials. In: ibid. p.753-754, 758-759.
 
 6. Bhat VS, Nandish BT, Jayaprakash K. Science of Dental Materials with Clinical Applications. 3rd ed. New Delhi: CBS Publishers & Distributors.
+
+<!-- related-notes -->
+## Related Notes
+
+**Dental Amalgam** — hub: [[Dental Study Material/_Topic Hubs/Dental Amalgam|Dental Amalgam]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.2_Dental_Amalgam|M3 8.2 Dental Amalgam]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials|M2 5.4 Root End Preparation Retrograde Filling Materials]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.1_Material_Selection_Criteria|M3 6.1 Material Selection Criteria]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.1_Material_Degradation_Mechanisms|M3 7.1 Material Degradation Mechanisms]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]]
+
+**Composite Resin and Polymers** — hub: [[Dental Study Material/_Topic Hubs/Composite Resin and Polymers|Composite Resin and Polymers]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.3_Polymer_Materials|M3 2.3 Polymer Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols|M1 4.2a ClassI II Composite Protocols]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols|M1 4.2b ClassIII IV V Composite Protocols]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.3_Matrix_Systems_Contacts_and_Contours|M1 4.3 Matrix Systems Contacts and Contours]]
+
+**Material Properties and Selection** — hub: [[Dental Study Material/_Topic Hubs/Material Properties and Selection|Material Properties and Selection]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.1_Atomic_and_Molecular_Structure|M3 1.1 Atomic and Molecular Structure]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.2_Physical_Properties|M3 1.2 Physical Properties]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.3_Mechanical_Properties|M3 1.3 Mechanical Properties]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.1_Material_Selection_Criteria|M3 6.1 Material Selection Criteria]] *(other module)*
+

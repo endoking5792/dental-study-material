@@ -113,3 +113,15 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 2. Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Chapter 15, “Composite Restoration on Posterior Teeth,” p.586-588.
 
 3. Summitt JB, et al. Class 1 and Class 2 Resin Composite Restorations. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry. 4th ed. Chicago: Quintessence Publishing. p.589-591.
+
+<!-- related-notes -->
+## Related Notes
+
+**Composite Resin and Polymers** — hub: [[Dental Study Material/_Topic Hubs/Composite Resin and Polymers|Composite Resin and Polymers]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.3_Polymer_Materials|M3 2.3 Polymer Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols|M1 4.2b ClassIII IV V Composite Protocols]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.3_Matrix_Systems_Contacts_and_Contours|M1 4.3 Matrix Systems Contacts and Contours]]
+

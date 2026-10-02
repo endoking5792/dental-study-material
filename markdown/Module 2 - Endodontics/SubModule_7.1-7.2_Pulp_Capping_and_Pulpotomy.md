@@ -157,3 +157,40 @@ A genuinely important, practice-changing finding directly affects how follow-up 
 [6] Walton RE, Torabinejad M. Principles and Practice of Endodontics. 3rd ed. Philadelphia: W.B. Saunders; 2002.
 
 [7] Jain P, ed. Current Therapy in Endodontics. Ames, IA: Wiley-Blackwell; 2016. Chapter 10 (Lasers).
+
+<!-- related-notes -->
+## Related Notes
+
+**Pulp Protection, Liners and Pulp Capping** — hub: [[Dental Study Material/_Topic Hubs/Pulp Protection, Liners and Pulp Capping|Pulp Protection, Liners and Pulp Capping]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.1_Biocompatibility_Assessment|M3 5.1 Biocompatibility Assessment]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_2.2_Caries_Removal_Strategies|M1 2.2 Caries Removal Strategies]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology|M2 1.1-1.3 Pulp Dentin Complex Biology]]
+
+**MTA, Calcium Silicates and Bioceramics** — hub: [[Dental Study Material/_Topic Hubs/MTA, Calcium Silicates and Bioceramics|MTA, Calcium Silicates and Bioceramics]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.3_Regenerative_Endodontics|M2 7.3 Regenerative Endodontics]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials|M2 5.4 Root End Preparation Retrograde Filling Materials]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.5_Obturation_of_Root_Canals|M2 4.5 Obturation of Root Canals]]
+
+**Caries and Pulp Response** — hub: [[Dental Study Material/_Topic Hubs/Caries and Pulp Response|Caries and Pulp Response]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis|M1 1.1 Caries Etiology and Pathogenesis]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection|M1 1.2 Caries Diagnosis and Detection]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management|M1 1.3 Caries Risk Assessment and Management]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_2.2_Caries_Removal_Strategies|M1 2.2 Caries Removal Strategies]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations|M1 4.4 Fissure Sealants and Preventive Resin Restorations]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]]
+
+**Biocompatibility and Bioactivity** — hub: [[Dental Study Material/_Topic Hubs/Biocompatibility and Bioactivity|Biocompatibility and Bioactivity]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.1_Biocompatibility_Assessment|M3 5.1 Biocompatibility Assessment]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.3_Regenerative_Endodontics|M2 7.3 Regenerative Endodontics]]
+

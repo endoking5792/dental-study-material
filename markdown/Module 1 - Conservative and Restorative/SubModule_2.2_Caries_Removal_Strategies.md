@@ -278,3 +278,24 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 9. Sikri VK. Indirect Restorations in Dental Practice. 2nd ed. New Delhi: CBS Publishers.
 
 10. Ricketts D, Chadwick G, Hall A. Management of dental caries. In: Ricketts D, Bartlett D, editors. Advanced Operative Dentistry: A Practical Approach. Edinburgh: Churchill Livingstone/Elsevier; 2011. p.1–14 (citing Ricketts D. Management of the deep carious lesion and the vital pulp dentine complex. Br Dent J. 2001;191:606–610).
+
+<!-- related-notes -->
+## Related Notes
+
+**Pulp Protection, Liners and Pulp Capping** — hub: [[Dental Study Material/_Topic Hubs/Pulp Protection, Liners and Pulp Capping|Pulp Protection, Liners and Pulp Capping]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.1_Biocompatibility_Assessment|M3 5.1 Biocompatibility Assessment]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology|M2 1.1-1.3 Pulp Dentin Complex Biology]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]]
+
+**Caries and Pulp Response** — hub: [[Dental Study Material/_Topic Hubs/Caries and Pulp Response|Caries and Pulp Response]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis|M1 1.1 Caries Etiology and Pathogenesis]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection|M1 1.2 Caries Diagnosis and Detection]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management|M1 1.3 Caries Risk Assessment and Management]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations|M1 4.4 Fissure Sealants and Preventive Resin Restorations]]
+

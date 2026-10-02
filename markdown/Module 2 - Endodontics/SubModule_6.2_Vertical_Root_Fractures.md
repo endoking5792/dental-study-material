@@ -43,3 +43,23 @@ A useful diagnostic summary from the same chapter is worth restating explicitly:
 [1] Ingle JI, Bakland LK, Baumgartner JC, eds. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Chapter 14, "Vertical Root Fractures" (Tamse A, Berman LH).
 
 [2] American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012.
+
+<!-- related-notes -->
+## Related Notes
+
+**Post, Core and Ferrule** — hub: [[Dental Study Material/_Topic Hubs/Post, Core and Ferrule|Post, Core and Ferrule]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth|M2 8.4 Restoration of the Endodontically Treated Tooth]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+
+**Cracks and Fractures of Teeth** — hub: [[Dental Study Material/_Topic Hubs/Cracks and Fractures of Teeth|Cracks and Fractures of Teeth]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases|M1 6.1 Large Restorations and Complex Cases]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.3_Mechanical_Properties|M3 1.3 Mechanical Properties]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures|M2 6.5 Crown Originating Dental Fractures]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.1_Traumatic_Dental_Injuries|M2 6.1 Traumatic Dental Injuries]]
+

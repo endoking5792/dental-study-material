@@ -101,3 +101,22 @@ A genuinely useful, real technique worth including directly for the specific cli
 3. Essentials of Preclinical Conservative Dentistry. Ch.11, "Enameloplasty."
 
 4. Roberson TM, Heymann HO, Swift EJ Jr, editors. Sturdevant's Art and Science of Operative Dentistry. Ch.3, "Cariology: The Lesion, Etiology, Prevention, and Control"; Ch.4, "Biomaterials"; Ch.13, "Class I, II, and VI Direct Composite and Other Tooth-Colored Restorations."
+
+<!-- related-notes -->
+## Related Notes
+
+**Caries and Pulp Response** — hub: [[Dental Study Material/_Topic Hubs/Caries and Pulp Response|Caries and Pulp Response]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis|M1 1.1 Caries Etiology and Pathogenesis]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection|M1 1.2 Caries Diagnosis and Detection]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management|M1 1.3 Caries Risk Assessment and Management]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_2.2_Caries_Removal_Strategies|M1 2.2 Caries Removal Strategies]]
+
+**Isolation and Rubber Dam** — hub: [[Dental Study Material/_Topic Hubs/Isolation and Rubber Dam|Isolation and Rubber Dam]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.3_Adhesive_Protocol_and_Application|M3 3.3 Adhesive Protocol and Application]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_8.3_Isolation_and_Moisture_Control|M1 8.3 Isolation and Moisture Control]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]]
+

@@ -153,3 +153,13 @@ Shafer's frames “residual cyst” as essentially a term of convenience — the
 5. Siqueira JF Jr, Rôças IN, eds. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence Publishing; 2020.
 
 6. Mehrazarin S, Alshaikh A, Kang MK. Molecular Mechanisms of Apical Periodontitis: Emerging Role of Epigenetic Regulators. Dent Clin North Am 2017;61(1):17-35.
+
+<!-- related-notes -->
+## Related Notes
+
+**Endodontic-Periodontal and Orthodontic Relationships** — hub: [[Dental Study Material/_Topic Hubs/Endodontic-Periodontal and Orthodontic Relationships|Endodontic-Periodontal and Orthodontic Relationships]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.6_Endodontic_Periodontal_Interrelationships|M2 6.6 Endodontic Periodontal Interrelationships]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.9_Endodontic_Orthodontic_Relationships|M2 6.9 Endodontic Orthodontic Relationships]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.5_Other_Surgical_Procedures|M2 5.5 Other Surgical Procedures]]
+

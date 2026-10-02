@@ -101,3 +101,30 @@ Repairing any perforation involves two distinct challenges, both best managed un
 [6] Jain P, ed. Current Therapy in Endodontics. Ames: Wiley-Blackwell; 2017.
 
 [7] Berman LH, Hargreaves KM, et al. Harty's Endodontics in Clinical Practice, 7th ed. Edinburgh: Elsevier; 2021.
+
+<!-- related-notes -->
+## Related Notes
+
+**Post, Core and Ferrule** — hub: [[Dental Study Material/_Topic Hubs/Post, Core and Ferrule|Post, Core and Ferrule]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth|M2 4.7 Restoration of Endodontically Treated Tooth]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth|M2 8.4 Restoration of the Endodontically Treated Tooth]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.2_Vertical_Root_Fractures|M2 6.2 Vertical Root Fractures]]
+
+**Nonsurgical Retreatment** — hub: [[Dental Study Material/_Topic Hubs/Nonsurgical Retreatment|Nonsurgical Retreatment]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection|M2 5.1 Indications Contraindications Case Selection]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates|M2 8.1 Outcome Assessment Success Rates]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.5_Obturation_of_Root_Canals|M2 4.5 Obturation of Root Canals]]
+
+**Root Perforation and Repair** — hub: [[Dental Study Material/_Topic Hubs/Root Perforation and Repair|Root Perforation and Repair]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.5_Other_Surgical_Procedures|M2 5.5 Other Surgical Procedures]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.1_Access_Cavity_Preparation|M2 4.1 Access Cavity Preparation]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.6_Surgical_Complications_Management|M2 5.6 Surgical Complications Management]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection|M2 5.1 Indications Contraindications Case Selection]]
+

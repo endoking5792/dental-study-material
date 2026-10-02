@@ -109,3 +109,15 @@ Whether to extract teeth located directly in a jaw-fracture line remains a genui
 [4] American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012.
 
 [5] Andreasen JO, Andreasen FM, Andersson L, eds. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007.
+
+<!-- related-notes -->
+## Related Notes
+
+**Cracks and Fractures of Teeth** — hub: [[Dental Study Material/_Topic Hubs/Cracks and Fractures of Teeth|Cracks and Fractures of Teeth]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases|M1 6.1 Large Restorations and Complex Cases]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.3_Mechanical_Properties|M3 1.3 Mechanical Properties]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.2_Vertical_Root_Fractures|M2 6.2 Vertical Root Fractures]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures|M2 6.5 Crown Originating Dental Fractures]]
+

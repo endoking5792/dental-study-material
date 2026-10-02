@@ -167,3 +167,14 @@ Beryllium is added to some base-metal alloys specifically because it lowers melt
 5. Powers JM, Wataha JC. Dental Materials: Properties and Manipulation. 10th ed. St. Louis: Elsevier Mosby; 2013.
 
 6. Craig RG, ed. Restorative Dental Materials. 11th ed. St. Louis: Mosby; 2002.
+
+<!-- related-notes -->
+## Related Notes
+
+**Metals, Alloys and Casting** — hub: [[Dental Study Material/_Topic Hubs/Metals, Alloys and Casting|Metals, Alloys and Casting]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.2_Indirect_Restoration_Materials|M1 5.2 Indirect Restoration Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.6_Direct_Gold_Restorations|M1 6.6 Direct Gold Restorations]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.1_Casting_Procedures_and_Defects|M3 8.1 Casting Procedures and Defects]]
+

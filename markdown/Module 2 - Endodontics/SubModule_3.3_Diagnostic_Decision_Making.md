@@ -73,3 +73,15 @@ A further structured catalog of NOTA causes is worth keeping as an active differ
 [5] Thakkar J, Dym H. Management of Burning Mouth Syndrome. Dent Clin North Am 2024;68(1):113-119.
 
 [6] Thomas DC, Somaiya T, Ajayakumar A, Prabhakar V. Toothaches of Non-odontogenic Origin. Dent Clin North Am 2026;70(2):209-224.
+
+<!-- related-notes -->
+## Related Notes
+
+**Diagnosis and Treatment Planning** — hub: [[Dental Study Material/_Topic Hubs/Diagnosis and Treatment Planning|Diagnosis and Treatment Planning]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning|M1 8.1 Patient Evaluation Diagnosis Treatment Planning]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.1_Clinical_Examination|M2 3.1 Clinical Examination]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.4_Treatment_Planning|M2 3.4 Treatment Planning]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.5_Medically_Complex_Patient|M2 3.5 Medically Complex Patient]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.2_Radiographic_Examination|M2 3.2 Radiographic Examination]]
+

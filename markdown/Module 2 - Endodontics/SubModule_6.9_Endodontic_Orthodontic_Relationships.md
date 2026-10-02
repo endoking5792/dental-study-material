@@ -47,3 +47,13 @@ For a tooth already undergoing ankylosis-driven replacement resorption (Sub-Modu
 [1] Weine FS, Potashnick SR. Endodontic Therapy. 6th ed. St. Louis: Mosby; 2004. Chapter 12, "Endodontic-Orthodontic Relationships."
 
 [2] Andreasen JO, Andreasen FM, Andersson L, eds. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Chapter 24, "Orthodontic Management of the Traumatized Dentition" (Malmgren O, Malmgren B).
+
+<!-- related-notes -->
+## Related Notes
+
+**Endodontic-Periodontal and Orthodontic Relationships** — hub: [[Dental Study Material/_Topic Hubs/Endodontic-Periodontal and Orthodontic Relationships|Endodontic-Periodontal and Orthodontic Relationships]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.6_Endodontic_Periodontal_Interrelationships|M2 6.6 Endodontic Periodontal Interrelationships]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.2_Periapical_Diseases_and_Apical_Pathology|M2 2.2 Periapical Diseases and Apical Pathology]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.5_Other_Surgical_Procedures|M2 5.5 Other Surgical Procedures]]
+

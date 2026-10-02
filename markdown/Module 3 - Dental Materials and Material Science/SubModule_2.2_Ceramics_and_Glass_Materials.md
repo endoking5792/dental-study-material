@@ -197,3 +197,14 @@ Because of the silver content, cermet has the same radiopacity as amalgam, but a
 6. Craig RG, ed. Restorative Dental Materials. 11th ed. St. Louis: Mosby; 2002.
 
 7. Mount GJ. An Atlas of Glass-Ionomer Cements: A Clinician's Guide. 2nd ed. London: Martin Dunitz; 1994.
+
+<!-- related-notes -->
+## Related Notes
+
+**Ceramics and Indirect Restorative Materials** — hub: [[Dental Study Material/_Topic Hubs/Ceramics and Indirect Restorative Materials|Ceramics and Indirect Restorative Materials]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.2_Indirect_Restoration_Materials|M1 5.2 Indirect Restoration Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone|M1 6.2 Restoration of Esthetic Zone]] *(other module)*
+

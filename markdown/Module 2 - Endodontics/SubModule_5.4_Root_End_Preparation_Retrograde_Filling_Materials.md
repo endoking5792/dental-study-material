@@ -67,3 +67,24 @@ Two further clinical findings are worth flagging as genuinely practical rather t
 [1] Torabinejad M, Rubinstein R, eds. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence Publishing, 2019.
 
 [2] Torabinejad M, Fouad AF, Shabahang S, eds. Cohen's Pathways of the Pulp, 12th ed. St. Louis: Elsevier; 2021. Ch.11, "Periradicular Surgery" (Johnson BR, Fayad MI, Berman LH).
+
+<!-- related-notes -->
+## Related Notes
+
+**MTA, Calcium Silicates and Bioceramics** — hub: [[Dental Study Material/_Topic Hubs/MTA, Calcium Silicates and Bioceramics|MTA, Calcium Silicates and Bioceramics]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_5.2_Bioactive_Materials|M3 5.2 Bioactive Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials|M1 3.3 Liners Bases and Pulp Protection Materials]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.3_Regenerative_Endodontics|M2 7.3 Regenerative Endodontics]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.5_Obturation_of_Root_Canals|M2 4.5 Obturation of Root Canals]]
+
+**Dental Amalgam** — hub: [[Dental Study Material/_Topic Hubs/Dental Amalgam|Dental Amalgam]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.2_Dental_Amalgam|M3 8.2 Dental Amalgam]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.1_Material_Selection_Criteria|M3 6.1 Material Selection Criteria]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.1_Material_Degradation_Mechanisms|M3 7.1 Material Degradation Mechanisms]] *(other module)*
+

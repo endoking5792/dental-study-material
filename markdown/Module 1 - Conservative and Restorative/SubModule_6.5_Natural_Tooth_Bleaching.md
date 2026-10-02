@@ -87,3 +87,18 @@ One further, genuinely practical clinical point worth including directly: there 
 ## References (Vancouver Style)
 
 1. Haywood VB, da Costa J, Berry TG. Natural Tooth Bleaching. In: Summitt JB, Robbins JW, Hilton TJ, Schwartz RS, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. Chicago: Quintessence. Ch.16.
+
+<!-- related-notes -->
+## Related Notes
+
+**Tooth Bleaching** — hub: [[Dental Study Material/_Topic Hubs/Tooth Bleaching|Tooth Bleaching]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching|M2 6.7 Non Vital Tooth Bleaching]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss|M1 6.4 Non Carious Tooth Structure Loss]]
+
+**Esthetics, Shade and Color** — hub: [[Dental Study Material/_Topic Hubs/Esthetics, Shade and Color|Esthetics, Shade and Color]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching|M2 6.7 Non Vital Tooth Bleaching]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.6_Shade_Matching_and_Color_Science|M1 5.1.6 Shade Matching and Color Science]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone|M1 6.2 Restoration of Esthetic Zone]]
+

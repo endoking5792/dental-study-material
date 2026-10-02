@@ -178,3 +178,31 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 1. Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Chapter 13, “Light-Curing Units,” p.435-442; Chapter 14, “Composite Restoration on Anterior Teeth,” p.471-479; Chapter 15, “Composite Restoration on Posterior Teeth,” p.617-619, 626-628.
 
 2. Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence Publishing. Chapter 11, “Direct Posterior Resin Composite Restorations,” p.605-606.
+
+<!-- related-notes -->
+## Related Notes
+
+**Adhesion and Bonding** — hub: [[Dental Study Material/_Topic Hubs/Adhesion and Bonding|Adhesion and Bonding]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.1_Adhesion_Mechanisms|M3 3.1 Adhesion Mechanisms]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.2_Adhesive_System_Types|M3 3.2 Adhesive System Types]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.3_Adhesive_Protocol_and_Application|M3 3.3 Adhesive Protocol and Application]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth|M2 8.4 Restoration of the Endodontically Treated Tooth]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding|M1 3.2 Adhesive Systems and Bonding]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]]
+
+**Isolation and Rubber Dam** — hub: [[Dental Study Material/_Topic Hubs/Isolation and Rubber Dam|Isolation and Rubber Dam]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.3_Adhesive_Protocol_and_Application|M3 3.3 Adhesive Protocol and Application]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_8.3_Isolation_and_Moisture_Control|M1 8.3 Isolation and Moisture Control]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations|M1 4.4 Fissure Sealants and Preventive Resin Restorations]]
+
+**Composite Resin and Polymers** — hub: [[Dental Study Material/_Topic Hubs/Composite Resin and Polymers|Composite Resin and Polymers]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.3_Polymer_Materials|M3 2.3 Polymer Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols|M1 4.2a ClassI II Composite Protocols]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols|M1 4.2b ClassIII IV V Composite Protocols]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.3_Matrix_Systems_Contacts_and_Contours|M1 4.3 Matrix Systems Contacts and Contours]]
+

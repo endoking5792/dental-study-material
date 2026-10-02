@@ -147,3 +147,19 @@ Cross-reference Sub-Module 6.5 (Natural Tooth Bleaching) directly for the full t
 2. Sikri VK, Gade V. Non-Carious Lesions of the Tooth Surface. In: Essentials of Preclinical Conservative Dentistry. Ch.21.
 
 3. Bartlett D. Tooth Wear. In: Ricketts D, Bartlett D, editors. Advanced Operative Dentistry: A Practical Approach. Edinburgh: Churchill Livingstone/Elsevier; 2011. Ch.4.
+
+<!-- related-notes -->
+## Related Notes
+
+**Tooth Bleaching** — hub: [[Dental Study Material/_Topic Hubs/Tooth Bleaching|Tooth Bleaching]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching|M2 6.7 Non Vital Tooth Bleaching]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.5_Natural_Tooth_Bleaching|M1 6.5 Natural Tooth Bleaching]]
+
+**Dentin and Pulp Biology** — hub: [[Dental Study Material/_Topic Hubs/Dentin and Pulp Biology|Dentin and Pulp Biology]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology|M2 1.1-1.3 Pulp Dentin Complex Biology]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.1_Adhesion_Mechanisms|M3 3.1 Adhesion Mechanisms]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis|M1 1.1 Caries Etiology and Pathogenesis]]
+

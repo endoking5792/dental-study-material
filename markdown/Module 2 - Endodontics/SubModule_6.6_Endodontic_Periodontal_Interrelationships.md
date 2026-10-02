@@ -57,3 +57,13 @@ Cohen's Ch.25 reinforces this same sequencing logic from an independent authorsh
 [1] Ingle JI, Bakland LK, Baumgartner JC, eds. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Chapter 36, "Endodontic-Periodontal Interrelationships" (Rotstein I, Zabalegui B, Al-Hezaimi K).
 
 [2] Hargreaves KM, Berman LH, eds. Cohen's Pathways of the Pulp. 12th ed. St. Louis: Elsevier; 2021. Chapter 25, "Endo-Perio" (Glickman GN, Iacono VJ).
+
+<!-- related-notes -->
+## Related Notes
+
+**Endodontic-Periodontal and Orthodontic Relationships** — hub: [[Dental Study Material/_Topic Hubs/Endodontic-Periodontal and Orthodontic Relationships|Endodontic-Periodontal and Orthodontic Relationships]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.9_Endodontic_Orthodontic_Relationships|M2 6.9 Endodontic Orthodontic Relationships]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.2_Periapical_Diseases_and_Apical_Pathology|M2 2.2 Periapical Diseases and Apical Pathology]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.5_Other_Surgical_Procedures|M2 5.5 Other Surgical Procedures]]
+

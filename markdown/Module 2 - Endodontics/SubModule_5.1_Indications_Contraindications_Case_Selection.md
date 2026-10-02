@@ -103,3 +103,22 @@ Surgical endodontics is not a recent development — root amputation was first d
 [5] Lieblich SE. Endodontic Surgery. Dent Clin North Am 2012;56(1):121-132.
 
 [6] Fatahzadeh M, Ravi A, Thomas P, Ziccardi VB. Systemic Factors Affecting Healing in Dentistry. Dent Clin North Am 2024;68(4):799-812.
+
+<!-- related-notes -->
+## Related Notes
+
+**Nonsurgical Retreatment** — hub: [[Dental Study Material/_Topic Hubs/Nonsurgical Retreatment|Nonsurgical Retreatment]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates|M2 8.1 Outcome Assessment Success Rates]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.5_Obturation_of_Root_Canals|M2 4.5 Obturation of Root Canals]]
+
+**Root Perforation and Repair** — hub: [[Dental Study Material/_Topic Hubs/Root Perforation and Repair|Root Perforation and Repair]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.5_Other_Surgical_Procedures|M2 5.5 Other Surgical Procedures]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.1_Access_Cavity_Preparation|M2 4.1 Access Cavity Preparation]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.6_Surgical_Complications_Management|M2 5.6 Surgical Complications Management]]
+

@@ -57,3 +57,16 @@ A distinction genuinely worth making explicit to students, since the two are eas
 4. Craig RG, ed. Restorative Dental Materials. 11th ed. St. Louis: Mosby; 2002.
 
 5. Bonsor SJ, Pearson GJ. A Clinical Guide to Applied Dental Materials. Edinburgh: Churchill Livingstone Elsevier; 2013.
+
+<!-- related-notes -->
+## Related Notes
+
+**Restoration Failure and Longevity** — hub: [[Dental Study Material/_Topic Hubs/Restoration Failure and Longevity|Restoration Failure and Longevity]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates|M2 8.1 Outcome Assessment Success Rates]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.2_Prognostic_Factors_Long_Term_Success|M2 8.2 Prognostic Factors Long Term Success]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics|M2 5.7 Outcomes Prognosis Surgical Endodontics]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.1_Material_Degradation_Mechanisms|M3 7.1 Material Degradation Mechanisms]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance|M3 7.2 Clinical Monitoring and Maintenance]]
+

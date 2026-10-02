@@ -119,3 +119,24 @@ Silver cermets (Sub-Module 2.2.3 covers their composition) show a real, measurab
 7. Bhat VS, Nandish BT, Jayaprakash K. Science of Dental Materials with Clinical Applications. 3rd ed. New Delhi: CBS Publishers & Distributors.
 
 8. Craig RG, ed. Restorative Dental Materials. 11th ed. St. Louis: Mosby; 2002.
+
+<!-- related-notes -->
+## Related Notes
+
+**Restoration Failure and Longevity** — hub: [[Dental Study Material/_Topic Hubs/Restoration Failure and Longevity|Restoration Failure and Longevity]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates|M2 8.1 Outcome Assessment Success Rates]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.2_Prognostic_Factors_Long_Term_Success|M2 8.2 Prognostic Factors Long Term Success]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics|M2 5.7 Outcomes Prognosis Surgical Endodontics]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis|M3 6.2 Cost Effectiveness and Longevity Analysis]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance|M3 7.2 Clinical Monitoring and Maintenance]]
+
+**Dental Amalgam** — hub: [[Dental Study Material/_Topic Hubs/Dental Amalgam|Dental Amalgam]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials|M2 5.4 Root End Preparation Retrograde Filling Materials]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.2_Dental_Amalgam|M3 8.2 Dental Amalgam]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.1_Material_Selection_Criteria|M3 6.1 Material Selection Criteria]]
+

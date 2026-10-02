@@ -135,3 +135,32 @@ A real, direct statement of the overall decision principle worth closing on: apa
 1. Mount GJ. Failures of Individual Restorations and Their Management. In: Mount GJ, Hume WR, Ngo HC, Wolff MS, editors. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: Wiley-Blackwell; 2016. Ch.19.
 
 2. Summitt JB, Robbins JW, Hilton TJ, Schwartz RS, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. Chicago: Quintessence. Ch.11 (Resin Composite for Posterior Restorations) and Ch.18 (Ceramic Crowns).
+
+<!-- related-notes -->
+## Related Notes
+
+**Cracks and Fractures of Teeth** — hub: [[Dental Study Material/_Topic Hubs/Cracks and Fractures of Teeth|Cracks and Fractures of Teeth]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.2_Vertical_Root_Fractures|M2 6.2 Vertical Root Fractures]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures|M2 6.5 Crown Originating Dental Fractures]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.1_Traumatic_Dental_Injuries|M2 6.1 Traumatic Dental Injuries]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.3_Mechanical_Properties|M3 1.3 Mechanical Properties]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases|M1 6.1 Large Restorations and Complex Cases]]
+
+**Restoration Failure and Longevity** — hub: [[Dental Study Material/_Topic Hubs/Restoration Failure and Longevity|Restoration Failure and Longevity]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis|M3 6.2 Cost Effectiveness and Longevity Analysis]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.1_Material_Degradation_Mechanisms|M3 7.1 Material Degradation Mechanisms]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance|M3 7.2 Clinical Monitoring and Maintenance]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates|M2 8.1 Outcome Assessment Success Rates]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.2_Prognostic_Factors_Long_Term_Success|M2 8.2 Prognostic Factors Long Term Success]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics|M2 5.7 Outcomes Prognosis Surgical Endodontics]] *(other module)*
+
+**Dental Amalgam** — hub: [[Dental Study Material/_Topic Hubs/Dental Amalgam|Dental Amalgam]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.2_Dental_Amalgam|M3 8.2 Dental Amalgam]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials|M2 5.4 Root End Preparation Retrograde Filling Materials]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.1_Material_Selection_Criteria|M3 6.1 Material Selection Criteria]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.1_Material_Degradation_Mechanisms|M3 7.1 Material Degradation Mechanisms]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]]
+

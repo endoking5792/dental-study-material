@@ -41,3 +41,15 @@ Prognosis data, though limited, are genuinely useful for patient counseling: Cam
 ## References
 
 [1] Ingle JI, Bakland LK, Baumgartner JC, eds. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Chapter 13, "Crown-Originating Dental Fractures" (Bakland LK).
+
+<!-- related-notes -->
+## Related Notes
+
+**Cracks and Fractures of Teeth** — hub: [[Dental Study Material/_Topic Hubs/Cracks and Fractures of Teeth|Cracks and Fractures of Teeth]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases|M1 6.1 Large Restorations and Complex Cases]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.3_Mechanical_Properties|M3 1.3 Mechanical Properties]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.2_Vertical_Root_Fractures|M2 6.2 Vertical Root Fractures]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.1_Traumatic_Dental_Injuries|M2 6.1 Traumatic Dental Injuries]]
+

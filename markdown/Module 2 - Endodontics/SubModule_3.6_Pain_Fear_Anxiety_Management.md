@@ -81,3 +81,13 @@ The safety case against reflexive opioid use is just as direct as the efficacy c
 [5] Khawaja SN, Scrivani SJ. Managing Acute Dental Pain: Principles for Rational Prescribing and Alternatives to Opioid Therapy. Dent Clin North Am 2020;64(3):525-534.
 
 [6] Anjum K, Shanmugasundaram K, Moran J, Prabhakar S. Failures of Local Anesthesia: Dental Perspective. Dent Clin North Am 2026;70(1):15-29.
+
+<!-- related-notes -->
+## Related Notes
+
+**Pain, Anesthesia and Anxiety** — hub: [[Dental Study Material/_Topic Hubs/Pain, Anesthesia and Anxiety|Pain, Anesthesia and Anxiety]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning|M1 8.1 Patient Evaluation Diagnosis Treatment Planning]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.5_Medically_Complex_Patient|M2 3.5 Medically Complex Patient]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]]
+

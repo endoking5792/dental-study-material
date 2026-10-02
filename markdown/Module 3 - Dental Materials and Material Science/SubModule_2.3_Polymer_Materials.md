@@ -156,3 +156,15 @@ Both preformed-shell approaches share the same two structural limitations: a pre
 5. van Noort R, Barbour M. Introduction to Dental Materials. 4th ed. Edinburgh: Mosby Elsevier; 2013.
 
 6. Craig RG, ed. Restorative Dental Materials. 11th ed. St. Louis: Mosby; 2002.
+
+<!-- related-notes -->
+## Related Notes
+
+**Composite Resin and Polymers** — hub: [[Dental Study Material/_Topic Hubs/Composite Resin and Polymers|Composite Resin and Polymers]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols|M1 4.2a ClassI II Composite Protocols]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols|M1 4.2b ClassIII IV V Composite Protocols]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.3_Matrix_Systems_Contacts_and_Contours|M1 4.3 Matrix Systems Contacts and Contours]] *(other module)*
+

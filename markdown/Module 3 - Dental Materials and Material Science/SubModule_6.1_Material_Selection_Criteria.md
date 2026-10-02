@@ -97,3 +97,22 @@ A composite of 14 independent controlled clinical studies (initiated between 197
 5. Bonsor SJ, Pearson GJ. A Clinical Guide to Applied Dental Materials. Edinburgh: Churchill Livingstone Elsevier; 2013.
 
 6. Bhat VS, Nandish BT, Jayaprakash K. Science of Dental Materials with Clinical Applications. 3rd ed. New Delhi: CBS Publishers & Distributors.
+
+<!-- related-notes -->
+## Related Notes
+
+**Dental Amalgam** — hub: [[Dental Study Material/_Topic Hubs/Dental Amalgam|Dental Amalgam]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials|M2 5.4 Root End Preparation Retrograde Filling Materials]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.2_Dental_Amalgam|M3 8.2 Dental Amalgam]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.1_Material_Degradation_Mechanisms|M3 7.1 Material Degradation Mechanisms]]
+
+**Material Properties and Selection** — hub: [[Dental Study Material/_Topic Hubs/Material Properties and Selection|Material Properties and Selection]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.1_Atomic_and_Molecular_Structure|M3 1.1 Atomic and Molecular Structure]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.2_Physical_Properties|M3 1.2 Physical Properties]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.3_Mechanical_Properties|M3 1.3 Mechanical Properties]]
+

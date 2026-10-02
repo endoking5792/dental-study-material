@@ -71,3 +71,13 @@ Stated directly and without overstatement in either direction: relative isolatio
 2. Marzouk MA, Simonton AL, Gross RD. Operative Dentistry: Modern Theory and Practice. Ch.3, "Control of the Field of Operation."
 
 3. Kidd EAM, Fejerskov O, Nyvad B, editors. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press. §5.6, "Moisture control."
+
+<!-- related-notes -->
+## Related Notes
+
+**Isolation and Rubber Dam** — hub: [[Dental Study Material/_Topic Hubs/Isolation and Rubber Dam|Isolation and Rubber Dam]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_3.3_Adhesive_Protocol_and_Application|M3 3.3 Adhesive Protocol and Application]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques|M1 4.1 Composite Restoration Placement Techniques]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations|M1 4.4 Fissure Sealants and Preventive Resin Restorations]]
+

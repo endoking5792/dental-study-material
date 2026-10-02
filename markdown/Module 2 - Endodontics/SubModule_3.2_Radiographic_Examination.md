@@ -53,3 +53,15 @@ Healing after root canal treatment presents the same fundamental limitation in r
 [3] Basrani B, ed. Endodontic Radiology, 2nd ed. Ames, IA: Wiley-Blackwell; 2012. Ch.21, "Interpretation of Periapical Lesions Using Cone Beam Computed Tomography."
 
 [4] Fayad MI, Villa-Machado P. CBCT in Endodontics: Revolutionizing Endodontic Diagnosis and Treatment. Dent Clin North Am 2025;69(3):497-514.
+
+<!-- related-notes -->
+## Related Notes
+
+**Diagnosis and Treatment Planning** — hub: [[Dental Study Material/_Topic Hubs/Diagnosis and Treatment Planning|Diagnosis and Treatment Planning]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning|M1 8.1 Patient Evaluation Diagnosis Treatment Planning]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.1_Clinical_Examination|M2 3.1 Clinical Examination]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.3_Diagnostic_Decision_Making|M2 3.3 Diagnostic Decision Making]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.4_Treatment_Planning|M2 3.4 Treatment Planning]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.5_Medically_Complex_Patient|M2 3.5 Medically Complex Patient]]
+

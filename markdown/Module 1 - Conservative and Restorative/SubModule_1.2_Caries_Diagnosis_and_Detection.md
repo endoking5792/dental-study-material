@@ -246,3 +246,16 @@ Numbered in citation order as first used in the text. Page numbers given in-text
 7. Roberson TM, Heymann HO, Swift EJ Jr, editors. Sturdevant's Art and Science of Operative Dentistry. 5th ed. St. Louis: Mosby (Elsevier); 2006. Chapter 3, “Cariology: The Lesion, Etiology, Prevention, and Control,” p.107.
 
 8. Ricketts D, ed. Advanced Operative Dentistry: A Practical Approach. Edinburgh: Churchill Livingstone/Elsevier; 2011.
+
+<!-- related-notes -->
+## Related Notes
+
+**Caries and Pulp Response** — hub: [[Dental Study Material/_Topic Hubs/Caries and Pulp Response|Caries and Pulp Response]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy|M2 7.1-7.2 Pulp Capping and Pulpotomy]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis|M1 1.1 Caries Etiology and Pathogenesis]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management|M1 1.3 Caries Risk Assessment and Management]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_2.2_Caries_Removal_Strategies|M1 2.2 Caries Removal Strategies]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations|M1 4.4 Fissure Sealants and Preventive Resin Restorations]]
+

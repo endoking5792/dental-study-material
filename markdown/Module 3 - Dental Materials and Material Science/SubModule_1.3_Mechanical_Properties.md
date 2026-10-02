@@ -233,3 +233,22 @@ Traditional hardness tests (Section 1.3.3 above) use loads as high as several ki
 5. Powers JM, Wataha JC. Dental Materials: Properties and Manipulation. 10th ed. St. Louis: Elsevier Mosby; 2013.
 
 6. Craig RG, ed. Restorative Dental Materials. 11th ed. St. Louis: Mosby; 2002.
+
+<!-- related-notes -->
+## Related Notes
+
+**Cracks and Fractures of Teeth** — hub: [[Dental Study Material/_Topic Hubs/Cracks and Fractures of Teeth|Cracks and Fractures of Teeth]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.2_Vertical_Root_Fractures|M2 6.2 Vertical Root Fractures]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures|M2 6.5 Crown Originating Dental Fractures]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.1_Traumatic_Dental_Injuries|M2 6.1 Traumatic Dental Injuries]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases|M1 6.1 Large Restorations and Complex Cases]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
+
+**Material Properties and Selection** — hub: [[Dental Study Material/_Topic Hubs/Material Properties and Selection|Material Properties and Selection]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_3.1_Restorative_Material_Categories|M1 3.1 Restorative Material Categories]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.1_Atomic_and_Molecular_Structure|M3 1.1 Atomic and Molecular Structure]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_1.2_Physical_Properties|M3 1.2 Physical Properties]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.1_Material_Selection_Criteria|M3 6.1 Material Selection Criteria]]
+

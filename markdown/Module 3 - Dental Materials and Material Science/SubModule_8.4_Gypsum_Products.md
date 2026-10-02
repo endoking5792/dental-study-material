@@ -111,3 +111,14 @@ A real, practical, and genuinely material-specific finding directly relevant to 
 3. Bhat VS, Nandish BT, Jayaprakash K. Science of Dental Materials with Clinical Applications. 3rd ed. New Delhi: CBS Publishers & Distributors.
 
 4. Craig RG, ed. Restorative Dental Materials. 11th ed. St. Louis: Mosby; 2002.
+
+<!-- related-notes -->
+## Related Notes
+
+**Impressions, Gypsum and Waxes** — hub: [[Dental Study Material/_Topic Hubs/Impressions, Gypsum and Waxes|Impressions, Gypsum and Waxes]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.3_Impression_Materials|M3 8.3 Impression Materials]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.5_Dental_Waxes|M3 8.5 Dental Waxes]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.1_Casting_Procedures_and_Defects|M3 8.1 Casting Procedures and Defects]]
+

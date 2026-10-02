@@ -227,3 +227,21 @@ A metal-ceramic restoration consists of a cast metallic framework veneered with 
 6. Ricketts D, ed. Advanced Operative Dentistry: A Practical Approach. Edinburgh: Churchill Livingstone/Elsevier.
 
 7. Bhat VS, Nandish BT, Jayaprakash K. Science of Dental Materials with Clinical Applications. 3rd ed. New Delhi: CBS Publishers & Distributors.
+
+<!-- related-notes -->
+## Related Notes
+
+**Ceramics and Indirect Restorative Materials** — hub: [[Dental Study Material/_Topic Hubs/Ceramics and Indirect Restorative Materials|Ceramics and Indirect Restorative Materials]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.2_Ceramics_and_Glass_Materials|M3 2.2 Ceramics and Glass Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone|M1 6.2 Restoration of Esthetic Zone]]
+
+**Metals, Alloys and Casting** — hub: [[Dental Study Material/_Topic Hubs/Metals, Alloys and Casting|Metals, Alloys and Casting]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.1_Metals_and_Alloys|M3 2.1 Metals and Alloys]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.1_Casting_Procedures_and_Defects|M3 8.1 Casting Procedures and Defects]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.6_Direct_Gold_Restorations|M1 6.6 Direct Gold Restorations]]
+

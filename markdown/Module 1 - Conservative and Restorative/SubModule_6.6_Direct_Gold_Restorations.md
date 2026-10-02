@@ -53,3 +53,14 @@ Cohesion between two pieces of direct gold occurs ONLY through direct, intimate 
 ## References (Vancouver Style)
 
 1. Marzouk MA, Simonton AL, Gross RD. Operative Dentistry: Modern Theory and Practice. Ch.26, "Direct Gold Restorations."
+
+<!-- related-notes -->
+## Related Notes
+
+**Metals, Alloys and Casting** — hub: [[Dental Study Material/_Topic Hubs/Metals, Alloys and Casting|Metals, Alloys and Casting]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.1_Metals_and_Alloys|M3 2.1 Metals and Alloys]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.1_Casting_Procedures_and_Defects|M3 8.1 Casting Procedures and Defects]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.2_Indirect_Restoration_Materials|M1 5.2 Indirect Restoration Materials]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]]
+

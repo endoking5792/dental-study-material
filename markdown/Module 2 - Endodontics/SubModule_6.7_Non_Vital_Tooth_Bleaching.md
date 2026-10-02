@@ -31,3 +31,18 @@ Restoration of the intracoronally bleached tooth carries its own endodontic-spec
 ## References
 
 [1] Ingle JI, Bakland LK, Baumgartner JC, eds. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Chapter 40, "Tooth Discoloration and Bleaching of Non-Vital Teeth" (Rotstein I).
+
+<!-- related-notes -->
+## Related Notes
+
+**Tooth Bleaching** — hub: [[Dental Study Material/_Topic Hubs/Tooth Bleaching|Tooth Bleaching]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.5_Natural_Tooth_Bleaching|M1 6.5 Natural Tooth Bleaching]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss|M1 6.4 Non Carious Tooth Structure Loss]] *(other module)*
+
+**Esthetics, Shade and Color** — hub: [[Dental Study Material/_Topic Hubs/Esthetics, Shade and Color|Esthetics, Shade and Color]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.6_Shade_Matching_and_Color_Science|M1 5.1.6 Shade Matching and Color Science]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone|M1 6.2 Restoration of Esthetic Zone]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.5_Natural_Tooth_Bleaching|M1 6.5 Natural Tooth Bleaching]] *(other module)*
+

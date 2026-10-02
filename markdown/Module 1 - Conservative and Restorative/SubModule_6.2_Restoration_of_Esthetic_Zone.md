@@ -83,3 +83,20 @@ Between the dentin mamelons and the outer enamel layer, a HIGHLY TRANSLUCENT com
 1. Goldstein RE, Chu S, Lee E, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken, NJ: Wiley-Blackwell; 2018. Ch.8, "Creating Esthetic Restorations Through Special Effects"; Ch.9, "Proportional Smile Design" (Ward, Chu, Stappert); Ch.14, "Composite Resin Bonding."
 
 2. Torres CRG, Zanatta RF, et al. Modern Operative Dentistry: Principles for Clinical Practice. Ch.14, "Composite Restoration on Anterior Teeth," §14.5.3-14.6.3; Ch.15, "Composite Restoration on Posterior Teeth," §15.4.1.
+
+<!-- related-notes -->
+## Related Notes
+
+**Ceramics and Indirect Restorative Materials** — hub: [[Dental Study Material/_Topic Hubs/Ceramics and Indirect Restorative Materials|Ceramics and Indirect Restorative Materials]]
+
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.2_Ceramics_and_Glass_Materials|M3 2.2 Ceramics and Glass Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.2_Indirect_Restoration_Materials|M1 5.2 Indirect Restoration Materials]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1_Types_of_Indirect_Restorations|M1 5.1 Types of Indirect Restorations]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]]
+
+**Esthetics, Shade and Color** — hub: [[Dental Study Material/_Topic Hubs/Esthetics, Shade and Color|Esthetics, Shade and Color]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching|M2 6.7 Non Vital Tooth Bleaching]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.6_Shade_Matching_and_Color_Science|M1 5.1.6 Shade Matching and Color Science]]
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.5_Natural_Tooth_Bleaching|M1 6.5 Natural Tooth Bleaching]]
+

@@ -53,3 +53,23 @@ Tooth survival after periapical surgery has been assessed in only one dedicated 
 [1] Ng YL, Gulabivala K. Evaluation of outcomes. In: Berman LH, Hargreaves KM, eds. Cohen's Pathways of the Pulp. 12th ed. Elsevier; 2021:chap 17.
 
 [2] Goldberg F. Achieving long-term success with endodontic therapy. In: Ingle JI, ed. Ingle's Endodontics. 7th ed. PMPH-USA; 2019:chap 34.
+
+<!-- related-notes -->
+## Related Notes
+
+**Nonsurgical Retreatment** — hub: [[Dental Study Material/_Topic Hubs/Nonsurgical Retreatment|Nonsurgical Retreatment]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection|M2 5.1 Indications Contraindications Case Selection]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.5_Obturation_of_Root_Canals|M2 4.5 Obturation of Root Canals]]
+
+**Restoration Failure and Longevity** — hub: [[Dental Study Material/_Topic Hubs/Restoration Failure and Longevity|Restoration Failure and Longevity]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns|M1 6.3 Restoration Longevity and Failure Patterns]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis|M3 6.2 Cost Effectiveness and Longevity Analysis]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.1_Material_Degradation_Mechanisms|M3 7.1 Material Degradation Mechanisms]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance|M3 7.2 Clinical Monitoring and Maintenance]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.2_Prognostic_Factors_Long_Term_Success|M2 8.2 Prognostic Factors Long Term Success]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics|M2 5.7 Outcomes Prognosis Surgical Endodontics]]
+

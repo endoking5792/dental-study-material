@@ -101,3 +101,21 @@ Pickard's states the real justification directly and specifically, worth using a
 2. Kidd EAM, Fejerskov O, Nyvad B, editors. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press. Ch.3, "Diagnosis, prognosis, care planning: 'information processing'."
 
 3. Sikri VK. Indirect Restorations in Dental Practice. New Delhi: CBS Publishers & Distributors. Ch.2, "Treatment Planning."
+
+<!-- related-notes -->
+## Related Notes
+
+**Diagnosis and Treatment Planning** — hub: [[Dental Study Material/_Topic Hubs/Diagnosis and Treatment Planning|Diagnosis and Treatment Planning]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.1_Clinical_Examination|M2 3.1 Clinical Examination]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.3_Diagnostic_Decision_Making|M2 3.3 Diagnostic Decision Making]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.4_Treatment_Planning|M2 3.4 Treatment Planning]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.5_Medically_Complex_Patient|M2 3.5 Medically Complex Patient]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.2_Radiographic_Examination|M2 3.2 Radiographic Examination]] *(other module)*
+
+**Pain, Anesthesia and Anxiety** — hub: [[Dental Study Material/_Topic Hubs/Pain, Anesthesia and Anxiety|Pain, Anesthesia and Anxiety]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.6_Pain_Fear_Anxiety_Management|M2 3.6 Pain Fear Anxiety Management]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_3.5_Medically_Complex_Patient|M2 3.5 Medically Complex Patient]] *(other module)*
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis|M2 2.1 Pulpal Diseases and Pulpitis]] *(other module)*
+

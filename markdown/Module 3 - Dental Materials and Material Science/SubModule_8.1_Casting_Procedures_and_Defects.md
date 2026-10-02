@@ -165,3 +165,21 @@ Surface contamination of a gold-alloy restoration by mercury — for example, fr
 5. Bhat VS, Nandish BT, Jayaprakash K. Science of Dental Materials with Clinical Applications. 3rd ed. New Delhi: CBS Publishers & Distributors.
 
 6. Rudolf R, Majerič P, Lazić V, Raić KT. Advanced Dental Metallic Materials. Springer Series in Materials Science, vol 338. Cham: Springer.
+
+<!-- related-notes -->
+## Related Notes
+
+**Metals, Alloys and Casting** — hub: [[Dental Study Material/_Topic Hubs/Metals, Alloys and Casting|Metals, Alloys and Casting]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.2_Indirect_Restoration_Materials|M1 5.2 Indirect Restoration Materials]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.1.5_Post_and_Core_Restorations|M1 5.1.5 Post and Core Restorations]] *(other module)*
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_6.6_Direct_Gold_Restorations|M1 6.6 Direct Gold Restorations]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_2.1_Metals_and_Alloys|M3 2.1 Metals and Alloys]]
+
+**Impressions, Gypsum and Waxes** — hub: [[Dental Study Material/_Topic Hubs/Impressions, Gypsum and Waxes|Impressions, Gypsum and Waxes]]
+
+- [[Dental Study Material/Module 1 - Conservative and Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation|M1 5.3 Indirect Restoration Preparation and Cementation]] *(other module)*
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.3_Impression_Materials|M3 8.3 Impression Materials]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.4_Gypsum_Products|M3 8.4 Gypsum Products]]
+- [[Dental Study Material/Module 3 - Dental Materials and Material Science/SubModule_8.5_Dental_Waxes|M3 8.5 Dental Waxes]]
+

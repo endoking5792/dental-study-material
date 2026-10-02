@@ -115,3 +115,21 @@ Ridge preservation is worth introducing as its own topic distinct from GTR used 
 [4] Rotstein I, Ingle JI, eds. Ingle's Endodontics, 7th ed. Shelton, CT: PMPH-USA; 2019. Ch.19, "Preparation for Treatment," and Ch.24, "Surgical Endodontics."
 
 [5] Gopikrishna V, ed. Grossman's Endodontic Practice, 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.22, "Endodontic Surgery."
+
+<!-- related-notes -->
+## Related Notes
+
+**Endodontic-Periodontal and Orthodontic Relationships** — hub: [[Dental Study Material/_Topic Hubs/Endodontic-Periodontal and Orthodontic Relationships|Endodontic-Periodontal and Orthodontic Relationships]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.6_Endodontic_Periodontal_Interrelationships|M2 6.6 Endodontic Periodontal Interrelationships]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_6.9_Endodontic_Orthodontic_Relationships|M2 6.9 Endodontic Orthodontic Relationships]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_2.2_Periapical_Diseases_and_Apical_Pathology|M2 2.2 Periapical Diseases and Apical Pathology]]
+
+**Root Perforation and Repair** — hub: [[Dental Study Material/_Topic Hubs/Root Perforation and Repair|Root Perforation and Repair]]
+
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.6_Nonsurgical_Retreatment|M2 4.6 Nonsurgical Retreatment]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps|M2 8.3 Nonsurgical Retreatment Management of Mishaps]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_4.1_Access_Cavity_Preparation|M2 4.1 Access Cavity Preparation]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.6_Surgical_Complications_Management|M2 5.6 Surgical Complications Management]]
+- [[Dental Study Material/Module 2 - Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection|M2 5.1 Indications Contraindications Case Selection]]
+
