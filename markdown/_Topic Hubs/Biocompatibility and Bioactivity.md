@@ -16,7 +16,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M3 5.1 Biocompatibility Assessment](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.1_Biocompatibility_Assessment.md)
 - [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md)
 
-## Textbook chapters (8)
+## Textbook chapters (12)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -27,6 +27,15 @@ Chapters in the textbook folders whose titles match this topic.
 **Craig Restorative Dental Materials 14e**
 
 - [Chapter 6: Biocompatibility and Tissue Reaction to Biomaterials](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/Chapter_06.md)
+
+**Endodontic Irrigation Chemical disinfection of the root canal system**
+
+- [9: Apical Negative Pressure: Safety, Efficacy and Efficiency](../../textbooks/Endodontics/Endodontic_Irrigation_Chemical_disinfection_of_the_root_canal_system_Chapterwise/09_9_Apical_Negative_Pressure_Safety_Efficacy_and_Efficiency.md)
+
+**Endodontics Kishor Gulabivala Yuan Ling Ng 4th Ed Mosby 2014**
+
+- [2 Biological and clinical rationale for vital pulp therapy](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/02_2_Biological_and_clinical_rationale_for_vital_pulp_therapy.md)
+- [3 Biological and clinical rationale for root-canal treatment and management of its failure](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/03_3_Biological_and_clinical_rationale_for_root_canal_treatment.md)
 
 **Introduction to Dental Materials 4th Edition**
 
@@ -51,4 +60,8 @@ Chapters in the textbook folders whose titles match this topic.
 **Summitts Fundamentals of Operative Dentistry**
 
 - [1. Biologic Considerations](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/01_1_Biologic_Considerations.md)
+
+**Textbook and Color Atlas of Traumatic**
+
+- [29 Esthetic Considerations in Restoring the Traumatized Dentition a Biologic Approach](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/29_29_Esthetic_Considerations_in_Restoring_the_Traumatized_Dent.md)
 

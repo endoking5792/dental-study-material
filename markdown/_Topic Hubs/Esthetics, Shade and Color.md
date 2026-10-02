@@ -12,7 +12,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 
 - [M2 6.7 Non Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md)
 
-## Textbook chapters (24)
+## Textbook chapters (25)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -67,6 +67,10 @@ Chapters in the textbook folders whose titles match this topic.
 - [4. Color and Shade Matching](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/04_4_Color_and_Shade_Matching.md)
 - [11. Direct Posterior Esthetic Restorations](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/11_11_Direct_Posterior_Esthetic_Restorations.md)
 - [19. Esthetic Inlays and Onlays](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/19_19_Esthetic_Inlays_and_Onlays.md)
+
+**Textbook and Color Atlas of Traumatic**
+
+- [29 Esthetic Considerations in Restoring the Traumatized Dentition a Biologic Approach](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/29_29_Esthetic_Considerations_in_Restoring_the_Traumatized_Dent.md)
 
 **Textbook of Conservative and Restorative Dentistry**
 

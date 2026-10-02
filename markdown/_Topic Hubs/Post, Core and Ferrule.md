@@ -14,7 +14,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M2 8.3 Nonsurgical Retreatment Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
 - [M2 6.2 Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md)
 
-## Textbook chapters (8)
+## Textbook chapters (11)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -27,6 +27,15 @@ Chapters in the textbook folders whose titles match this topic.
 - [5 Cementation of Posts and Provisional Restoration](../../textbooks/Conservative%20Dentistry/Contemporary_Restoration_of_Endodontically_Treated_Teeth_Chapterwise/05_5_Cementation_of_Posts_and_Provisional_Restoration.md)
 - [13 Removal of Posts](../../textbooks/Conservative%20Dentistry/Contemporary_Restoration_of_Endodontically_Treated_Teeth_Chapterwise/13_13_Removal_of_Posts.md)
 - [16 Retrofitting a Post to an Existing Crown](../../textbooks/Conservative%20Dentistry/Contemporary_Restoration_of_Endodontically_Treated_Teeth_Chapterwise/16_16_Retrofitting_a_Post_to_an_Existing_Crown.md)
+
+**Endodontology**
+
+- [37 Adhesive-retained, Fiber-reinforced Composite Posts](../../textbooks/Endodontics/Endodontology_Chapterwise/37_37_Adhesive_retained_Fiber_reinforced_Composite_Posts.md)
+- [38 Clinical Methods with Glass Fiber Posts](../../textbooks/Endodontics/Endodontology_Chapterwise/38_38_Clinical_Methods_with_Glass_Fiber_Posts.md)
+
+**Guidelines for Surgical Endodontics**
+
+- [Post-surgical considerations](../../textbooks/Endodontics/Guidelines_for_Surgical_Endodontics_Chapterwise/03_Post_surgical_considerations.md)
 
 **Indirect Restorations Sikri**
 

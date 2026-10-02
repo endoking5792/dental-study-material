@@ -62,3 +62,8 @@ A useful diagnostic summary from the same chapter is worth restating explicitly:
 - [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
 - [M2 6.5 Crown Originating Dental Fractures](SubModule_6.5_Crown_Originating_Dental_Fractures.md)
 - [M2 6.1 Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Glossary of Endodontic Terms](../../textbooks/Endodontics/Glossary_of_Endodontic_Terms_Chapterwise/00_INDEX.md)

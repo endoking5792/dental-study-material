@@ -53,3 +53,9 @@ Complications in the primary dentition are generally diagnosable between 6 weeks
 [2] Andreasen JO, Andreasen FM, Andersson L, eds. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Chapter 19, "Injuries to the Primary Dentition" (Flores MT, Holan G, Borum M, Andreasen JO).
 
 <!-- related-notes -->
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)
+- [Andreasen — Textbook and Color Atlas of Traumatic Injuries](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/00_INDEX.md)

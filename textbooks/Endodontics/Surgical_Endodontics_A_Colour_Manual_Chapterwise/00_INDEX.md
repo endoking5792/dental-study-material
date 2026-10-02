@@ -1,0 +1,18 @@
+# Surgical Endodontics A Colour Manual Chapterwise — chapterwise
+
+- [Front matter](00_Front_matter.md) (PDF pp.1-7)
+- [Chapter 1 ## Principles of Apicectomy](01_Chapter_1_Principles_of_Apicectomy.md) (PDF pp.8-12)
+- [Chapter 2 ## Indications for Apicectomy](02_Chapter_2_Indications_for_Apicectomy.md) (PDF pp.13-16)
+- [Chapter 3 ## Operative Technique:](03_Chapter_3_Operative_Technique.md) (PDF pp.17-20)
+- [Chapter 5 ## Operative Technique: Flap](04_Chapter_5_Operative_Technique_Flap.md) (PDF pp.21-29)
+- [Chapter 6 ## Operative Technique: The Root-](05_Chapter_6_Operative_Technique_The_Root.md) (PDF pp.30-35)
+- [Chapter 7 ## Operative Technique:](06_Chapter_7_Operative_Technique.md) (PDF pp.36-44)
+- [Chapter 8 ## Operative Technique:](07_Chapter_8_Operative_Technique.md) (PDF pp.45-54)
+- [Chapter 10 ## Operative Technique:](08_Chapter_10_Operative_Technique.md) (PDF pp.55-57)
+- [Chapter 11 ## Surgical Technique: Repair of](09_Chapter_11_Surgical_Technique_Repair_of.md) (PDF pp.58-64)
+- [Chapter 12 ## Operative Technique:](10_Chapter_12_Operative_Technique.md) (PDF pp.65-70)
+- [Chapter 13 ## Postoperative Appointment;](11_Chapter_13_Postoperative_Appointment.md) (PDF pp.71-75)
+- [Chapter 14 ## Correction of Failure](12_Chapter_14_Correction_of_Failure.md) (PDF pp.76-83)
+- [Chapter 15 ## Equipment](13_Chapter_15_Equipment.md) (PDF pp.84-91)
+- [Chapter 17 ## Periodontal Considerations II](14_Chapter_17_Periodontal_Considerations_II.md) (PDF pp.92-98)
+- [Chapter 18 ## Examination; Treatment Plan;](15_Chapter_18_Examination_Treatment_Plan.md) (PDF pp.99-105)

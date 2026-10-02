@@ -17,7 +17,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M3 4.1 Cement Types and Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md)
 - [M3 4.2 Cementation Protocol](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.2_Cementation_Protocol.md)
 
-## Textbook chapters (28)
+## Textbook chapters (30)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -53,6 +53,14 @@ Chapters in the textbook folders whose titles match this topic.
 **Dental Materials Properties and Manipulation 10e**
 
 - [Chapter 7: Cements](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/Dental_Materials_Properties_and_Manipulation_10e_MD/Chapter_07_Cements.md)
+
+**Endodontic Prognosis Clinical Guide**
+
+- [13: From Tooth Retention Through Root Canal Treatment to Extraction and Replacement](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/13_13_From_Tooth_Retention_Through_Root_Canal_Treatment_to_Extr.md)
+
+**Endodontology**
+
+- [21 Power-driven Instrumentation Systems: Recent Advancements](../../textbooks/Endodontics/Endodontology_Chapterwise/21_21_Power_driven_Instrumentation_Systems_Recent_Advancements.md)
 
 **Indirect Restorations Sikri**
 

@@ -136,3 +136,8 @@ Mineral trioxide aggregate (MTA) is identified as the material that resolved the
 - [M2 4.1 Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
 - [M2 5.6 Surgical Complications Management](SubModule_5.6_Surgical_Complications_Management.md)
 - [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)

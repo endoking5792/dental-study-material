@@ -18,7 +18,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 
 - [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md)
 
-## Textbook chapters (8)
+## Textbook chapters (10)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -32,4 +32,9 @@ Chapters in the textbook folders whose titles match this topic.
 - [8 MTA Root Canal Obturation](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/12_8_MTA_Root_Canal_Obturation.md)
 - [9 Root-End Fillings Using MTA](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/13_9_Root_End_Fillings_Using_MTA.md)
 - [10 Calcium Silicate–Based Cements](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/14_10_Calcium_Silicate_Based_Cements.md)
+
+**Textbook and Color Atlas of Traumatic**
+
+- [22 Endodontic Management and the Use of Calcium Hydroxide in Traumatized Permanent Teeth](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxide_in.md)
+- [23 New Endodontic Procedures using Mineral Trioxide Aggregate (MTA) for Teeth with Traumatic Injurie](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/23_23_New_Endodontic_Procedures_using_Mineral_Trioxide_Aggregat.md)
 

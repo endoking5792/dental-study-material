@@ -252,6 +252,7 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
+- [Mount — Preservation and Restoration of Tooth Structure](../../textbooks/Conservative%20Dentistry/Preservation_and_Restoration_of_Tooth_Structure_Graham_J_Mount_Chapterwise/00_INDEX.md)
 - [Pickard's Guide to Minimally Invasive Operative Dentistry](../../textbooks/Conservative%20Dentistry/Pickards_Guide_Minimally_Invasive_Operative_Dentistry_Chapterwise/00_INDEX.md)
 - [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)
 - [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)

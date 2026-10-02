@@ -152,3 +152,11 @@ First-line agent selection and regimen, per Harty's own reference table, include
 5. Fouad AF. Endodontic Microbiology and Pathobiology: Current State of Knowledge. Dent Clin North Am 2017;61(1):1-15.
 
 <!-- related-notes -->
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
+- [Endodontic Microbiology (2e)](../../textbooks/Endodontics/Endodontic_Microbiology_2nd_ed_Chapterwise/00_INDEX.md)
+- [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)
+- [Glossary of Endodontic Terms](../../textbooks/Endodontics/Glossary_of_Endodontic_Terms_Chapterwise/00_INDEX.md)

@@ -41,3 +41,8 @@ For an ankylosed tooth already undergoing replacement resorption, orthodontic mo
 [3] Andreasen JO, Andreasen FM, Andersson L, eds. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Chapter 24, "Orthodontic Management of the Traumatized Dentition" (Malmgren O, Malmgren B).
 
 <!-- related-notes -->
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Andreasen — Textbook and Color Atlas of Traumatic Injuries](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/00_INDEX.md)

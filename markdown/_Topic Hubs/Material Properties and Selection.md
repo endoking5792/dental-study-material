@@ -13,13 +13,17 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md)
 - [M3 6.1 Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md)
 
-## Textbook chapters (21)
+## Textbook chapters (25)
 
 Chapters in the textbook folders whose titles match this topic.
 
 **Dental Materials Properties and Manipulation 10e**
 
 - [Chapter 2: Properties of Materials](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/Dental_Materials_Properties_and_Manipulation_10e_MD/Chapter_02_Properties_of_Materials.md)
+
+**Grossman s Endodontic Practice 14th ed 1**
+
+- [Chapter 8: Selection of Cases for Treatment](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/08_Chapter_8_Selection_of_Cases_for_Treatment.md)
 
 **Introduction to Dental Materials 4th Edition**
 
@@ -53,6 +57,10 @@ Chapters in the textbook folders whose titles match this topic.
 - [Chapter 4: Mechanical Properties of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/Chapter_04.md)
 - [Chapter 5: Structure and Properties of Cast Dental Alloys](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/Chapter_05.md)
 
+**Problem Solving in Endodontics James L Gutmann**
+
+- [Chapter 13  Problem-Solving Challenges in Compromised Roots, Root Canal Systems, and Anatomic Deviat](../../textbooks/Endodontics/Problem_Solving_in_Endodontics_James_L_Gutmann_Chapterwise/13_Chapter_13_Problem_Solving_Challenges_in_Compromised_Roots_R.md)
+
 **Science of Dental Materials**
 
 - [2. General Properties of Matter](../../textbooks/Dental%20Materials/Science_of_Dental_Materials_Chapterwise/02_2_General_Properties_of_Matter.md)
@@ -60,4 +68,12 @@ Chapters in the textbook folders whose titles match this topic.
 **Textbook of Conservative and Restorative Dentistry**
 
 - [6. Case Selection: Treatment Planning](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/14_6_Case_Selection_Treatment_Planning.md)
+
+**The Art and Science of Contemporary Surgical Endodontics Mahmoud 2**
+
+- [Chapter 1: Anatomical Zones in Endodontic Surgery](../../textbooks/Endodontics/The_Art_and_Science_of_Contemporary_Surgical_Endodontics_Mahmoud_2_Chapterwise/01_Chapter_1_Anatomical_Zones_in_Endodontic_Surgery.md)
+
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [10. Endodontic Case Selection: Treatment Planning](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/10_10_Endodontic_Case_Selection_Treatment_Planning.md)
 

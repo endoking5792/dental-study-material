@@ -56,3 +56,9 @@ For a tooth already undergoing ankylosis-driven replacement resorption (Sub-Modu
 - [M2 6.6 Endodontic Periodontal Interrelationships](SubModule_6.6_Endodontic_Periodontal_Interrelationships.md)
 - [M2 2.2 Periapical Diseases and Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
 - [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Weine — Endodontic Therapy (6e)](../../textbooks/Endodontics/Endodontic_Therapy_Franklin_S_Weine_6th_Ed_Mosby_2004_Chapterwise/00_INDEX.md)
+- [Andreasen — Textbook and Color Atlas of Traumatic Injuries](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/00_INDEX.md)

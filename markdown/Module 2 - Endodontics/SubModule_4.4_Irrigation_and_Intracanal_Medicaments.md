@@ -141,3 +141,13 @@ This nanoparticle-enhancement logic extends to sealers too, worth cross-referenc
 [8] Guruswamy Pandian AP, Bellani D, Jibu RM, Agnihotri V. Endodontic Intracanal Medicaments and Agents: The Old and the New, What Is the Evidence? Dent Clin North Am 2026;70(1):45-62.
 
 <!-- related-notes -->
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
+- [Endodontic Irrigation](../../textbooks/Endodontics/Endodontic_Irrigation_Chemical_disinfection_of_the_root_canal_system_Chapterwise/00_INDEX.md)
+- [Endodontic Prognosis: Clinical Guide](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/00_INDEX.md)
+- [Gulabivala & Ng — Endodontics (4e)](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/00_INDEX.md)
+- [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)
+- [Current Therapy in Endodontics](../../textbooks/Endodontics/Current_Therapy_in_Endodontics_Chapterwise/00_INDEX.md)

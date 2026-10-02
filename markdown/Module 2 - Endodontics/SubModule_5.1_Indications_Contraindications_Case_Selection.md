@@ -121,3 +121,11 @@ Surgical endodontics is not a recent development — root amputation was first d
 - [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
 - [M2 4.1 Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
 - [M2 5.6 Surgical Complications Management](SubModule_5.6_Surgical_Complications_Management.md)
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Art and Science of Contemporary Surgical Endodontics](../../textbooks/Endodontics/The_Art_and_Science_of_Contemporary_Surgical_Endodontics_Mahmoud_2_Chapterwise/00_INDEX.md)
+- [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)
+- [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
+- [Grossman's Endodontic Practice (14e)](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/00_INDEX.md)

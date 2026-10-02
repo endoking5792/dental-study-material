@@ -19,7 +19,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M3 3.2 Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md)
 - [M3 3.3 Adhesive Protocol and Application](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.3_Adhesive_Protocol_and_Application.md)
 
-## Textbook chapters (18)
+## Textbook chapters (19)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -37,6 +37,10 @@ Chapters in the textbook folders whose titles match this topic.
 **Craig Restorative Dental Materials 14e**
 
 - [Chapter 13: Materials for Adhesion and Luting](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/Chapter_13.md)
+
+**Endodontology**
+
+- [37 Adhesive-retained, Fiber-reinforced Composite Posts](../../textbooks/Endodontics/Endodontology_Chapterwise/37_37_Adhesive_retained_Fiber_reinforced_Composite_Posts.md)
 
 **Introduction to Dental Materials 4th Edition**
 

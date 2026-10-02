@@ -17,9 +17,22 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md)
 - [M3 5.1 Biocompatibility Assessment](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.1_Biocompatibility_Assessment.md)
 
-## Textbook chapters (8)
+## Textbook chapters (16)
 
 Chapters in the textbook folders whose titles match this topic.
+
+**Cohen s Pathways of the Pulp 12th edi Louis H Berman**
+
+- [24.  Vital pulp therapy](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/24_24_Vital_pulp_therapy.md)
+
+**Endodontics Kishor Gulabivala Yuan Ling Ng 4th Ed Mosby 2014**
+
+- [2 Biological and clinical rationale for vital pulp therapy](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/02_2_Biological_and_clinical_rationale_for_vital_pulp_therapy.md)
+- [7 Vital pulp therapy](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/07_7_Vital_pulp_therapy.md)
+
+**Grossman s Endodontic Practice 14th ed 1**
+
+- [Chapter 11: Vital Pulp Therapy and Apexification](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/11_Chapter_11_Vital_Pulp_Therapy_and_Apexification.md)
 
 **Introduction to Dental Materials 4th Edition**
 
@@ -43,7 +56,23 @@ Chapters in the textbook folders whose titles match this topic.
 
 - [ch 16 : cast and wrought base-metal alloys](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/19_ch_16_cast_and_wrought_base_metal_alloys.md)
 
+**Preservation and Restoration of Tooth Structure Graham J Mount**
+
+- [12 Pulpal Responses, Pulp Protection and Pulp Therapy](../../textbooks/Conservative%20Dentistry/Preservation_and_Restoration_of_Tooth_Structure_Graham_J_Mount_Chapterwise/12_12_Pulpal_Responses_Pulp_Protection_and_Pulp_Therapy.md)
+
+**Problem Solving in Endodontics James L Gutmann**
+
+- [Chapter 7  Problem-Solving Challenges in Dentin Hypersensitivity and Vital Pulp Therapy](../../textbooks/Endodontics/Problem_Solving_in_Endodontics_James_L_Gutmann_Chapterwise/07_Chapter_7_Problem_Solving_Challenges_in_Dentin_Hypersensitiv.md)
+
 **Summitts Fundamentals of Operative Dentistry**
 
 - [6. Pulpal Considerations](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/06_6_Pulpal_Considerations.md)
+
+**The Guidebook to Molar Endodontics**
+
+- [5 Vital Pulp Therapy for Permanent Molars Lars Bjørndal Guiding Reference](../../textbooks/Endodontics/The_Guidebook_to_Molar_Endodontics_Chapterwise/05_5_Vital_Pulp_Therapy_for_Permanent_Molars_Lars_Bj_rndal_Guid.md)
+
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [25. Vital Pulp Therapy](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/25_25_Vital_Pulp_Therapy.md)
 

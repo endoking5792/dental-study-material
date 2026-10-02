@@ -15,7 +15,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
 - [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
 
-## Textbook chapters (8)
+## Textbook chapters (15)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -23,9 +23,28 @@ Chapters in the textbook folders whose titles match this topic.
 
 - [Chapter 1 - Management of dental caries](../../textbooks/Conservative%20Dentistry/Advanced_Operative_Dentistry_Chapterwise/05_Chapter_1_Management_of_dental_caries.md)
 
+**Cohen s Pathways of the Pulp 12th edi Louis H Berman**
+
+- [14.  Pulp reactions to caries and dental procedures](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/14_14_Pulp_reactions_to_caries_and_dental_procedures.md)
+
+**Endodontic Microbiology 2nd ed**
+
+- [Chapter 3  Microbiology of Dental Caries and Dentinal](../../textbooks/Endodontics/Endodontic_Microbiology_2nd_ed_Chapterwise/03_Chapter_3_Microbiology_of_Dental_Caries_and_Dentinal.md)
+
 **Modern Operative Dentistry**
 
 - [3: Cariology](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/08_3_Cariology.md)
+
+**Oral Microbiology and Immunology**
+
+- [11. Dental Caries: Etiology and Pathogenesis](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/11_11_Dental_Caries_Etiology_and_Pathogenesis.md)
+- [12. Pathogenic Mechanisms in Dental Caries](../../textbooks/Endodontics/Oral_Microbiology_and_Immunology_Chapterwise/12_12_Pathogenic_Mechanisms_in_Dental_Caries.md)
+
+**Preservation and Restoration of Tooth Structure Graham J Mount**
+
+- [2 Dental Caries: Management of Early Lesions and the Disease Process](../../textbooks/Conservative%20Dentistry/Preservation_and_Restoration_of_Tooth_Structure_Graham_J_Mount_Chapterwise/02_2_Dental_Caries_Management_of_Early_Lesions_and_the_Disease_.md)
+- [3 Dental Caries: Activity and Risk Assessment as a Logical and Effective Path to Both Prevention and](../../textbooks/Conservative%20Dentistry/Preservation_and_Restoration_of_Tooth_Structure_Graham_J_Mount_Chapterwise/03_3_Dental_Caries_Activity_and_Risk_Assessment_as_a_Logical_an.md)
+- [14 Caries in Young Children: Special Considerations in Aetiology and Management](../../textbooks/Conservative%20Dentistry/Preservation_and_Restoration_of_Tooth_Structure_Graham_J_Mount_Chapterwise/14_14_Caries_in_Young_Children_Special_Considerations_in_Aetiol.md)
 
 **Seltzer and Bender Dental Pulp**
 

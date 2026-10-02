@@ -17,13 +17,17 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 
 - [M3 4.1 Cement Types and Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md)
 
-## Textbook chapters (8)
+## Textbook chapters (14)
 
 Chapters in the textbook folders whose titles match this topic.
 
 **Advances in Operative Dentistry**
 
 - [Bonded Partial Restorations for Endodontically Treated Teeth](../../textbooks/Conservative%20Dentistry/Advances_in_Operative_Dentistry_Chapterwise/19_Bonded_Partial_Restorations_for_Endodontically_Treated_Teeth.md)
+
+**Cohen s Pathways of the Pulp 12th edi Louis H Berman**
+
+- [23.  Restoration of the endodontically treated tooth](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/23_23_Restoration_of_the_endodontically_treated_tooth.md)
 
 **Contemporary Restoration of Endodontically Treated Teeth**
 
@@ -33,9 +37,29 @@ Chapters in the textbook folders whose titles match this topic.
 - [6 Tooth Whitening and Management of Discolored Endodontically Treated Teeth](../../textbooks/Conservative%20Dentistry/Contemporary_Restoration_of_Endodontically_Treated_Teeth_Chapterwise/06_6_Tooth_Whitening_and_Management_of_Discolored_Endodonticall.md)
 - [12 Repair of Perforations in Endodontically Treated Teeth](../../textbooks/Conservative%20Dentistry/Contemporary_Restoration_of_Endodontically_Treated_Teeth_Chapterwise/12_12_Repair_of_Perforations_in_Endodontically_Treated_Teeth.md)
 
+**Endodontic Prognosis Clinical Guide**
+
+- [10: Restoration of Endodontically Treated Teeth](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/10_10_Restoration_of_Endodontically_Treated_Teeth.md)
+
+**Endodontics Principles and Practice**
+
+- [16 - Restoration of Endodontically Treated Teeth](../../textbooks/Endodontics/Endodontics_Principles_and_Practice_Chapterwise/16_16_Restoration_of_Endodontically_Treated_Teeth.md)
+
+**Grossman s Endodontic Practice 14th ed 1**
+
+- [Chapter 18: Prosthodontic Considerations in Endodontically Treated Teeth](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/18_Chapter_18_Prosthodontic_Considerations_in_Endodontically_Tr.md)
+
+**Harty s Endodontics in Clinical Practice 7th ed**
+
+- [15 Restoration of Endodontically Treated Teeth](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/15_15_Restoration_of_Endodontically_Treated_Teeth.md)
+
 **Indirect Restorations Sikri**
 
 - [6. Post and Core Restorations](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/15_6_Post_and_Core_Restorations.md)
+
+**Problem Solving in Endodontics James L Gutmann**
+
+- [Chapter 20  Problem Solving the Challenges Faced in the Restoration of Endodontically Treated Teeth](../../textbooks/Endodontics/Problem_Solving_in_Endodontics_James_L_Gutmann_Chapterwise/20_Chapter_20_Problem_Solving_the_Challenges_Faced_in_the_Resto.md)
 
 **Summitts Fundamentals of Operative Dentistry**
 

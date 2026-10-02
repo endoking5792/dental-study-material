@@ -121,3 +121,9 @@ Once preparation is complete, the cavity is inspected circumferentially — fail
 [6] Floratos S, Kim S. Modern Endodontic Microsurgery Concepts: A Clinical Update. Dent Clin North Am 2017;61(1):81-91.
 
 <!-- related-notes -->
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Art and Science of Contemporary Surgical Endodontics](../../textbooks/Endodontics/The_Art_and_Science_of_Contemporary_Surgical_Endodontics_Mahmoud_2_Chapterwise/00_INDEX.md)
+- [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)

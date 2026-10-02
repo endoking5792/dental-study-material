@@ -14,7 +14,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 
 - [M3 2.3 Polymer Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.3_Polymer_Materials.md)
 
-## Textbook chapters (35)
+## Textbook chapters (40)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -40,6 +40,10 @@ Chapters in the textbook folders whose titles match this topic.
 **Dental Materials Properties and Manipulation 10e**
 
 - [Chapter 13: Polymers in Prosthodontics](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/Dental_Materials_Properties_and_Manipulation_10e_MD/Chapter_13_Polymers_in_Prosthodontics.md)
+
+**Endodontology**
+
+- [37 Adhesive-retained, Fiber-reinforced Composite Posts](../../textbooks/Endodontics/Endodontology_Chapterwise/37_37_Adhesive_retained_Fiber_reinforced_Composite_Posts.md)
 
 **Introduction to Dental Materials 4th Edition**
 
@@ -76,6 +80,10 @@ Chapters in the textbook folders whose titles match this topic.
 - [Chapter 13: Resin-Based Composites](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/Chapter_13.md)
 - [Chapter 19: Prosthetic Polymers and Resins](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/Chapter_19.md)
 
+**Preservation and Restoration of Tooth Structure Graham J Mount**
+
+- [10 Resin‐Based Composite Restorative Materials](../../textbooks/Conservative%20Dentistry/Preservation_and_Restoration_of_Tooth_Structure_Graham_J_Mount_Chapterwise/10_10_Resin_Based_Composite_Restorative_Materials.md)
+
 **Science of Dental Materials**
 
 - [5. Dental Polymer—Resins](../../textbooks/Dental%20Materials/Science_of_Dental_Materials_Chapterwise/05_5_Dental_Polymer_Resins.md)
@@ -88,7 +96,16 @@ Chapters in the textbook folders whose titles match this topic.
 - [Chapter 12: Class III, IV, and V Direct Composite and Other Tooth-Colored Restorations](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/12%20-%20Class%20III%2C%20IV%2C%20and%20V%20Direct%20Composite%20and%20Other%20Tooth-Colored%20Restorations.md)
 - [Chapter 13: Class I, II, and VI Direct Composite and Other Tooth-Colored Restorations](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/13%20-%20Class%20I%2C%20II%2C%20and%20VI%20Direct%20Composite%20and%20Other%20Tooth-Colored%20Restorations.md)
 
+**Textbook and Color Atlas of Traumatic**
+
+- [25 Restoration of Traumatized Teeth with Resin Composites](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/25_25_Restoration_of_Traumatized_Teeth_with_Resin_Composites.md)
+- [26 Resin-related Bridges and Conventional Bridges in the Anterior Region](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/26_26_Resin_related_Bridges_and_Conventional_Bridges_in_the_Ant.md)
+
 **Textbook of Conservative and Restorative Dentistry**
 
 - [19. Composite Restorations](../../textbooks/Conservative%20Dentistry/Textbook_of_Conservative_and_Restorative_Dentistry_Chapterwise/27_19_Composite_Restorations.md)
+
+**Vimal K Sikri Essentials of Endodontics 2nd Ed**
+
+- [37. Resinifying Therapy in Endodontics](../../textbooks/Endodontics/Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/37_37_Resinifying_Therapy_in_Endodontics.md)
 

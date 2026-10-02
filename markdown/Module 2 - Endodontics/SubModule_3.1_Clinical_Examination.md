@@ -82,3 +82,8 @@ The test cavity — cutting an unanesthetized cavity into the tooth purely to se
 - [M2 3.4 Treatment Planning](SubModule_3.4_Treatment_Planning.md)
 - [M2 3.5 Medically Complex Patient](SubModule_3.5_Medically_Complex_Patient.md)
 - [M2 3.2 Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)

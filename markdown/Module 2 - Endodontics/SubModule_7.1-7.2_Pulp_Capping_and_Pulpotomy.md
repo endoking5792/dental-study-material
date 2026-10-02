@@ -193,3 +193,13 @@ A genuinely important, practice-changing finding directly affects how follow-up 
 - [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
 - [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
 - [M2 7.3 Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
+- [Glossary of Endodontic Terms](../../textbooks/Endodontics/Glossary_of_Endodontic_Terms_Chapterwise/00_INDEX.md)
+- [Vital Pulp Treatment (Duncan & El-Karim)](../../textbooks/Endodontics/Vital_Pulp_Treatment_Chapterwise/00_INDEX.md)
+- [Weine — Endodontic Therapy (6e)](../../textbooks/Endodontics/Endodontic_Therapy_Franklin_S_Weine_6th_Ed_Mosby_2004_Chapterwise/00_INDEX.md)
+- [Walton & Torabinejad — Principles and Practice of Endodontics (2002)](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/00_INDEX.md)
+- [Current Therapy in Endodontics](../../textbooks/Endodontics/Current_Therapy_in_Endodontics_Chapterwise/00_INDEX.md)

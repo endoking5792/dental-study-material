@@ -167,4 +167,5 @@ A real, direct statement of the overall decision principle worth closing on: apa
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
+- [Mount — Preservation and Restoration of Tooth Structure](../../textbooks/Conservative%20Dentistry/Preservation_and_Restoration_of_Tooth_Structure_Graham_J_Mount_Chapterwise/00_INDEX.md)
 - [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)

@@ -17,7 +17,7 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M3 6.1 Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md)
 - [M3 7.1 Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md)
 
-## Textbook chapters (20)
+## Textbook chapters (21)
 
 Chapters in the textbook folders whose titles match this topic.
 
@@ -57,6 +57,10 @@ Chapters in the textbook folders whose titles match this topic.
 **Philips Science of Dental Materials 12e**
 
 - [Chapter 15: Dental Amalgams](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/Chapter_15.md)
+
+**Preservation and Restoration of Tooth Structure Graham J Mount**
+
+- [11 Silver Amalgam](../../textbooks/Conservative%20Dentistry/Preservation_and_Restoration_of_Tooth_Structure_Graham_J_Mount_Chapterwise/11_11_Silver_Amalgam.md)
 
 **Science of Dental Materials**
 
