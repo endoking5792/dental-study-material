@@ -115,16 +115,27 @@ A real, practical, and genuinely material-specific finding directly relevant to 
 <!-- related-notes -->
 ## Related Notes
 
-**Impressions, Gypsum and Waxes** — hub: [Impressions, Gypsum and Waxes](../_Topic%20Hubs/Impressions%2C%20Gypsum%20and%20Waxes.md)
+**Casting, Investment & Die Materials** — hub: [Casting, Investment & Die Materials](../_Topic%20Hubs/Casting%2C%20Investment%20%26%20Die%20Materials.md)
 
-- [M1 5.3 Indirect Restoration Preparation and Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
-- [M3 8.3 Impression Materials](SubModule_8.3_Impression_Materials.md)
-- [M3 8.5 Dental Waxes](SubModule_8.5_Dental_Waxes.md)
-- [M3 8.1 Casting Procedures and Defects](SubModule_8.1_Casting_Procedures_and_Defects.md)
+- [M3 · 8.1: Casting Procedures & Defects](SubModule_8.1_Casting_Procedures_and_Defects.md)
+- [M3 · 8.5: Dental Waxes](SubModule_8.5_Dental_Waxes.md)
+
+**Restorative Forces, Marginal Integrity & Biomechanics** — hub: [Restorative Forces, Marginal Integrity & Biomechanics](../_Topic%20Hubs/Restorative%20Forces%2C%20Marginal%20Integrity%20%26%20Biomechanics.md)
+
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 · 5.2: Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M1 · 6.4: Non-Carious Tooth Structure Loss](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss.md) *(other module)*
+- [M3 · 1.3: Mechanical Properties](SubModule_1.3_Mechanical_Properties.md)
+- [M3 · 2.2: Ceramics & Glass Materials](SubModule_2.2_Ceramics_and_Glass_Materials.md)
+- [M3 · 7.1: Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
+- [M3 · 3.1: Adhesion Mechanisms](SubModule_3.1_Adhesion_Mechanisms.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
-- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)
+- [[Craig Restorative Dental Materials 14e|Craig's Restorative Dental Materials (14e)]]
+- [[Restorative Dental Materials (Craig, Michigan|Restorative Dental Materials (Craig, Michigan 11e)]]
 - [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)

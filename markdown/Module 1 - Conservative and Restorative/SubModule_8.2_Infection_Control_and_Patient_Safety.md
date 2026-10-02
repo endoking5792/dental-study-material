@@ -73,6 +73,44 @@ Stated directly and unambiguously: in ALL cases of injury, the patient must be i
 2. Kidd EAM, Fejerskov O, Nyvad B, editors. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press. §5.3, "Infection control/personal protective equipment (PPE)"; §5.4, "Patient safety and risk management."
 
 <!-- related-notes -->
+## Related Notes
+
+**Instruments & Instrumentation** — hub: [Instruments & Instrumentation](../_Topic%20Hubs/Instruments%20%26%20Instrumentation.md)
+
+- [M2 · 4.3: Cleaning & Shaping of Root Canals](../Module%202%20-%20Endodontics/SubModule_4.3_Cleaning_and_Shaping.md) *(other module)*
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](../Module%202%20-%20Endodontics/SubModule_4.6_Nonsurgical_Retreatment.md) *(other module)*
+- [M2 · 4.2: Working Length Determination](../Module%202%20-%20Endodontics/SubModule_4.2_Working_Length_Determination.md) *(other module)*
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M3 · 2.1: Metals & Alloys](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.1_Metals_and_Alloys.md) *(other module)*
+- [M2 · 4.1: Access Cavity Preparation](../Module%202%20-%20Endodontics/SubModule_4.1_Access_Cavity_Preparation.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 2.2: Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+
+**Instruments, Equipment & Cutting Technology** — hub: [Instruments, Equipment & Cutting Technology](../_Topic%20Hubs/Instruments%2C%20Equipment%20%26%20Cutting%20Technology.md)
+
+- [M2 · 4.3: Cleaning & Shaping of Root Canals](../Module%202%20-%20Endodontics/SubModule_4.3_Cleaning_and_Shaping.md) *(other module)*
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](../Module%202%20-%20Endodontics/SubModule_4.6_Nonsurgical_Retreatment.md) *(other module)*
+- [M2 · 5.3: Periradicular Surgery Technique](../Module%202%20-%20Endodontics/SubModule_5.3_Periradicular_Surgery_Technique.md) *(other module)*
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M2 · 4.1: Access Cavity Preparation](../Module%202%20-%20Endodontics/SubModule_4.1_Access_Cavity_Preparation.md) *(other module)*
+- [M2 · 4.2: Working Length Determination](../Module%202%20-%20Endodontics/SubModule_4.2_Working_Length_Determination.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 2.2: Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+
+**Sterilization & Infection Control** — hub: [Sterilization & Infection Control](../_Topic%20Hubs/Sterilization%20%26%20Infection%20Control.md)
+
+
+**Endodontic Microbiology & Biofilms** — hub: [Endodontic Microbiology & Biofilms](../_Topic%20Hubs/Endodontic%20Microbiology%20%26%20Biofilms.md)
+
+- [M2 · 2.3: Microbiology of Endodontic Infections](../Module%202%20-%20Endodontics/SubModule_2.3_Microbiology_of_Endodontic_Infections.md) *(other module)*
+- [M2 · 4.4: Irrigation & Intracanal Medicaments](../Module%202%20-%20Endodontics/SubModule_4.4_Irrigation_and_Intracanal_Medicaments.md) *(other module)*
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](../Module%202%20-%20Endodontics/SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md) *(other module)*
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
+- [M2 · 5.6: Surgical Complications & Management](../Module%202%20-%20Endodontics/SubModule_5.6_Surgical_Complications_Management.md) *(other module)*
+- [M2 · 3.5: Management of the Medically Complex Endodontic Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md) *(other module)*
+- [M1 · 1.1: Caries Etiology and Pathogenesis](SubModule_1.1_Caries_Etiology_and_Pathogenesis.md)
+- [M1 · 1.3: Caries Risk Assessment and Management](SubModule_1.3_Caries_Risk_Assessment_and_Management.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)

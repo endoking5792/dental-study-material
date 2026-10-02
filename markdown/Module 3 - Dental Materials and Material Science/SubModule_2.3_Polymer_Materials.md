@@ -160,20 +160,27 @@ Both preformed-shell approaches share the same two structural limitations: a pre
 <!-- related-notes -->
 ## Related Notes
 
-**Composite Resin and Polymers** — hub: [Composite Resin and Polymers](../_Topic%20Hubs/Composite%20Resin%20and%20Polymers.md)
+**Composite Resin** — hub: [Composite Resin](../_Topic%20Hubs/Composite%20Resin.md)
 
-- [M1 3.1 Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
-- [M1 4.1 Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
-- [M1 4.2a ClassI II Composite Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols.md) *(other module)*
-- [M1 4.2b ClassIII IV V Composite Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md) *(other module)*
-- [M1 4.3 Matrix Systems Contacts and Contours](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols.md) *(other module)*
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md) *(other module)*
+- [M1 · 6.1: Large Restorations & Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
+- [M1 · 6.2: Restoration of Esthetic Zone](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone.md) *(other module)*
+- [M3 · 6.1: Material Selection Criteria](SubModule_6.1_Material_Selection_Criteria.md)
+- [M3 · 7.1: Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
+- [M3 · 1.2: Physical Properties](SubModule_1.2_Physical_Properties.md)
+- [M3 · 3.1: Adhesion Mechanisms](SubModule_3.1_Adhesion_Mechanisms.md)
+
+**Nanotechnology & Nanomaterials** — hub: [Nanotechnology & Nanomaterials](../_Topic%20Hubs/Nanotechnology%20%26%20Nanomaterials.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
-- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
+- [[Craig Restorative Dental Materials 14e|Craig's Restorative Dental Materials (14e)]]
 - [Advanced Operative Dentistry](../../textbooks/Conservative%20Dentistry/Advanced_Operative_Dentistry_Chapterwise/00_INDEX.md)
-- [McCabe — Applied Dental Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/00_INDEX.md)
+- [[Applied Dental Materials (McCabe & Walls)|McCabe — Applied Dental Materials]]
 - [van Noort — Introduction to Dental Materials (4e)](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/00_INDEX.md)
-- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)
+- [[Restorative Dental Materials (Craig, Michigan|Restorative Dental Materials (Craig, Michigan 11e)]]

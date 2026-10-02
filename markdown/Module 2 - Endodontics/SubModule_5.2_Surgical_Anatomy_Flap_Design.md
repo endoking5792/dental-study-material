@@ -106,6 +106,31 @@ Niemczyk's account of the three flap designs actually used in contemporary endod
 [5] Niemczyk SP. Essentials of Endodontic Microsurgery. Dent Clin North Am 2010;54(2):375-399.
 
 <!-- related-notes -->
+## Related Notes
+
+**Root Canal Anatomy & Morphology** — hub: [Root Canal Anatomy & Morphology](../_Topic%20Hubs/Root%20Canal%20Anatomy%20%26%20Morphology.md)
+
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols.md) *(other module)*
+- [M2 · 4.3: Cleaning & Shaping of Root Canals](SubModule_4.3_Cleaning_and_Shaping.md)
+
+**Access Cavity Preparation** — hub: [Access Cavity Preparation](../_Topic%20Hubs/Access%20Cavity%20Preparation.md)
+
+- [M2 · 4.1: Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
+
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
+
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+
+**Surgical Endodontics & Periapical Surgery** — hub: [Surgical Endodontics & Periapical Surgery](../_Topic%20Hubs/Surgical%20Endodontics%20%26%20Periapical%20Surgery.md)
+
+- [M2 · 5.1: Indications, Contraindications & Case Selection for Surgery](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+- [M2 · 5.3: Periradicular Surgery Technique](SubModule_5.3_Periradicular_Surgery_Technique.md)
+- [M2 · 5.5: Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
@@ -113,4 +138,4 @@ Niemczyk's account of the three flap designs actually used in contemporary endod
 - [Art and Science of Contemporary Surgical Endodontics](../../textbooks/Endodontics/The_Art_and_Science_of_Contemporary_Surgical_Endodontics_Mahmoud_2_Chapterwise/00_INDEX.md)
 - [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]

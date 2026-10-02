@@ -221,51 +221,78 @@ A real, current, practical question increasingly relevant to post-and-core treat
 <!-- related-notes -->
 ## Related Notes
 
-**Restoration of the Endodontically Treated Tooth** — hub: [Restoration of the Endodontically Treated Tooth](../_Topic%20Hubs/Restoration%20of%20the%20Endodontically%20Treated%20Tooth.md)
+**Post & Core / Cast Restorations** — hub: [Post & Core / Cast Restorations](../_Topic%20Hubs/Post%20%26%20Core%20-%20Cast%20Restorations.md)
 
-- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
-- [M2 8.4 Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
-- [M3 4.1 Cement Types and Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
-- [M1 6.1 Large Restorations and Complex Cases](SubModule_6.1_Large_Restorations_and_Complex_Cases.md)
-- [M1 5.1 Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
+- [M2 · 4.7: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 · 6.2: Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md) *(other module)*
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M1 · 6.1: Large Restorations & Complex Cases](SubModule_6.1_Large_Restorations_and_Complex_Cases.md)
 
-**Post, Core and Ferrule** — hub: [Post, Core and Ferrule](../_Topic%20Hubs/Post%2C%20Core%20and%20Ferrule.md)
+**Restoration of Endodontically Treated Teeth** — hub: [Restoration of Endodontically Treated Teeth](../_Topic%20Hubs/Restoration%20of%20Endodontically%20Treated%20Teeth.md)
 
-- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
-- [M2 8.4 Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
-- [M2 4.6 Nonsurgical Retreatment](../Module%202%20-%20Endodontics/SubModule_4.6_Nonsurgical_Retreatment.md) *(other module)*
-- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
-- [M2 6.2 Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md) *(other module)*
+- [M2 · 4.7: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 · 6.2: Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md) *(other module)*
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M1 · 6.1: Large Restorations & Complex Cases](SubModule_6.1_Large_Restorations_and_Complex_Cases.md)
 
-**Adhesion and Bonding** — hub: [Adhesion and Bonding](../_Topic%20Hubs/Adhesion%20and%20Bonding.md)
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
 
-- [M3 3.1 Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
-- [M3 3.2 Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
-- [M3 3.3 Adhesive Protocol and Application](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.3_Adhesive_Protocol_and_Application.md) *(other module)*
-- [M2 8.4 Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
-- [M1 3.2 Adhesive Systems and Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
-- [M1 4.1 Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
-- [M1 5.3 Indirect Restoration Preparation and Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
+- [M2 · 1: Pulp-Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 · 3.2: Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 2.2: Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+- [M1 · 3.2: Adhesive Systems & Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md)
 
-**Cements and Cementation** — hub: [Cements and Cementation](../_Topic%20Hubs/Cements%20and%20Cementation.md)
+**Ceramic & Indirect Restorations** — hub: [Ceramic & Indirect Restorations](../_Topic%20Hubs/Ceramic%20%26%20Indirect%20Restorations.md)
 
-- [M3 4.1 Cement Types and Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
-- [M3 4.2 Cementation Protocol](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.2_Cementation_Protocol.md) *(other module)*
-- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
-- [M1 5.3 Indirect Restoration Preparation and Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
-- [M1 5.1 Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
+- [M3 · 2.2: Ceramics & Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 · 6.5: Crown-Originating Dental Fractures](../Module%202%20-%20Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures.md) *(other module)*
+- [M2 · 5.5: Other Surgical Procedures](../Module%202%20-%20Endodontics/SubModule_5.5_Other_Surgical_Procedures.md) *(other module)*
+- [M1 · 5.2: Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
+- [M1 · 5.1: Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
+- [M1 · 5.3: Indirect Restoration Preparation & Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md)
 
-**Metals, Alloys and Casting** — hub: [Metals, Alloys and Casting](../_Topic%20Hubs/Metals%2C%20Alloys%20and%20Casting.md)
+**Dentin Bonding Agents & Adhesive Dentistry** — hub: [Dentin Bonding Agents & Adhesive Dentistry](../_Topic%20Hubs/Dentin%20Bonding%20Agents%20%26%20Adhesive%20Dentistry.md)
 
-- [M3 2.1 Metals and Alloys](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.1_Metals_and_Alloys.md) *(other module)*
-- [M3 8.1 Casting Procedures and Defects](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.1_Casting_Procedures_and_Defects.md) *(other module)*
-- [M1 5.2 Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
-- [M1 6.6 Direct Gold Restorations](SubModule_6.6_Direct_Gold_Restorations.md)
+- [M3 · 3.2: Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 · 3.3: Adhesive Protocol & Application](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.3_Adhesive_Protocol_and_Application.md) *(other module)*
+- [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M3 · 4.1: Cement Types & Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
+- [M1 · 4.4: Fissure Sealants & Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md)
+- [M1 · 3.1: Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
+
+**Restorative Forces, Marginal Integrity & Biomechanics** — hub: [Restorative Forces, Marginal Integrity & Biomechanics](../_Topic%20Hubs/Restorative%20Forces%2C%20Marginal%20Integrity%20%26%20Biomechanics.md)
+
+- [M3 · 1.3: Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
+- [M3 · 2.2: Ceramics & Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 · 8.4: Gypsum Products](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.4_Gypsum_Products.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 3.1: Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
+- [M1 · 5.2: Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
+- [M1 · 3.2: Adhesive Systems & Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Indirect Restorations in Dental Practice (Sikri)](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/00_INDEX.md)
+- [[Indirect Restorations in Dental Practice|Indirect Restorations in Dental Practice (Sikri)]]
 - [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)
 - [Marzouk — Operative Dentistry: Modern Theory and Practice](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/00_INDEX.md)
 - [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)

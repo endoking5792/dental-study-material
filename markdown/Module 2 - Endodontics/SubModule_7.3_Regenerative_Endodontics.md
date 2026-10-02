@@ -79,27 +79,55 @@ A real mechanistic explanation for the partial return of pulp sensibility seen i
 <!-- related-notes -->
 ## Related Notes
 
-**MTA, Calcium Silicates and Bioceramics** — hub: [MTA, Calcium Silicates and Bioceramics](../_Topic%20Hubs/MTA%2C%20Calcium%20Silicates%20and%20Bioceramics.md)
+**Intracanal Medicaments** — hub: [Intracanal Medicaments](../_Topic%20Hubs/Intracanal%20Medicaments.md)
 
-- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
-- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
-- [M2 7.1-7.2 Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
-- [M2 5.4 Root End Preparation Retrograde Filling Materials](SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md)
-- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
-- [M2 4.5 Obturation of Root Canals](SubModule_4.5_Obturation_of_Root_Canals.md)
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 · 4.4: Irrigation & Intracanal Medicaments](SubModule_4.4_Irrigation_and_Intracanal_Medicaments.md)
+- [M2 · 3.5: Management of the Medically Complex Endodontic Patient](SubModule_3.5_Medically_Complex_Patient.md)
+- [M2 · 2.3: Microbiology of Endodontic Infections](SubModule_2.3_Microbiology_of_Endodontic_Infections.md)
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](SubModule_6.8_Endodontics_in_Primary_Teeth.md)
 
-**Biocompatibility and Bioactivity** — hub: [Biocompatibility and Bioactivity](../_Topic%20Hubs/Biocompatibility%20and%20Bioactivity.md)
+**Regenerative Endodontics & Revascularization** — hub: [Regenerative Endodontics & Revascularization](../_Topic%20Hubs/Regenerative%20Endodontics%20%26%20Revascularization.md)
 
-- [M3 5.1 Biocompatibility Assessment](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.1_Biocompatibility_Assessment.md) *(other module)*
-- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
-- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
-- [M2 7.1-7.2 Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+
+**Apexification, Apexogenesis & Immature Apex** — hub: [Apexification, Apexogenesis & Immature Apex](../_Topic%20Hubs/Apexification%2C%20Apexogenesis%20%26%20Immature%20Apex.md)
+
+
+**Bioactive & Calcium Silicate Endodontic Materials** — hub: [Bioactive & Calcium Silicate Endodontic Materials](../_Topic%20Hubs/Bioactive%20%26%20Calcium%20Silicate%20Endodontic%20Materials.md)
+
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M3 · 4.1: Cement Types & Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
+- [M2 · 5.4: Root-End Preparation & Retrograde Filling Materials](SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md)
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 · 4.5: Obturation of Root Canals](SubModule_4.5_Obturation_of_Root_Canals.md)
+
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
+
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
+
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 · 1: Pulp-Dentin Complex Biology](SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md)
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 6.2: Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
 - [Glossary of Endodontic Terms](../../textbooks/Endodontics/Glossary_of_Endodontic_Terms_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Vital Pulp Treatment (Duncan & El-Karim)](../../textbooks/Endodontics/Vital_Pulp_Treatment_Chapterwise/00_INDEX.md)
-- [Current Therapy in Endodontics](../../textbooks/Endodontics/Current_Therapy_in_Endodontics_Chapterwise/00_INDEX.md)
+- [[Current Therapy in Endodontics|Current Therapy in Endodontics]]

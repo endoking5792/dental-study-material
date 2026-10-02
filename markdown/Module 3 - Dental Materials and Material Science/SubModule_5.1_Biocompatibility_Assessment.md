@@ -131,28 +131,23 @@ Reported frequencies of POSITIVE patch-test responses to common dental allergen 
 <!-- related-notes -->
 ## Related Notes
 
-**Pulp Protection, Liners and Pulp Capping** — hub: [Pulp Protection, Liners and Pulp Capping](../_Topic%20Hubs/Pulp%20Protection%2C%20Liners%20and%20Pulp%20Capping.md)
+**Corrosion, Tarnish & Biocompatibility** — hub: [Corrosion, Tarnish & Biocompatibility](../_Topic%20Hubs/Corrosion%2C%20Tarnish%20%26%20Biocompatibility.md)
 
-- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
-- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
-- [M1 2.2 Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
-- [M2 1.1-1.3 Pulp Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
-- [M3 5.2 Bioactive Materials](SubModule_5.2_Bioactive_Materials.md)
-
-**Biocompatibility and Bioactivity** — hub: [Biocompatibility and Bioactivity](../_Topic%20Hubs/Biocompatibility%20and%20Bioactivity.md)
-
-- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
-- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
-- [M2 7.3 Regenerative Endodontics](../Module%202%20-%20Endodontics/SubModule_7.3_Regenerative_Endodontics.md) *(other module)*
-- [M3 5.2 Bioactive Materials](SubModule_5.2_Bioactive_Materials.md)
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 · 5.2: Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
+- [M2 · 5.4: Root-End Preparation & Retrograde Filling Materials](../Module%202%20-%20Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
+- [M3 · 2.1: Metals & Alloys](SubModule_2.1_Metals_and_Alloys.md)
+- [M3 · 8.2: Dental Amalgam](SubModule_8.2_Dental_Amalgam.md)
+- [M3 · 6.1: Material Selection Criteria](SubModule_6.1_Material_Selection_Criteria.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
-- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)
+- [[Craig Restorative Dental Materials 14e|Craig's Restorative Dental Materials (14e)]]
+- [[Restorative Dental Materials (Craig, Michigan|Restorative Dental Materials (Craig, Michigan 11e)]]
 - [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
-- [Bonsor & Pearson — A Clinical Guide to Applied Dental Materials](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/00_INDEX.md)
+- [[A Clinical Guide to Applied Dental Materials|Bonsor & Pearson — A Clinical Guide to Applied Dental Materials]]
 - [van Noort — Introduction to Dental Materials (4e)](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/00_INDEX.md)
-- [McCabe — Applied Dental Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/00_INDEX.md)
+- [[Applied Dental Materials (McCabe & Walls)|McCabe — Applied Dental Materials]]
 - [Powers & Wataha — Dental Materials: Properties and Manipulation (10e)](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/Dental_Materials_Properties_and_Manipulation_10e_MD/00_INDEX.md)

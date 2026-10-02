@@ -131,13 +131,30 @@ A real, specific removal technique for when the cured inlay resists coming out o
 <!-- related-notes -->
 ## Related Notes
 
-**Composite Resin and Polymers** — hub: [Composite Resin and Polymers](../_Topic%20Hubs/Composite%20Resin%20and%20Polymers.md)
+**Matrices & Retainers** — hub: [Matrices & Retainers](../_Topic%20Hubs/Matrices%20%26%20Retainers.md)
 
-- [M3 2.3 Polymer Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.3_Polymer_Materials.md) *(other module)*
-- [M1 3.1 Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
-- [M1 4.1 Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
-- [M1 4.2a ClassI II Composite Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
-- [M1 4.2b ClassIII IV V Composite Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 · 6.1: Large Restorations & Complex Cases](SubModule_6.1_Large_Restorations_and_Complex_Cases.md)
+
+**Composite Resin** — hub: [Composite Resin](../_Topic%20Hubs/Composite%20Resin.md)
+
+- [M3 · 2.3: Polymer Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.3_Polymer_Materials.md) *(other module)*
+- [M3 · 6.1: Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+
+**Gingival Tissue Management** — hub: [Gingival Tissue Management](../_Topic%20Hubs/Gingival%20Tissue%20Management.md)
+
+- [M3 · 4.2: Cementation Protocol](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.2_Cementation_Protocol.md) *(other module)*
+- [M1 · 8.3: Isolation & Moisture Control](SubModule_8.3_Isolation_and_Moisture_Control.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
@@ -146,4 +163,4 @@ A real, specific removal technique for when the cured inlay resists coming out o
 - [Pickard's Manual of Operative Dentistry (9th)](../../textbooks/Conservative%20Dentistry/Pickards_Manual_of_Operative_Dentistry_9th_Chapterwise/00_INDEX.md)
 - [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)
 - [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)
-- [Indirect Restorations in Dental Practice (Sikri)](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/00_INDEX.md)
+- [[Indirect Restorations in Dental Practice|Indirect Restorations in Dental Practice (Sikri)]]

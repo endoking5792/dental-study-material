@@ -121,10 +121,36 @@ Once preparation is complete, the cavity is inspected circumferentially — fail
 [6] Floratos S, Kim S. Modern Endodontic Microsurgery Concepts: A Clinical Update. Dent Clin North Am 2017;61(1):81-91.
 
 <!-- related-notes -->
+## Related Notes
+
+**Surgical Endodontics & Periapical Surgery** — hub: [Surgical Endodontics & Periapical Surgery](../_Topic%20Hubs/Surgical%20Endodontics%20%26%20Periapical%20Surgery.md)
+
+- [M2 · 5.1: Indications, Contraindications & Case Selection for Surgery](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+- [M2 · 5.5: Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 5.6: Surgical Complications & Management](SubModule_5.6_Surgical_Complications_Management.md)
+
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
+
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+
+**Instruments, Equipment & Cutting Technology** — hub: [Instruments, Equipment & Cutting Technology](../_Topic%20Hubs/Instruments%2C%20Equipment%20%26%20Cutting%20Technology.md)
+
+- [M1 · 8.2: Infection Control & Patient Safety](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.2_Infection_Control_and_Patient_Safety.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M2 · 4.3: Cleaning & Shaping of Root Canals](SubModule_4.3_Cleaning_and_Shaping.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.1: Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Art and Science of Contemporary Surgical Endodontics](../../textbooks/Endodontics/The_Art_and_Science_of_Contemporary_Surgical_Endodontics_Mahmoud_2_Chapterwise/00_INDEX.md)
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]

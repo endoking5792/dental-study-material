@@ -101,26 +101,55 @@ A composite of 14 independent controlled clinical studies (initiated between 197
 <!-- related-notes -->
 ## Related Notes
 
+**Composite Resin** — hub: [Composite Resin](../_Topic%20Hubs/Composite%20Resin.md)
+
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols.md) *(other module)*
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md) *(other module)*
+- [M1 · 6.1: Large Restorations & Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
+- [M1 · 6.2: Restoration of Esthetic Zone](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone.md) *(other module)*
+- [M3 · 2.3: Polymer Materials](SubModule_2.3_Polymer_Materials.md)
+- [M3 · 7.1: Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
+- [M3 · 1.2: Physical Properties](SubModule_1.2_Physical_Properties.md)
+- [M3 · 3.1: Adhesion Mechanisms](SubModule_3.1_Adhesion_Mechanisms.md)
+
 **Dental Amalgam** — hub: [Dental Amalgam](../_Topic%20Hubs/Dental%20Amalgam.md)
 
-- [M1 3.1 Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
-- [M1 6.3 Restoration Longevity and Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
-- [M2 5.4 Root End Preparation Retrograde Filling Materials](../Module%202%20-%20Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md) *(other module)*
-- [M3 8.2 Dental Amalgam](SubModule_8.2_Dental_Amalgam.md)
-- [M3 7.1 Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 · 6.6: Direct Gold Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.6_Direct_Gold_Restorations.md) *(other module)*
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M1 · 6.1: Large Restorations & Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
+- [M2 · 5.4: Root-End Preparation & Retrograde Filling Materials](../Module%202%20-%20Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md) *(other module)*
+- [M3 · 8.2: Dental Amalgam](SubModule_8.2_Dental_Amalgam.md)
+- [M3 · 7.2: Clinical Monitoring & Maintenance](SubModule_7.2_Clinical_Monitoring_and_Maintenance.md)
+- [M3 · 6.2: Cost-Effectiveness & Longevity Analysis](SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis.md)
+- [M3 · 7.1: Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
 
-**Material Properties and Selection** — hub: [Material Properties and Selection](../_Topic%20Hubs/Material%20Properties%20and%20Selection.md)
+**Corrosion, Tarnish & Biocompatibility** — hub: [Corrosion, Tarnish & Biocompatibility](../_Topic%20Hubs/Corrosion%2C%20Tarnish%20%26%20Biocompatibility.md)
 
-- [M1 3.1 Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
-- [M3 1.1 Atomic and Molecular Structure](SubModule_1.1_Atomic_and_Molecular_Structure.md)
-- [M3 1.2 Physical Properties](SubModule_1.2_Physical_Properties.md)
-- [M3 1.3 Mechanical Properties](SubModule_1.3_Mechanical_Properties.md)
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 · 5.2: Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
+- [M2 · 5.4: Root-End Preparation & Retrograde Filling Materials](../Module%202%20-%20Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
+- [M3 · 2.1: Metals & Alloys](SubModule_2.1_Metals_and_Alloys.md)
+- [M3 · 5.1: Biocompatibility Assessment](SubModule_5.1_Biocompatibility_Assessment.md)
+- [M3 · 8.2: Dental Amalgam](SubModule_8.2_Dental_Amalgam.md)
+
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
+
+- [M2 · 3.4: Treatment Planning](../Module%202%20-%20Endodontics/SubModule_3.4_Treatment_Planning.md) *(other module)*
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](../Module%202%20-%20Endodontics/SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md) *(other module)*
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](../Module%202%20-%20Endodontics/SubModule_4.6_Nonsurgical_Retreatment.md) *(other module)*
+- [M2 · 8.1: Outcome Assessment, Classification Systems & Success Rates](../Module%202%20-%20Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates.md) *(other module)*
+- [M2 · 5.1: Indications, Contraindications & Case Selection for Surgery](../Module%202%20-%20Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection.md) *(other module)*
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
 - [van Noort — Introduction to Dental Materials (4e)](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/00_INDEX.md)
-- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
-- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)
-- [Bonsor & Pearson — A Clinical Guide to Applied Dental Materials](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/00_INDEX.md)
+- [[Craig Restorative Dental Materials 14e|Craig's Restorative Dental Materials (14e)]]
+- [[Restorative Dental Materials (Craig, Michigan|Restorative Dental Materials (Craig, Michigan 11e)]]
+- [[A Clinical Guide to Applied Dental Materials|Bonsor & Pearson — A Clinical Guide to Applied Dental Materials]]

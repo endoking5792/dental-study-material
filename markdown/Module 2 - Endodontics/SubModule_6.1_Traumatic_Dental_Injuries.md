@@ -113,18 +113,70 @@ Whether to extract teeth located directly in a jaw-fracture line remains a genui
 <!-- related-notes -->
 ## Related Notes
 
-**Cracks and Fractures of Teeth** — hub: [Cracks and Fractures of Teeth](../_Topic%20Hubs/Cracks%20and%20Fractures%20of%20Teeth.md)
+**Traumatic Dental Injuries** — hub: [Traumatic Dental Injuries](../_Topic%20Hubs/Traumatic%20Dental%20Injuries.md)
 
-- [M1 6.1 Large Restorations and Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
-- [M1 6.3 Restoration Longevity and Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
-- [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
-- [M2 6.2 Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
-- [M2 6.5 Crown Originating Dental Fractures](SubModule_6.5_Crown_Originating_Dental_Fractures.md)
+- [M2 · 6.4: External Root Resorption](SubModule_6.4_External_Root_Resorption.md)
+- [M2 · 2.4: Tooth Resorption in Endodontics](SubModule_2.4_Tooth_Resorption_in_Endodontics.md)
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](SubModule_6.8_Endodontics_in_Primary_Teeth.md)
+- [M2 · 6.9: Endodontic-Orthodontic Relationships](SubModule_6.9_Endodontic_Orthodontic_Relationships.md)
+
+**Ceramic & Indirect Restorations** — hub: [Ceramic & Indirect Restorations](../_Topic%20Hubs/Ceramic%20%26%20Indirect%20Restorations.md)
+
+- [M1 · 5.2: Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
+- [M1 · 5.1: Types of Indirect Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1_Types_of_Indirect_Restorations.md) *(other module)*
+- [M3 · 2.2: Ceramics & Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M1 · 5.3: Indirect Restoration Preparation & Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 6.5: Crown-Originating Dental Fractures](SubModule_6.5_Crown_Originating_Dental_Fractures.md)
+- [M2 · 5.5: Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
+
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+
+**Endodontic–Periodontal Lesions** — hub: [Endodontic–Periodontal Lesions](../_Topic%20Hubs/Endodontic%E2%80%93Periodontal%20Lesions.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 · 6.6: Endodontic-Periodontal Interrelationships](SubModule_6.6_Endodontic_Periodontal_Interrelationships.md)
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
+- [M2 · 5.5: Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 · 2.3: Microbiology of Endodontic Infections](SubModule_2.3_Microbiology_of_Endodontic_Infections.md)
+
+**Luting & Cementation Materials** — hub: [Luting & Cementation Materials](../_Topic%20Hubs/Luting%20%26%20Cementation%20Materials.md)
+
+- [M3 · 4.1: Cement Types & Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
+- [M3 · 4.2: Cementation Protocol](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.2_Cementation_Protocol.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M1 · 5.3: Indirect Restoration Preparation & Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M2 · 5.4: Root-End Preparation & Retrograde Filling Materials](SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md)
+- [M2 · 2.4: Tooth Resorption in Endodontics](SubModule_2.4_Tooth_Resorption_in_Endodontics.md)
+
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
+
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 · 1: Pulp-Dentin Complex Biology](SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md)
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 6.2: Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Glossary of Endodontic Terms](../../textbooks/Endodontics/Glossary_of_Endodontic_Terms_Chapterwise/00_INDEX.md)
 - [Andreasen — Textbook and Color Atlas of Traumatic Injuries](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/00_INDEX.md)

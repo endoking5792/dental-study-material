@@ -77,17 +77,38 @@ A further structured catalog of NOTA causes is worth keeping as an active differ
 <!-- related-notes -->
 ## Related Notes
 
-**Diagnosis and Treatment Planning** — hub: [Diagnosis and Treatment Planning](../_Topic%20Hubs/Diagnosis%20and%20Treatment%20Planning.md)
+**Diagnosis in Endodontics** — hub: [Diagnosis in Endodontics](../_Topic%20Hubs/Diagnosis%20in%20Endodontics.md)
 
-- [M1 8.1 Patient Evaluation Diagnosis Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
-- [M2 3.1 Clinical Examination](SubModule_3.1_Clinical_Examination.md)
-- [M2 3.4 Treatment Planning](SubModule_3.4_Treatment_Planning.md)
-- [M2 3.5 Medically Complex Patient](SubModule_3.5_Medically_Complex_Patient.md)
-- [M2 3.2 Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
+- [M2 · 3.2: Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
+
+**Diagnosis, Treatment Planning & Caries Risk Assessment** — hub: [Diagnosis, Treatment Planning & Caries Risk Assessment](../_Topic%20Hubs/Diagnosis%2C%20Treatment%20Planning%20%26%20Caries%20Risk%20Assessment.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M1 · 1.3: Caries Risk Assessment and Management](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management.md) *(other module)*
+- [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 3.2: Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
+- [M2 · 6.5: Crown-Originating Dental Fractures](SubModule_6.5_Crown_Originating_Dental_Fractures.md)
+
+**Pain, Anxiety & Endodontic Emergencies** — hub: [Pain, Anxiety & Endodontic Emergencies](../_Topic%20Hubs/Pain%2C%20Anxiety%20%26%20Endodontic%20Emergencies.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 · 3.6: Management of Pain, Fear, and Anxiety in the Endodontic Patient](SubModule_3.6_Pain_Fear_Anxiety_Management.md)
+- [M2 · 5.6: Surgical Complications & Management](SubModule_5.6_Surgical_Complications_Management.md)
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+- [M2 · 6.5: Crown-Originating Dental Fractures](SubModule_6.5_Crown_Originating_Dental_Fractures.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Hülsmann & Schäfer — Problems in Endodontics](../../textbooks/Endodontics/Problems_in_Endodontics_2_Chapterwise/00_INDEX.md)

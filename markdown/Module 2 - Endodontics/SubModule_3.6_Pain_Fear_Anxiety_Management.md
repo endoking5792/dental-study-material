@@ -85,15 +85,36 @@ The safety case against reflexive opioid use is just as direct as the efficacy c
 <!-- related-notes -->
 ## Related Notes
 
-**Pain, Anesthesia and Anxiety** — hub: [Pain, Anesthesia and Anxiety](../_Topic%20Hubs/Pain%2C%20Anesthesia%20and%20Anxiety.md)
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
 
-- [M1 8.1 Patient Evaluation Diagnosis Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
-- [M2 3.5 Medically Complex Patient](SubModule_3.5_Medically_Complex_Patient.md)
-- [M2 2.1 Pulpal Diseases and Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+
+**Pain, Anxiety & Endodontic Emergencies** — hub: [Pain, Anxiety & Endodontic Emergencies](../_Topic%20Hubs/Pain%2C%20Anxiety%20%26%20Endodontic%20Emergencies.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 · 3.3: Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
+- [M2 · 5.6: Surgical Complications & Management](SubModule_5.6_Surgical_Complications_Management.md)
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+- [M2 · 6.5: Crown-Originating Dental Fractures](SubModule_6.5_Crown_Originating_Dental_Fractures.md)
+
+**Esthetic Dentistry & Smile Design** — hub: [Esthetic Dentistry & Smile Design](../_Topic%20Hubs/Esthetic%20Dentistry%20%26%20Smile%20Design.md)
+
+- [M1 · 5.1.6: Shade Matching & Color Science](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.6_Shade_Matching_and_Color_Science.md) *(other module)*
+- [M1 · 6.2: Restoration of Esthetic Zone](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone.md) *(other module)*
+- [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) *(other module)*
+- [M1 · 6.5: Natural Tooth Bleaching](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.5_Natural_Tooth_Bleaching.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols.md) *(other module)*
+- [M2 · 6.7: Non-Vital Tooth Bleaching](SubModule_6.7_Non_Vital_Tooth_Bleaching.md)
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](SubModule_6.8_Endodontics_in_Primary_Teeth.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)
 - [Seltzer & Bender's Dental Pulp](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/00_INDEX.md)

@@ -151,10 +151,31 @@ A genuinely practical, named clinical protocol for managing occlusion specifical
 3. Kidd EAM, Fejerskov O, Nyvad B, editors. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press. §5.14, "Principles of dental occlusion".
 
 <!-- related-notes -->
+## Related Notes
+
+**Ceramic & Indirect Restorations** — hub: [Ceramic & Indirect Restorations](../_Topic%20Hubs/Ceramic%20%26%20Indirect%20Restorations.md)
+
+- [M3 · 2.2: Ceramics & Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 · 6.5: Crown-Originating Dental Fractures](../Module%202%20-%20Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures.md) *(other module)*
+- [M2 · 5.5: Other Surgical Procedures](../Module%202%20-%20Endodontics/SubModule_5.5_Other_Surgical_Procedures.md) *(other module)*
+- [M1 · 5.2: Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
+- [M1 · 5.1: Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
+- [M1 · 5.3: Indirect Restoration Preparation & Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md)
+
+**Matrices & Retainers** — hub: [Matrices & Retainers](../_Topic%20Hubs/Matrices%20%26%20Retainers.md)
+
+- [M1 · 4.3: Matrix Systems, Contacts & Contours](SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md)
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Advanced Operative Dentistry](../../textbooks/Conservative%20Dentistry/Advanced_Operative_Dentistry_Chapterwise/00_INDEX.md)
-- [Indirect Restorations in Dental Practice (Sikri)](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/00_INDEX.md)
+- [[Indirect Restorations in Dental Practice|Indirect Restorations in Dental Practice (Sikri)]]
 - [Pickard's Manual of Operative Dentistry (9th)](../../textbooks/Conservative%20Dentistry/Pickards_Manual_of_Operative_Dentistry_9th_Chapterwise/00_INDEX.md)

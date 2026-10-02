@@ -41,9 +41,22 @@ For an ankylosed tooth already undergoing replacement resorption, orthodontic mo
 [3] Andreasen JO, Andreasen FM, Andersson L, eds. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Chapter 24, "Orthodontic Management of the Traumatized Dentition" (Malmgren O, Malmgren B).
 
 <!-- related-notes -->
+## Related Notes
+
+**Root Resorption** — hub: [Root Resorption](../_Topic%20Hubs/Root%20Resorption.md)
+
+- [M2 · 2.4: Tooth Resorption in Endodontics](SubModule_2.4_Tooth_Resorption_in_Endodontics.md)
+- [M2 · 6.3: Internal Resorption](SubModule_6.3_Internal_Resorption.md)
+
+**Traumatic Dental Injuries** — hub: [Traumatic Dental Injuries](../_Topic%20Hubs/Traumatic%20Dental%20Injuries.md)
+
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+- [M2 · 2.4: Tooth Resorption in Endodontics](SubModule_2.4_Tooth_Resorption_in_Endodontics.md)
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](SubModule_6.8_Endodontics_in_Primary_Teeth.md)
+- [M2 · 6.9: Endodontic-Orthodontic Relationships](SubModule_6.9_Endodontic_Orthodontic_Relationships.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Andreasen — Textbook and Color Atlas of Traumatic Injuries](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/00_INDEX.md)

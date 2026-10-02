@@ -109,21 +109,78 @@ A real, historically honest note worth including: the original Nayyar core was d
 <!-- related-notes -->
 ## Related Notes
 
-**Restoration of the Endodontically Treated Tooth** — hub: [Restoration of the Endodontically Treated Tooth](../_Topic%20Hubs/Restoration%20of%20the%20Endodontically%20Treated%20Tooth.md)
+**Composite Resin** — hub: [Composite Resin](../_Topic%20Hubs/Composite%20Resin.md)
 
-- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
-- [M2 8.4 Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
-- [M3 4.1 Cement Types and Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
-- [M1 5.1.5 Post and Core Restorations](SubModule_5.1.5_Post_and_Core_Restorations.md)
-- [M1 5.1 Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
+- [M3 · 2.3: Polymer Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.3_Polymer_Materials.md) *(other module)*
+- [M3 · 6.1: Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
 
-**Cracks and Fractures of Teeth** — hub: [Cracks and Fractures of Teeth](../_Topic%20Hubs/Cracks%20and%20Fractures%20of%20Teeth.md)
+**Matrices & Retainers** — hub: [Matrices & Retainers](../_Topic%20Hubs/Matrices%20%26%20Retainers.md)
 
-- [M2 6.2 Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md) *(other module)*
-- [M2 6.5 Crown Originating Dental Fractures](../Module%202%20-%20Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures.md) *(other module)*
-- [M2 6.1 Traumatic Dental Injuries](../Module%202%20-%20Endodontics/SubModule_6.1_Traumatic_Dental_Injuries.md) *(other module)*
-- [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
-- [M1 6.3 Restoration Longevity and Failure Patterns](SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md)
+- [M1 · 4.3: Matrix Systems, Contacts & Contours](SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md)
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+
+**Post & Core / Cast Restorations** — hub: [Post & Core / Cast Restorations](../_Topic%20Hubs/Post%20%26%20Core%20-%20Cast%20Restorations.md)
+
+- [M2 · 4.7: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 · 6.2: Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md) *(other module)*
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](SubModule_5.1.5_Post_and_Core_Restorations.md)
+
+**Restoration of Endodontically Treated Teeth** — hub: [Restoration of Endodontically Treated Teeth](../_Topic%20Hubs/Restoration%20of%20Endodontically%20Treated%20Teeth.md)
+
+- [M2 · 4.7: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 · 6.2: Vertical Root Fractures](../Module%202%20-%20Endodontics/SubModule_6.2_Vertical_Root_Fractures.md) *(other module)*
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](SubModule_5.1.5_Post_and_Core_Restorations.md)
+
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
+
+- [M2 · 1: Pulp-Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 · 3.2: Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 2.2: Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+- [M1 · 3.2: Adhesive Systems & Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md)
+
+**Dental Amalgam** — hub: [Dental Amalgam](../_Topic%20Hubs/Dental%20Amalgam.md)
+
+- [M3 · 8.2: Dental Amalgam](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.2_Dental_Amalgam.md) *(other module)*
+- [M3 · 6.1: Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md) *(other module)*
+- [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M3 · 6.2: Cost-Effectiveness & Longevity Analysis](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 2.1: Metals & Alloys](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.1_Metals_and_Alloys.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
+- [M1 · 6.6: Direct Gold Restorations](SubModule_6.6_Direct_Gold_Restorations.md)
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md)
+
+**Restorative Forces, Marginal Integrity & Biomechanics** — hub: [Restorative Forces, Marginal Integrity & Biomechanics](../_Topic%20Hubs/Restorative%20Forces%2C%20Marginal%20Integrity%20%26%20Biomechanics.md)
+
+- [M3 · 1.3: Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
+- [M3 · 2.2: Ceramics & Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 · 8.4: Gypsum Products](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.4_Gypsum_Products.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 3.1: Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
+- [M1 · 5.2: Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
+- [M1 · 3.2: Adhesive Systems & Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)

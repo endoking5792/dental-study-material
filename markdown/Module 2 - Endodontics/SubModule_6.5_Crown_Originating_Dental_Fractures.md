@@ -45,15 +45,53 @@ Prognosis data, though limited, are genuinely useful for patient counseling: Cam
 <!-- related-notes -->
 ## Related Notes
 
-**Cracks and Fractures of Teeth** — hub: [Cracks and Fractures of Teeth](../_Topic%20Hubs/Cracks%20and%20Fractures%20of%20Teeth.md)
+**Ceramic & Indirect Restorations** — hub: [Ceramic & Indirect Restorations](../_Topic%20Hubs/Ceramic%20%26%20Indirect%20Restorations.md)
 
-- [M1 6.1 Large Restorations and Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
-- [M1 6.3 Restoration Longevity and Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
-- [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
-- [M2 6.2 Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
-- [M2 6.1 Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+- [M1 · 5.2: Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
+- [M1 · 5.1: Types of Indirect Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1_Types_of_Indirect_Restorations.md) *(other module)*
+- [M3 · 2.2: Ceramics & Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M1 · 5.3: Indirect Restoration Preparation & Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 5.5: Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+
+**Cracked Tooth Syndrome** — hub: [Cracked Tooth Syndrome](../_Topic%20Hubs/Cracked%20Tooth%20Syndrome.md)
+
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+
+**Pain, Anxiety & Endodontic Emergencies** — hub: [Pain, Anxiety & Endodontic Emergencies](../_Topic%20Hubs/Pain%2C%20Anxiety%20%26%20Endodontic%20Emergencies.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 · 3.6: Management of Pain, Fear, and Anxiety in the Endodontic Patient](SubModule_3.6_Pain_Fear_Anxiety_Management.md)
+- [M2 · 3.3: Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
+- [M2 · 5.6: Surgical Complications & Management](SubModule_5.6_Surgical_Complications_Management.md)
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+
+**Diagnosis in Endodontics** — hub: [Diagnosis in Endodontics](../_Topic%20Hubs/Diagnosis%20in%20Endodontics.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M2 · 3.3: Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
+
+**Diagnosis, Treatment Planning & Caries Risk Assessment** — hub: [Diagnosis, Treatment Planning & Caries Risk Assessment](../_Topic%20Hubs/Diagnosis%2C%20Treatment%20Planning%20%26%20Caries%20Risk%20Assessment.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M1 · 1.3: Caries Risk Assessment and Management](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management.md) *(other module)*
+- [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M2 · 3.3: Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 3.2: Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]

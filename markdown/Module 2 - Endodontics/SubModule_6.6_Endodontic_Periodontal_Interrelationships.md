@@ -61,14 +61,24 @@ Cohen's Ch.25 reinforces this same sequencing logic from an independent authorsh
 <!-- related-notes -->
 ## Related Notes
 
-**Endodontic-Periodontal and Orthodontic Relationships** — hub: [Endodontic-Periodontal and Orthodontic Relationships](../_Topic%20Hubs/Endodontic-Periodontal%20and%20Orthodontic%20Relationships.md)
+**Endodontic–Periodontal Lesions** — hub: [Endodontic–Periodontal Lesions](../_Topic%20Hubs/Endodontic%E2%80%93Periodontal%20Lesions.md)
 
-- [M2 6.9 Endodontic Orthodontic Relationships](SubModule_6.9_Endodontic_Orthodontic_Relationships.md)
-- [M2 2.2 Periapical Diseases and Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
-- [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+- [M2 · 5.5: Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 · 2.3: Microbiology of Endodontic Infections](SubModule_2.3_Microbiology_of_Endodontic_Infections.md)
+
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
+
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)

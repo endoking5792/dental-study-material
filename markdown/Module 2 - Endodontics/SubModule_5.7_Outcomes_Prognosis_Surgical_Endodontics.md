@@ -87,19 +87,33 @@ Taken together, the outcome evidence for modern endodontic microsurgery supports
 <!-- related-notes -->
 ## Related Notes
 
-**Restoration Failure and Longevity** — hub: [Restoration Failure and Longevity](../_Topic%20Hubs/Restoration%20Failure%20and%20Longevity.md)
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
 
-- [M1 6.3 Restoration Longevity and Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
-- [M3 6.2 Cost Effectiveness and Longevity Analysis](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis.md) *(other module)*
-- [M3 7.1 Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
-- [M3 7.2 Clinical Monitoring and Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
-- [M2 8.1 Outcome Assessment Success Rates](SubModule_8.1_Outcome_Assessment_Success_Rates.md)
-- [M2 8.2 Prognostic Factors Long Term Success](SubModule_8.2_Prognostic_Factors_Long_Term_Success.md)
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 8.1: Outcome Assessment, Classification Systems & Success Rates](SubModule_8.1_Outcome_Assessment_Success_Rates.md)
+
+**Surgical Endodontics & Periapical Surgery** — hub: [Surgical Endodontics & Periapical Surgery](../_Topic%20Hubs/Surgical%20Endodontics%20%26%20Periapical%20Surgery.md)
+
+- [M2 · 5.1: Indications, Contraindications & Case Selection for Surgery](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+- [M2 · 5.3: Periradicular Surgery Technique](SubModule_5.3_Periradicular_Surgery_Technique.md)
+- [M2 · 5.5: Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 · 5.6: Surgical Complications & Management](SubModule_5.6_Surgical_Complications_Management.md)
+
+**Imaging in Endodontics** — hub: [Imaging in Endodontics](../_Topic%20Hubs/Imaging%20in%20Endodontics.md)
+
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M2 · 3.2: Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 4.2: Working Length Determination](SubModule_4.2_Working_Length_Determination.md)
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Art and Science of Contemporary Surgical Endodontics](../../textbooks/Endodontics/The_Art_and_Science_of_Contemporary_Surgical_Endodontics_Mahmoud_2_Chapterwise/00_INDEX.md)
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
-- [Gulabivala & Ng — Endodontics (4e)](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Endodontics Kishor Gulabivala Yuan Ling|Gulabivala & Ng — Endodontics (4e)]]
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]

@@ -109,29 +109,47 @@ Obturation quality is judged by the same criteria established in 4.5.1 — adequ
 <!-- related-notes -->
 ## Related Notes
 
-**Nonsurgical Retreatment** — hub: [Nonsurgical Retreatment](../_Topic%20Hubs/Nonsurgical%20Retreatment.md)
+**Obturation — Techniques, Materials & Sealers** — hub: [Obturation — Techniques, Materials & Sealers](../_Topic%20Hubs/Obturation%20%E2%80%94%20Techniques%2C%20Materials%20%26%20Sealers.md)
 
-- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
-- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
-- [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
-- [M2 8.1 Outcome Assessment Success Rates](SubModule_8.1_Outcome_Assessment_Success_Rates.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
 
-**MTA, Calcium Silicates and Bioceramics** — hub: [MTA, Calcium Silicates and Bioceramics](../_Topic%20Hubs/MTA%2C%20Calcium%20Silicates%20and%20Bioceramics.md)
+**Bioactive & Calcium Silicate Endodontic Materials** — hub: [Bioactive & Calcium Silicate Endodontic Materials](../_Topic%20Hubs/Bioactive%20%26%20Calcium%20Silicate%20Endodontic%20Materials.md)
 
-- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
-- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
-- [M2 7.1-7.2 Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
-- [M2 7.3 Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
-- [M2 5.4 Root End Preparation Retrograde Filling Materials](SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md)
-- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M3 · 4.1: Cement Types & Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
+- [M2 · 5.4: Root-End Preparation & Retrograde Filling Materials](SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md)
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 · 7.3: Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
+
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
+
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+
+**Instruments & Instrumentation** — hub: [Instruments & Instrumentation](../_Topic%20Hubs/Instruments%20%26%20Instrumentation.md)
+
+- [M3 · 2.1: Metals & Alloys](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.1_Metals_and_Alloys.md) *(other module)*
+- [M1 · 8.2: Infection Control & Patient Safety](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.2_Infection_Control_and_Patient_Safety.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M2 · 4.3: Cleaning & Shaping of Root Canals](SubModule_4.3_Cleaning_and_Shaping.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 4.2: Working Length Determination](SubModule_4.2_Working_Length_Determination.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
-- [Current Therapy in Endodontics](../../textbooks/Endodontics/Current_Therapy_in_Endodontics_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Current Therapy in Endodontics|Current Therapy in Endodontics]]
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Endodontic Prognosis: Clinical Guide](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/00_INDEX.md)
-- [Gulabivala & Ng — Endodontics (4e)](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/00_INDEX.md)
+- [[Endodontics Kishor Gulabivala Yuan Ling|Gulabivala & Ng — Endodontics (4e)]]
 - [Guidebook to Molar Endodontics](../../textbooks/Endodontics/The_Guidebook_to_Molar_Endodontics_Chapterwise/00_INDEX.md)
 - [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)

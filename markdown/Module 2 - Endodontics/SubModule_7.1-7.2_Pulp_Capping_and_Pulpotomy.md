@@ -161,46 +161,58 @@ A genuinely important, practice-changing finding directly affects how follow-up 
 <!-- related-notes -->
 ## Related Notes
 
-**Pulp Protection, Liners and Pulp Capping** — hub: [Pulp Protection, Liners and Pulp Capping](../_Topic%20Hubs/Pulp%20Protection%2C%20Liners%20and%20Pulp%20Capping.md)
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
 
-- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
-- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
-- [M3 5.1 Biocompatibility Assessment](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.1_Biocompatibility_Assessment.md) *(other module)*
-- [M1 2.2 Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
-- [M2 1.1-1.3 Pulp Dentin Complex Biology](SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md)
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
 
-**MTA, Calcium Silicates and Bioceramics** — hub: [MTA, Calcium Silicates and Bioceramics](../_Topic%20Hubs/MTA%2C%20Calcium%20Silicates%20and%20Bioceramics.md)
+**Pulp Capping & Vital Pulp Therapy** — hub: [Pulp Capping & Vital Pulp Therapy](../_Topic%20Hubs/Pulp%20Capping%20%26%20Vital%20Pulp%20Therapy.md)
 
-- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
-- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
-- [M2 7.3 Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
-- [M2 5.4 Root End Preparation Retrograde Filling Materials](SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md)
-- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
-- [M2 4.5 Obturation of Root Canals](SubModule_4.5_Obturation_of_Root_Canals.md)
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](SubModule_6.8_Endodontics_in_Primary_Teeth.md)
 
-**Caries and Pulp Response** — hub: [Caries and Pulp Response](../_Topic%20Hubs/Caries%20and%20Pulp%20Response.md)
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
 
-- [M1 1.1 Caries Etiology and Pathogenesis](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis.md) *(other module)*
-- [M1 1.2 Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
-- [M1 1.3 Caries Risk Assessment and Management](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management.md) *(other module)*
-- [M1 2.2 Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
-- [M1 4.4 Fissure Sealants and Preventive Resin Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md) *(other module)*
-- [M2 2.1 Pulpal Diseases and Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 · 1: Pulp-Dentin Complex Biology](SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md)
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 6.2: Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
 
-**Biocompatibility and Bioactivity** — hub: [Biocompatibility and Bioactivity](../_Topic%20Hubs/Biocompatibility%20and%20Bioactivity.md)
+**Bioactive & Calcium Silicate Endodontic Materials** — hub: [Bioactive & Calcium Silicate Endodontic Materials](../_Topic%20Hubs/Bioactive%20%26%20Calcium%20Silicate%20Endodontic%20Materials.md)
 
-- [M3 5.1 Biocompatibility Assessment](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.1_Biocompatibility_Assessment.md) *(other module)*
-- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
-- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
-- [M2 7.3 Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M3 · 4.1: Cement Types & Selection](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.1_Cement_Types_and_Selection.md) *(other module)*
+- [M2 · 5.4: Root-End Preparation & Retrograde Filling Materials](SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md)
+- [M2 · 4.5: Obturation of Root Canals](SubModule_4.5_Obturation_of_Root_Canals.md)
+- [M2 · 7.3: Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
+
+**Diagnosis in Endodontics** — hub: [Diagnosis in Endodontics](../_Topic%20Hubs/Diagnosis%20in%20Endodontics.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M2 · 3.3: Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
+- [M2 · 3.2: Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
 - [Glossary of Endodontic Terms](../../textbooks/Endodontics/Glossary_of_Endodontic_Terms_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Vital Pulp Treatment (Duncan & El-Karim)](../../textbooks/Endodontics/Vital_Pulp_Treatment_Chapterwise/00_INDEX.md)
 - [Weine — Endodontic Therapy (6e, full)](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/00_INDEX.md)
-- [Walton & Torabinejad — Principles and Practice of Endodontics (2002)](../../textbooks/Endodontics/Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/00_INDEX.md)
-- [Current Therapy in Endodontics](../../textbooks/Endodontics/Current_Therapy_in_Endodontics_Chapterwise/00_INDEX.md)
+- [[Principles and practice of endodontic|Walton & Torabinejad — Principles and Practice of Endodontics (2002)]]
+- [[Current Therapy in Endodontics|Current Therapy in Endodontics]]

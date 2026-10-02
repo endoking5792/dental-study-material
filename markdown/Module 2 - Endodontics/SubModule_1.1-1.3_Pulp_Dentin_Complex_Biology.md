@@ -241,26 +241,24 @@ PCO is worth distinguishing explicitly from ordinary age-related canal narrowing
 <!-- related-notes -->
 ## Related Notes
 
-**Pulp Protection, Liners and Pulp Capping** — hub: [Pulp Protection, Liners and Pulp Capping](../_Topic%20Hubs/Pulp%20Protection%2C%20Liners%20and%20Pulp%20Capping.md)
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
 
-- [M1 3.3 Liners Bases and Pulp Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
-- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
-- [M3 5.1 Biocompatibility Assessment](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.1_Biocompatibility_Assessment.md) *(other module)*
-- [M1 2.2 Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
-- [M2 7.1-7.2 Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
-
-**Dentin and Pulp Biology** — hub: [Dentin and Pulp Biology](../_Topic%20Hubs/Dentin%20and%20Pulp%20Biology.md)
-
-- [M1 1.1 Caries Etiology and Pathogenesis](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis.md) *(other module)*
-- [M3 3.1 Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
-- [M1 6.4 Non Carious Tooth Structure Loss](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss.md) *(other module)*
-- [M2 2.1 Pulpal Diseases and Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 6.2: Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Seltzer & Bender's Dental Pulp](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/00_INDEX.md)
 - [Grossman's Endodontic Practice (14e)](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/00_INDEX.md)
 - [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)

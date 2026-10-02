@@ -51,11 +51,22 @@ For a tooth already undergoing ankylosis-driven replacement resorption (Sub-Modu
 <!-- related-notes -->
 ## Related Notes
 
-**Endodontic-Periodontal and Orthodontic Relationships** — hub: [Endodontic-Periodontal and Orthodontic Relationships](../_Topic%20Hubs/Endodontic-Periodontal%20and%20Orthodontic%20Relationships.md)
+**Restorative Forces, Marginal Integrity & Biomechanics** — hub: [Restorative Forces, Marginal Integrity & Biomechanics](../_Topic%20Hubs/Restorative%20Forces%2C%20Marginal%20Integrity%20%26%20Biomechanics.md)
 
-- [M2 6.6 Endodontic Periodontal Interrelationships](SubModule_6.6_Endodontic_Periodontal_Interrelationships.md)
-- [M2 2.2 Periapical Diseases and Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
-- [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M3 · 1.3: Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 · 5.2: Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
+- [M3 · 2.2: Ceramics & Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+
+**Traumatic Dental Injuries** — hub: [Traumatic Dental Injuries](../_Topic%20Hubs/Traumatic%20Dental%20Injuries.md)
+
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+- [M2 · 6.4: External Root Resorption](SubModule_6.4_External_Root_Resorption.md)
+- [M2 · 2.4: Tooth Resorption in Endodontics](SubModule_2.4_Tooth_Resorption_in_Endodontics.md)
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](SubModule_6.8_Endodontics_in_Primary_Teeth.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)

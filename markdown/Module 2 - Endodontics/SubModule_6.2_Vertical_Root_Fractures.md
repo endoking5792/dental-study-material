@@ -47,24 +47,69 @@ A useful diagnostic summary from the same chapter is worth restating explicitly:
 <!-- related-notes -->
 ## Related Notes
 
-**Post, Core and Ferrule** — hub: [Post, Core and Ferrule](../_Topic%20Hubs/Post%2C%20Core%20and%20Ferrule.md)
+**Post & Core / Cast Restorations** — hub: [Post & Core / Cast Restorations](../_Topic%20Hubs/Post%20%26%20Core%20-%20Cast%20Restorations.md)
 
-- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
-- [M2 4.7 Restoration of Endodontically Treated Tooth](SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md)
-- [M2 8.4 Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
-- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
-- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M1 · 6.1: Large Restorations & Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
+- [M2 · 4.7: Restoration of the Endodontically Treated Tooth](SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md)
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
 
-**Cracks and Fractures of Teeth** — hub: [Cracks and Fractures of Teeth](../_Topic%20Hubs/Cracks%20and%20Fractures%20of%20Teeth.md)
+**Restoration of Endodontically Treated Teeth** — hub: [Restoration of Endodontically Treated Teeth](../_Topic%20Hubs/Restoration%20of%20Endodontically%20Treated%20Teeth.md)
 
-- [M1 6.1 Large Restorations and Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
-- [M1 6.3 Restoration Longevity and Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
-- [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
-- [M2 6.5 Crown Originating Dental Fractures](SubModule_6.5_Crown_Originating_Dental_Fractures.md)
-- [M2 6.1 Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M1 · 6.1: Large Restorations & Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
+- [M2 · 4.7: Restoration of the Endodontically Treated Tooth](SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md)
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+
+**Root Fractures** — hub: [Root Fractures](../_Topic%20Hubs/Root%20Fractures.md)
+
+
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
+
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 · 1: Pulp-Dentin Complex Biology](SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md)
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+
+**Diagnosis in Endodontics** — hub: [Diagnosis in Endodontics](../_Topic%20Hubs/Diagnosis%20in%20Endodontics.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M2 · 3.3: Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
+
+**Diagnosis, Treatment Planning & Caries Risk Assessment** — hub: [Diagnosis, Treatment Planning & Caries Risk Assessment](../_Topic%20Hubs/Diagnosis%2C%20Treatment%20Planning%20%26%20Caries%20Risk%20Assessment.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M1 · 1.3: Caries Risk Assessment and Management](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management.md) *(other module)*
+- [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M2 · 3.3: Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 3.2: Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
+
+**Endodontic–Periodontal Lesions** — hub: [Endodontic–Periodontal Lesions](../_Topic%20Hubs/Endodontic%E2%80%93Periodontal%20Lesions.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 · 6.6: Endodontic-Periodontal Interrelationships](SubModule_6.6_Endodontic_Periodontal_Interrelationships.md)
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+- [M2 · 5.5: Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Glossary of Endodontic Terms](../../textbooks/Endodontics/Glossary_of_Endodontic_Terms_Chapterwise/00_INDEX.md)

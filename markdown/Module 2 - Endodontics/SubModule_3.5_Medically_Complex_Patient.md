@@ -63,23 +63,35 @@ The laboratory values most directly relevant to safe endodontic treatment planni
 <!-- related-notes -->
 ## Related Notes
 
-**Diagnosis and Treatment Planning** — hub: [Diagnosis and Treatment Planning](../_Topic%20Hubs/Diagnosis%20and%20Treatment%20Planning.md)
+**Endodontic Microbiology & Biofilms** — hub: [Endodontic Microbiology & Biofilms](../_Topic%20Hubs/Endodontic%20Microbiology%20%26%20Biofilms.md)
 
-- [M1 8.1 Patient Evaluation Diagnosis Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
-- [M2 3.1 Clinical Examination](SubModule_3.1_Clinical_Examination.md)
-- [M2 3.3 Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
-- [M2 3.4 Treatment Planning](SubModule_3.4_Treatment_Planning.md)
-- [M2 3.2 Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
+- [M1 · 1.1: Caries Etiology and Pathogenesis](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis.md) *(other module)*
+- [M1 · 1.3: Caries Risk Assessment and Management](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management.md) *(other module)*
+- [M1 · 8.2: Infection Control & Patient Safety](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.2_Infection_Control_and_Patient_Safety.md) *(other module)*
+- [M2 · 2.3: Microbiology of Endodontic Infections](SubModule_2.3_Microbiology_of_Endodontic_Infections.md)
+- [M2 · 4.4: Irrigation & Intracanal Medicaments](SubModule_4.4_Irrigation_and_Intracanal_Medicaments.md)
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
 
-**Pain, Anesthesia and Anxiety** — hub: [Pain, Anesthesia and Anxiety](../_Topic%20Hubs/Pain%2C%20Anesthesia%20and%20Anxiety.md)
+**Intracanal Medicaments** — hub: [Intracanal Medicaments](../_Topic%20Hubs/Intracanal%20Medicaments.md)
 
-- [M1 8.1 Patient Evaluation Diagnosis Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
-- [M2 3.6 Pain Fear Anxiety Management](SubModule_3.6_Pain_Fear_Anxiety_Management.md)
-- [M2 2.1 Pulpal Diseases and Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 · 4.4: Irrigation & Intracanal Medicaments](SubModule_4.4_Irrigation_and_Intracanal_Medicaments.md)
+- [M2 · 7.3: Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
+- [M2 · 2.3: Microbiology of Endodontic Infections](SubModule_2.3_Microbiology_of_Endodontic_Infections.md)
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](SubModule_6.8_Endodontics_in_Primary_Teeth.md)
+
+**Pain, Anxiety & Endodontic Emergencies** — hub: [Pain, Anxiety & Endodontic Emergencies](../_Topic%20Hubs/Pain%2C%20Anxiety%20%26%20Endodontic%20Emergencies.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 · 3.6: Management of Pain, Fear, and Anxiety in the Endodontic Patient](SubModule_3.6_Pain_Fear_Anxiety_Management.md)
+- [M2 · 3.3: Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
+- [M2 · 5.6: Surgical Complications & Management](SubModule_5.6_Surgical_Complications_Management.md)
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Seltzer & Bender's Dental Pulp](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/00_INDEX.md)
 - [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)

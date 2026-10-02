@@ -91,16 +91,34 @@ One further, genuinely practical clinical point worth including directly: there 
 <!-- related-notes -->
 ## Related Notes
 
+**Esthetic Dentistry & Smile Design** — hub: [Esthetic Dentistry & Smile Design](../_Topic%20Hubs/Esthetic%20Dentistry%20%26%20Smile%20Design.md)
+
+- [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) *(other module)*
+- [M2 · 6.7: Non-Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md) *(other module)*
+- [M2 · 3.6: Management of Pain, Fear, and Anxiety in the Endodontic Patient](../Module%202%20-%20Endodontics/SubModule_3.6_Pain_Fear_Anxiety_Management.md) *(other module)*
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](../Module%202%20-%20Endodontics/SubModule_6.8_Endodontics_in_Primary_Teeth.md) *(other module)*
+- [M1 · 5.1.6: Shade Matching & Color Science](SubModule_5.1.6_Shade_Matching_and_Color_Science.md)
+- [M1 · 6.2: Restoration of Esthetic Zone](SubModule_6.2_Restoration_of_Esthetic_Zone.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
+
 **Tooth Bleaching** — hub: [Tooth Bleaching](../_Topic%20Hubs/Tooth%20Bleaching.md)
 
-- [M2 6.7 Non Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md) *(other module)*
-- [M1 6.4 Non Carious Tooth Structure Loss](SubModule_6.4_Non_Carious_Tooth_Structure_Loss.md)
+- [M2 · 6.7: Non-Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md) *(other module)*
 
-**Esthetics, Shade and Color** — hub: [Esthetics, Shade and Color](../_Topic%20Hubs/Esthetics%2C%20Shade%20and%20Color.md)
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
 
-- [M2 6.7 Non Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md) *(other module)*
-- [M1 5.1.6 Shade Matching and Color Science](SubModule_5.1.6_Shade_Matching_and_Color_Science.md)
-- [M1 6.2 Restoration of Esthetic Zone](SubModule_6.2_Restoration_of_Esthetic_Zone.md)
+- [M2 · 1: Pulp-Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 · 3.2: Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 2.2: Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+- [M1 · 3.2: Adhesive Systems & Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)

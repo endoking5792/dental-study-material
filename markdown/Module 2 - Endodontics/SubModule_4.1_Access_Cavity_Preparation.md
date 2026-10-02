@@ -109,20 +109,62 @@ Taurodontism — a short-rooted tooth with a much larger than normal pulp chambe
 <!-- related-notes -->
 ## Related Notes
 
-**Root Perforation and Repair** — hub: [Root Perforation and Repair](../_Topic%20Hubs/Root%20Perforation%20and%20Repair.md)
+**Access Cavity Preparation** — hub: [Access Cavity Preparation](../_Topic%20Hubs/Access%20Cavity%20Preparation.md)
 
-- [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
-- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
-- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
-- [M2 5.6 Surgical Complications Management](SubModule_5.6_Surgical_Complications_Management.md)
-- [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+- [M2 · 5.2: Surgical Anatomy & Flap Design](SubModule_5.2_Surgical_Anatomy_Flap_Design.md)
+
+**Cavity Preparation Principles** — hub: [Cavity Preparation Principles](../_Topic%20Hubs/Cavity%20Preparation%20Principles.md)
+
+- [M1 · 2.3: Cavity Classification & Design by Type](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.3_Cavity_Classification_and_Design.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md) *(other module)*
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+
+**Instruments & Instrumentation** — hub: [Instruments & Instrumentation](../_Topic%20Hubs/Instruments%20%26%20Instrumentation.md)
+
+- [M3 · 2.1: Metals & Alloys](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.1_Metals_and_Alloys.md) *(other module)*
+- [M1 · 8.2: Infection Control & Patient Safety](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.2_Infection_Control_and_Patient_Safety.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M2 · 4.3: Cleaning & Shaping of Root Canals](SubModule_4.3_Cleaning_and_Shaping.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 4.2: Working Length Determination](SubModule_4.2_Working_Length_Determination.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+
+**Instruments, Equipment & Cutting Technology** — hub: [Instruments, Equipment & Cutting Technology](../_Topic%20Hubs/Instruments%2C%20Equipment%20%26%20Cutting%20Technology.md)
+
+- [M1 · 8.2: Infection Control & Patient Safety](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.2_Infection_Control_and_Patient_Safety.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M2 · 4.3: Cleaning & Shaping of Root Canals](SubModule_4.3_Cleaning_and_Shaping.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 5.3: Periradicular Surgery Technique](SubModule_5.3_Periradicular_Surgery_Technique.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+
+**Magnification in Endodontics** — hub: [Magnification in Endodontics](../_Topic%20Hubs/Magnification%20in%20Endodontics.md)
+
+
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
+
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 · 1: Pulp-Dentin Complex Biology](SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md)
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 6.2: Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
 - [Grossman's Endodontic Practice (14e)](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/00_INDEX.md)
-- [Endodontic Radiology (2e)](../../textbooks/Endodontics/Endodontic_Radiology_2nd_ed_Chapterwise/00_INDEX.md)
+- [[Endodontic Radiology|Endodontic Radiology (2e)]]
 - [Guidebook to Molar Endodontics](../../textbooks/Endodontics/The_Guidebook_to_Molar_Endodontics_Chapterwise/00_INDEX.md)
 - [Endodontic Prognosis: Clinical Guide](../../textbooks/Endodontics/Endodontic_Prognosis_Clinical_Guide_Chapterwise/00_INDEX.md)
-- [Gulabivala & Ng — Endodontics (4e)](../../textbooks/Endodontics/Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/00_INDEX.md)
+- [[Endodontics Kishor Gulabivala Yuan Ling|Gulabivala & Ng — Endodontics (4e)]]

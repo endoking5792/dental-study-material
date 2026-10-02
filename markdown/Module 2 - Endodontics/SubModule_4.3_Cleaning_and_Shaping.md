@@ -100,13 +100,54 @@ C-shaped canals present a genuinely distinct anatomic challenge — most often e
 [6] Berman LH, Hargreaves KM, et al. Harty's Endodontics in Clinical Practice, 7th ed. Edinburgh: Elsevier; 2021. Ch.7, "Preparation of the Root Canal System."
 
 <!-- related-notes -->
+## Related Notes
+
+**Cleaning & Shaping / Biomechanical Preparation** — hub: [Cleaning & Shaping / Biomechanical Preparation](../_Topic%20Hubs/Cleaning%20%26%20Shaping%20-%20Biomechanical%20Preparation.md)
+
+
+**Instruments & Instrumentation** — hub: [Instruments & Instrumentation](../_Topic%20Hubs/Instruments%20%26%20Instrumentation.md)
+
+- [M3 · 2.1: Metals & Alloys](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.1_Metals_and_Alloys.md) *(other module)*
+- [M1 · 8.2: Infection Control & Patient Safety](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.2_Infection_Control_and_Patient_Safety.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 4.2: Working Length Determination](SubModule_4.2_Working_Length_Determination.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.1: Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
+
+**Instruments, Equipment & Cutting Technology** — hub: [Instruments, Equipment & Cutting Technology](../_Topic%20Hubs/Instruments%2C%20Equipment%20%26%20Cutting%20Technology.md)
+
+- [M1 · 8.2: Infection Control & Patient Safety](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.2_Infection_Control_and_Patient_Safety.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 5.3: Periradicular Surgery Technique](SubModule_5.3_Periradicular_Surgery_Technique.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.1: Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
+
+**Restorative Forces, Marginal Integrity & Biomechanics** — hub: [Restorative Forces, Marginal Integrity & Biomechanics](../_Topic%20Hubs/Restorative%20Forces%2C%20Marginal%20Integrity%20%26%20Biomechanics.md)
+
+- [M3 · 1.3: Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 · 5.2: Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
+- [M3 · 2.2: Ceramics & Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+
+**Root Canal Anatomy & Morphology** — hub: [Root Canal Anatomy & Morphology](../_Topic%20Hubs/Root%20Canal%20Anatomy%20%26%20Morphology.md)
+
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols.md) *(other module)*
+- [M2 · 5.2: Surgical Anatomy & Flap Design](SubModule_5.2_Surgical_Anatomy_Flap_Design.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
 - [Grossman's Endodontic Practice (14e)](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Guidebook to Molar Endodontics](../../textbooks/Endodontics/The_Guidebook_to_Molar_Endodontics_Chapterwise/00_INDEX.md)
 - [Weine — Endodontic Therapy (6e, full)](../../textbooks/Endodontics/Weines_Endodontics_Full_Chapterwise/00_INDEX.md)
 - [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)

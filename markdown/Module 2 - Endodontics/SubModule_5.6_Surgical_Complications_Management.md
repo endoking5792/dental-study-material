@@ -89,18 +89,42 @@ For patients who already have established BRONJ, management is staged by severit
 <!-- related-notes -->
 ## Related Notes
 
-**Root Perforation and Repair** — hub: [Root Perforation and Repair](../_Topic%20Hubs/Root%20Perforation%20and%20Repair.md)
+**Pain, Anxiety & Endodontic Emergencies** — hub: [Pain, Anxiety & Endodontic Emergencies](../_Topic%20Hubs/Pain%2C%20Anxiety%20%26%20Endodontic%20Emergencies.md)
 
-- [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
-- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
-- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
-- [M2 4.1 Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
-- [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 · 3.6: Management of Pain, Fear, and Anxiety in the Endodontic Patient](SubModule_3.6_Pain_Fear_Anxiety_Management.md)
+- [M2 · 3.3: Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
+- [M2 · 3.1: Clinical Examination](SubModule_3.1_Clinical_Examination.md)
+- [M2 · 6.5: Crown-Originating Dental Fractures](SubModule_6.5_Crown_Originating_Dental_Fractures.md)
+
+**Procedural Errors & Mishaps** — hub: [Procedural Errors & Mishaps](../_Topic%20Hubs/Procedural%20Errors%20%26%20Mishaps.md)
+
+- [M2 · 5.5: Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 5.1: Indications, Contraindications & Case Selection for Surgery](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+
+**Surgical Endodontics & Periapical Surgery** — hub: [Surgical Endodontics & Periapical Surgery](../_Topic%20Hubs/Surgical%20Endodontics%20%26%20Periapical%20Surgery.md)
+
+- [M2 · 5.1: Indications, Contraindications & Case Selection for Surgery](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+- [M2 · 5.3: Periradicular Surgery Technique](SubModule_5.3_Periradicular_Surgery_Technique.md)
+- [M2 · 5.5: Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+
+**Endodontic Microbiology & Biofilms** — hub: [Endodontic Microbiology & Biofilms](../_Topic%20Hubs/Endodontic%20Microbiology%20%26%20Biofilms.md)
+
+- [M1 · 1.1: Caries Etiology and Pathogenesis](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis.md) *(other module)*
+- [M1 · 1.3: Caries Risk Assessment and Management](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management.md) *(other module)*
+- [M1 · 8.2: Infection Control & Patient Safety](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.2_Infection_Control_and_Patient_Safety.md) *(other module)*
+- [M2 · 2.3: Microbiology of Endodontic Infections](SubModule_2.3_Microbiology_of_Endodontic_Infections.md)
+- [M2 · 4.4: Irrigation & Intracanal Medicaments](SubModule_4.4_Irrigation_and_Intracanal_Medicaments.md)
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Grossman's Endodontic Practice (14e)](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/00_INDEX.md)

@@ -282,22 +282,48 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 <!-- related-notes -->
 ## Related Notes
 
-**Pulp Protection, Liners and Pulp Capping** — hub: [Pulp Protection, Liners and Pulp Capping](../_Topic%20Hubs/Pulp%20Protection%2C%20Liners%20and%20Pulp%20Capping.md)
+**Dental Caries — Etiology, Pathophysiology & Prevention** — hub: [Dental Caries — Etiology, Pathophysiology & Prevention](../_Topic%20Hubs/Dental%20Caries%20%E2%80%94%20Etiology%2C%20Pathophysiology%20%26%20Prevention.md)
 
-- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
-- [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
-- [M3 5.1 Biocompatibility Assessment](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.1_Biocompatibility_Assessment.md) *(other module)*
-- [M2 1.1-1.3 Pulp Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
-- [M1 3.3 Liners Bases and Pulp Protection Materials](SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md)
+- [M1 · 1.3: Caries Risk Assessment and Management](SubModule_1.3_Caries_Risk_Assessment_and_Management.md)
+- [M1 · 1.2: Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
+- [M1 · 1.1: Caries Etiology and Pathogenesis](SubModule_1.1_Caries_Etiology_and_Pathogenesis.md)
+- [M1 · 4.4: Fissure Sealants & Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
 
-**Caries and Pulp Response** — hub: [Caries and Pulp Response](../_Topic%20Hubs/Caries%20and%20Pulp%20Response.md)
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
 
-- [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
-- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
-- [M1 1.1 Caries Etiology and Pathogenesis](SubModule_1.1_Caries_Etiology_and_Pathogenesis.md)
-- [M1 1.2 Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
-- [M1 1.3 Caries Risk Assessment and Management](SubModule_1.3_Caries_Risk_Assessment_and_Management.md)
-- [M1 4.4 Fissure Sealants and Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
+- [M2 · 1: Pulp-Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 · 3.2: Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 3.2: Adhesive Systems & Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md)
+- [M1 · 1.2: Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
+
+**Instruments & Instrumentation** — hub: [Instruments & Instrumentation](../_Topic%20Hubs/Instruments%20%26%20Instrumentation.md)
+
+- [M2 · 4.3: Cleaning & Shaping of Root Canals](../Module%202%20-%20Endodontics/SubModule_4.3_Cleaning_and_Shaping.md) *(other module)*
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](../Module%202%20-%20Endodontics/SubModule_4.6_Nonsurgical_Retreatment.md) *(other module)*
+- [M2 · 4.2: Working Length Determination](../Module%202%20-%20Endodontics/SubModule_4.2_Working_Length_Determination.md) *(other module)*
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M3 · 2.1: Metals & Alloys](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.1_Metals_and_Alloys.md) *(other module)*
+- [M2 · 4.1: Access Cavity Preparation](../Module%202%20-%20Endodontics/SubModule_4.1_Access_Cavity_Preparation.md) *(other module)*
+- [M1 · 8.2: Infection Control & Patient Safety](SubModule_8.2_Infection_Control_and_Patient_Safety.md)
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+
+**Instruments, Equipment & Cutting Technology** — hub: [Instruments, Equipment & Cutting Technology](../_Topic%20Hubs/Instruments%2C%20Equipment%20%26%20Cutting%20Technology.md)
+
+- [M2 · 4.3: Cleaning & Shaping of Root Canals](../Module%202%20-%20Endodontics/SubModule_4.3_Cleaning_and_Shaping.md) *(other module)*
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](../Module%202%20-%20Endodontics/SubModule_4.6_Nonsurgical_Retreatment.md) *(other module)*
+- [M2 · 5.3: Periradicular Surgery Technique](../Module%202%20-%20Endodontics/SubModule_5.3_Periradicular_Surgery_Technique.md) *(other module)*
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M2 · 4.1: Access Cavity Preparation](../Module%202%20-%20Endodontics/SubModule_4.1_Access_Cavity_Preparation.md) *(other module)*
+- [M2 · 4.2: Working Length Determination](../Module%202%20-%20Endodontics/SubModule_4.2_Working_Length_Determination.md) *(other module)*
+- [M1 · 8.2: Infection Control & Patient Safety](SubModule_8.2_Infection_Control_and_Patient_Safety.md)
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
@@ -307,5 +333,5 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 - [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)
 - [Marzouk — Operative Dentistry: Modern Theory and Practice](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/00_INDEX.md)
 - [Pickard's Manual of Operative Dentistry (9th)](../../textbooks/Conservative%20Dentistry/Pickards_Manual_of_Operative_Dentistry_9th_Chapterwise/00_INDEX.md)
-- [Indirect Restorations in Dental Practice (Sikri)](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/00_INDEX.md)
+- [[Indirect Restorations in Dental Practice|Indirect Restorations in Dental Practice (Sikri)]]
 - [Advanced Operative Dentistry](../../textbooks/Conservative%20Dentistry/Advanced_Operative_Dentistry_Chapterwise/00_INDEX.md)

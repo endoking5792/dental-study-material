@@ -105,23 +105,58 @@ Pickard's states the real justification directly and specifically, worth using a
 <!-- related-notes -->
 ## Related Notes
 
-**Diagnosis and Treatment Planning** — hub: [Diagnosis and Treatment Planning](../_Topic%20Hubs/Diagnosis%20and%20Treatment%20Planning.md)
+**Diagnosis in Endodontics** — hub: [Diagnosis in Endodontics](../_Topic%20Hubs/Diagnosis%20in%20Endodontics.md)
 
-- [M2 3.1 Clinical Examination](../Module%202%20-%20Endodontics/SubModule_3.1_Clinical_Examination.md) *(other module)*
-- [M2 3.3 Diagnostic Decision Making](../Module%202%20-%20Endodontics/SubModule_3.3_Diagnostic_Decision_Making.md) *(other module)*
-- [M2 3.4 Treatment Planning](../Module%202%20-%20Endodontics/SubModule_3.4_Treatment_Planning.md) *(other module)*
-- [M2 3.5 Medically Complex Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md) *(other module)*
-- [M2 3.2 Radiographic Examination](../Module%202%20-%20Endodontics/SubModule_3.2_Radiographic_Examination.md) *(other module)*
+- [M2 · 3.3: Diagnostic Decision Making](../Module%202%20-%20Endodontics/SubModule_3.3_Diagnostic_Decision_Making.md) *(other module)*
+- [M2 · 3.1: Clinical Examination](../Module%202%20-%20Endodontics/SubModule_3.1_Clinical_Examination.md) *(other module)*
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
+- [M2 · 3.2: Radiographic Examination](../Module%202%20-%20Endodontics/SubModule_3.2_Radiographic_Examination.md) *(other module)*
+- [M2 · 6.5: Crown-Originating Dental Fractures](../Module%202%20-%20Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
 
-**Pain, Anesthesia and Anxiety** — hub: [Pain, Anesthesia and Anxiety](../_Topic%20Hubs/Pain%2C%20Anesthesia%20and%20Anxiety.md)
+**Diagnosis, Treatment Planning & Caries Risk Assessment** — hub: [Diagnosis, Treatment Planning & Caries Risk Assessment](../_Topic%20Hubs/Diagnosis%2C%20Treatment%20Planning%20%26%20Caries%20Risk%20Assessment.md)
 
-- [M2 3.6 Pain Fear Anxiety Management](../Module%202%20-%20Endodontics/SubModule_3.6_Pain_Fear_Anxiety_Management.md) *(other module)*
-- [M2 3.5 Medically Complex Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md) *(other module)*
-- [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
+- [M2 · 3.3: Diagnostic Decision Making](../Module%202%20-%20Endodontics/SubModule_3.3_Diagnostic_Decision_Making.md) *(other module)*
+- [M2 · 3.1: Clinical Examination](../Module%202%20-%20Endodontics/SubModule_3.1_Clinical_Examination.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](../Module%202%20-%20Endodontics/SubModule_3.4_Treatment_Planning.md) *(other module)*
+- [M2 · 3.2: Radiographic Examination](../Module%202%20-%20Endodontics/SubModule_3.2_Radiographic_Examination.md) *(other module)*
+- [M2 · 6.5: Crown-Originating Dental Fractures](../Module%202%20-%20Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures.md) *(other module)*
+- [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
+- [M1 · 1.3: Caries Risk Assessment and Management](SubModule_1.3_Caries_Risk_Assessment_and_Management.md)
+
+**Pain, Anxiety & Endodontic Emergencies** — hub: [Pain, Anxiety & Endodontic Emergencies](../_Topic%20Hubs/Pain%2C%20Anxiety%20%26%20Endodontic%20Emergencies.md)
+
+- [M2 · 3.6: Management of Pain, Fear, and Anxiety in the Endodontic Patient](../Module%202%20-%20Endodontics/SubModule_3.6_Pain_Fear_Anxiety_Management.md) *(other module)*
+- [M2 · 3.3: Diagnostic Decision Making](../Module%202%20-%20Endodontics/SubModule_3.3_Diagnostic_Decision_Making.md) *(other module)*
+- [M2 · 5.6: Surgical Complications & Management](../Module%202%20-%20Endodontics/SubModule_5.6_Surgical_Complications_Management.md) *(other module)*
+- [M2 · 3.1: Clinical Examination](../Module%202%20-%20Endodontics/SubModule_3.1_Clinical_Examination.md) *(other module)*
+- [M2 · 6.5: Crown-Originating Dental Fractures](../Module%202%20-%20Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures.md) *(other module)*
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
+
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
+
+- [M2 · 3.4: Treatment Planning](../Module%202%20-%20Endodontics/SubModule_3.4_Treatment_Planning.md) *(other module)*
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](../Module%202%20-%20Endodontics/SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md) *(other module)*
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](../Module%202%20-%20Endodontics/SubModule_4.6_Nonsurgical_Retreatment.md) *(other module)*
+- [M2 · 8.1: Outcome Assessment, Classification Systems & Success Rates](../Module%202%20-%20Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates.md) *(other module)*
+- [M2 · 5.1: Indications, Contraindications & Case Selection for Surgery](../Module%202%20-%20Endodontics/SubModule_5.1_Indications_Contraindications_Case_Selection.md) *(other module)*
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md)
+
+**Endodontic–Periodontal Lesions** — hub: [Endodontic–Periodontal Lesions](../_Topic%20Hubs/Endodontic%E2%80%93Periodontal%20Lesions.md)
+
+- [M2 · 6.6: Endodontic-Periodontal Interrelationships](../Module%202%20-%20Endodontics/SubModule_6.6_Endodontic_Periodontal_Interrelationships.md) *(other module)*
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](../Module%202%20-%20Endodontics/SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md) *(other module)*
+- [M2 · 6.1: Traumatic Dental Injuries](../Module%202%20-%20Endodontics/SubModule_6.1_Traumatic_Dental_Injuries.md) *(other module)*
+- [M2 · 5.5: Other Surgical Procedures](../Module%202%20-%20Endodontics/SubModule_5.5_Other_Surgical_Procedures.md) *(other module)*
+- [M2 · 2.3: Microbiology of Endodontic Infections](../Module%202%20-%20Endodontics/SubModule_2.3_Microbiology_of_Endodontic_Infections.md) *(other module)*
+- [M2 · 3.1: Clinical Examination](../Module%202%20-%20Endodontics/SubModule_3.1_Clinical_Examination.md) *(other module)*
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)
 - [Pickard's Manual of Operative Dentistry (9th)](../../textbooks/Conservative%20Dentistry/Pickards_Manual_of_Operative_Dentistry_9th_Chapterwise/00_INDEX.md)
-- [Indirect Restorations in Dental Practice (Sikri)](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/00_INDEX.md)
+- [[Indirect Restorations in Dental Practice|Indirect Restorations in Dental Practice (Sikri)]]

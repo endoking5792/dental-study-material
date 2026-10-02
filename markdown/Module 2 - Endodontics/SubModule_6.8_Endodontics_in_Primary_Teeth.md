@@ -53,6 +53,57 @@ Complications in the primary dentition are generally diagnosable between 6 weeks
 [2] Andreasen JO, Andreasen FM, Andersson L, eds. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Chapter 19, "Injuries to the Primary Dentition" (Flores MT, Holan G, Borum M, Andreasen JO).
 
 <!-- related-notes -->
+## Related Notes
+
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
+
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+
+**Esthetic Dentistry & Smile Design** — hub: [Esthetic Dentistry & Smile Design](../_Topic%20Hubs/Esthetic%20Dentistry%20%26%20Smile%20Design.md)
+
+- [M1 · 5.1.6: Shade Matching & Color Science](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.6_Shade_Matching_and_Color_Science.md) *(other module)*
+- [M1 · 6.2: Restoration of Esthetic Zone](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone.md) *(other module)*
+- [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) *(other module)*
+- [M1 · 6.5: Natural Tooth Bleaching](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.5_Natural_Tooth_Bleaching.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols.md) *(other module)*
+- [M2 · 6.7: Non-Vital Tooth Bleaching](SubModule_6.7_Non_Vital_Tooth_Bleaching.md)
+- [M2 · 3.6: Management of Pain, Fear, and Anxiety in the Endodontic Patient](SubModule_3.6_Pain_Fear_Anxiety_Management.md)
+
+**Geriatric & Special-Population Endodontics** — hub: [Geriatric & Special-Population Endodontics](../_Topic%20Hubs/Geriatric%20%26%20Special-Population%20Endodontics.md)
+
+
+**Imaging in Endodontics** — hub: [Imaging in Endodontics](../_Topic%20Hubs/Imaging%20in%20Endodontics.md)
+
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M2 · 3.2: Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 4.2: Working Length Determination](SubModule_4.2_Working_Length_Determination.md)
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
+
+**Intracanal Medicaments** — hub: [Intracanal Medicaments](../_Topic%20Hubs/Intracanal%20Medicaments.md)
+
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 · 4.4: Irrigation & Intracanal Medicaments](SubModule_4.4_Irrigation_and_Intracanal_Medicaments.md)
+- [M2 · 7.3: Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
+- [M2 · 3.5: Management of the Medically Complex Endodontic Patient](SubModule_3.5_Medically_Complex_Patient.md)
+- [M2 · 2.3: Microbiology of Endodontic Infections](SubModule_2.3_Microbiology_of_Endodontic_Infections.md)
+
+**Pulp Capping & Vital Pulp Therapy** — hub: [Pulp Capping & Vital Pulp Therapy](../_Topic%20Hubs/Pulp%20Capping%20%26%20Vital%20Pulp%20Therapy.md)
+
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+
+**Traumatic Dental Injuries** — hub: [Traumatic Dental Injuries](../_Topic%20Hubs/Traumatic%20Dental%20Injuries.md)
+
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+- [M2 · 6.4: External Root Resorption](SubModule_6.4_External_Root_Resorption.md)
+- [M2 · 2.4: Tooth Resorption in Endodontics](SubModule_2.4_Tooth_Resorption_in_Endodontics.md)
+- [M2 · 6.9: Endodontic-Orthodontic Relationships](SubModule_6.9_Endodontic_Orthodontic_Relationships.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)

@@ -439,14 +439,34 @@ Numbered in citation order as first used in the text. Page numbers refer to the 
 <!-- related-notes -->
 ## Related Notes
 
-**Caries and Pulp Response** — hub: [Caries and Pulp Response](../_Topic%20Hubs/Caries%20and%20Pulp%20Response.md)
+**Dental Caries — Etiology, Pathophysiology & Prevention** — hub: [Dental Caries — Etiology, Pathophysiology & Prevention](../_Topic%20Hubs/Dental%20Caries%20%E2%80%94%20Etiology%2C%20Pathophysiology%20%26%20Prevention.md)
 
-- [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
-- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
-- [M1 1.1 Caries Etiology and Pathogenesis](SubModule_1.1_Caries_Etiology_and_Pathogenesis.md)
-- [M1 1.2 Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
-- [M1 2.2 Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
-- [M1 4.4 Fissure Sealants and Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
+- [M1 · 1.2: Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
+- [M1 · 1.1: Caries Etiology and Pathogenesis](SubModule_1.1_Caries_Etiology_and_Pathogenesis.md)
+- [M1 · 2.2: Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+- [M1 · 4.4: Fissure Sealants & Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
+
+**Diagnosis, Treatment Planning & Caries Risk Assessment** — hub: [Diagnosis, Treatment Planning & Caries Risk Assessment](../_Topic%20Hubs/Diagnosis%2C%20Treatment%20Planning%20%26%20Caries%20Risk%20Assessment.md)
+
+- [M2 · 3.3: Diagnostic Decision Making](../Module%202%20-%20Endodontics/SubModule_3.3_Diagnostic_Decision_Making.md) *(other module)*
+- [M2 · 3.1: Clinical Examination](../Module%202%20-%20Endodontics/SubModule_3.1_Clinical_Examination.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](../Module%202%20-%20Endodontics/SubModule_3.4_Treatment_Planning.md) *(other module)*
+- [M2 · 3.2: Radiographic Examination](../Module%202%20-%20Endodontics/SubModule_3.2_Radiographic_Examination.md) *(other module)*
+- [M2 · 6.5: Crown-Originating Dental Fractures](../Module%202%20-%20Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures.md) *(other module)*
+- [M3 · 7.2: Clinical Monitoring & Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md)
+- [M1 · 1.2: Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
+
+**Endodontic Microbiology & Biofilms** — hub: [Endodontic Microbiology & Biofilms](../_Topic%20Hubs/Endodontic%20Microbiology%20%26%20Biofilms.md)
+
+- [M2 · 2.3: Microbiology of Endodontic Infections](../Module%202%20-%20Endodontics/SubModule_2.3_Microbiology_of_Endodontic_Infections.md) *(other module)*
+- [M2 · 4.4: Irrigation & Intracanal Medicaments](../Module%202%20-%20Endodontics/SubModule_4.4_Irrigation_and_Intracanal_Medicaments.md) *(other module)*
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](../Module%202%20-%20Endodontics/SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md) *(other module)*
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
+- [M2 · 5.6: Surgical Complications & Management](../Module%202%20-%20Endodontics/SubModule_5.6_Surgical_Complications_Management.md) *(other module)*
+- [M2 · 3.5: Management of the Medically Complex Endodontic Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md) *(other module)*
+- [M1 · 1.1: Caries Etiology and Pathogenesis](SubModule_1.1_Caries_Etiology_and_Pathogenesis.md)
+- [M1 · 8.2: Infection Control & Patient Safety](SubModule_8.2_Infection_Control_and_Patient_Safety.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)

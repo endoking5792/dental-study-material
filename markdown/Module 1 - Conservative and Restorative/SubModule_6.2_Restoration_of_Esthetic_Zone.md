@@ -87,20 +87,57 @@ Between the dentin mamelons and the outer enamel layer, a HIGHLY TRANSLUCENT com
 <!-- related-notes -->
 ## Related Notes
 
-**Ceramics and Indirect Restorative Materials** — hub: [Ceramics and Indirect Restorative Materials](../_Topic%20Hubs/Ceramics%20and%20Indirect%20Restorative%20Materials.md)
+**Composite Resin** — hub: [Composite Resin](../_Topic%20Hubs/Composite%20Resin.md)
 
-- [M3 2.2 Ceramics and Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
-- [M1 5.2 Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
-- [M1 5.1 Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
-- [M1 5.3 Indirect Restoration Preparation and Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
+- [M3 · 2.3: Polymer Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.3_Polymer_Materials.md) *(other module)*
+- [M3 · 6.1: Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
 
-**Esthetics, Shade and Color** — hub: [Esthetics, Shade and Color](../_Topic%20Hubs/Esthetics%2C%20Shade%20and%20Color.md)
+**Esthetic Dentistry & Smile Design** — hub: [Esthetic Dentistry & Smile Design](../_Topic%20Hubs/Esthetic%20Dentistry%20%26%20Smile%20Design.md)
 
-- [M2 6.7 Non Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md) *(other module)*
-- [M1 5.1.6 Shade Matching and Color Science](SubModule_5.1.6_Shade_Matching_and_Color_Science.md)
-- [M1 6.5 Natural Tooth Bleaching](SubModule_6.5_Natural_Tooth_Bleaching.md)
+- [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) *(other module)*
+- [M2 · 6.7: Non-Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md) *(other module)*
+- [M2 · 3.6: Management of Pain, Fear, and Anxiety in the Endodontic Patient](../Module%202%20-%20Endodontics/SubModule_3.6_Pain_Fear_Anxiety_Management.md) *(other module)*
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](../Module%202%20-%20Endodontics/SubModule_6.8_Endodontics_in_Primary_Teeth.md) *(other module)*
+- [M1 · 5.1.6: Shade Matching & Color Science](SubModule_5.1.6_Shade_Matching_and_Color_Science.md)
+- [M1 · 6.5: Natural Tooth Bleaching](SubModule_6.5_Natural_Tooth_Bleaching.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
+
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
+
+- [M2 · 1: Pulp-Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 · 3.2: Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 2.2: Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+- [M1 · 3.2: Adhesive Systems & Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md)
+
+**Ceramic & Indirect Restorations** — hub: [Ceramic & Indirect Restorations](../_Topic%20Hubs/Ceramic%20%26%20Indirect%20Restorations.md)
+
+- [M3 · 2.2: Ceramics & Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M2 · 6.5: Crown-Originating Dental Fractures](../Module%202%20-%20Endodontics/SubModule_6.5_Crown_Originating_Dental_Fractures.md) *(other module)*
+- [M2 · 5.5: Other Surgical Procedures](../Module%202%20-%20Endodontics/SubModule_5.5_Other_Surgical_Procedures.md) *(other module)*
+- [M1 · 5.2: Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
+- [M1 · 5.1: Types of Indirect Restorations](SubModule_5.1_Types_of_Indirect_Restorations.md)
+- [M1 · 5.3: Indirect Restoration Preparation & Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Modern Operative Dentistry](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [[Modern Operative Dentistry Principles for Clinical Practice|Modern Operative Dentistry]]

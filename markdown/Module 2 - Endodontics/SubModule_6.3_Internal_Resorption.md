@@ -53,9 +53,30 @@ A genuinely contested management question is flagged explicitly by the source ra
 [2] Andreasen JO, Andreasen FM, Andersson L, eds. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Chapter 22, "Endodontic Management and the Use of Calcium Hydroxide in Traumatized Permanent Teeth" (Cvek M).
 
 <!-- related-notes -->
+## Related Notes
+
+**Root Resorption** — hub: [Root Resorption](../_Topic%20Hubs/Root%20Resorption.md)
+
+- [M2 · 2.4: Tooth Resorption in Endodontics](SubModule_2.4_Tooth_Resorption_in_Endodontics.md)
+- [M2 · 6.4: External Root Resorption](SubModule_6.4_External_Root_Resorption.md)
+
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
+
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+
+**Traumatic Dental Injuries** — hub: [Traumatic Dental Injuries](../_Topic%20Hubs/Traumatic%20Dental%20Injuries.md)
+
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+- [M2 · 6.4: External Root Resorption](SubModule_6.4_External_Root_Resorption.md)
+- [M2 · 2.4: Tooth Resorption in Endodontics](SubModule_2.4_Tooth_Resorption_in_Endodontics.md)
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](SubModule_6.8_Endodontics_in_Primary_Teeth.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Andreasen — Textbook and Color Atlas of Traumatic Injuries](../../textbooks/Endodontics/Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/00_INDEX.md)

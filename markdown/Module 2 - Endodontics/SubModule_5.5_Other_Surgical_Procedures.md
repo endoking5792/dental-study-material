@@ -119,19 +119,48 @@ Ridge preservation is worth introducing as its own topic distinct from GTR used 
 <!-- related-notes -->
 ## Related Notes
 
-**Endodontic-Periodontal and Orthodontic Relationships** — hub: [Endodontic-Periodontal and Orthodontic Relationships](../_Topic%20Hubs/Endodontic-Periodontal%20and%20Orthodontic%20Relationships.md)
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
 
-- [M2 6.6 Endodontic Periodontal Interrelationships](SubModule_6.6_Endodontic_Periodontal_Interrelationships.md)
-- [M2 6.9 Endodontic Orthodontic Relationships](SubModule_6.9_Endodontic_Orthodontic_Relationships.md)
-- [M2 2.2 Periapical Diseases and Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
 
-**Root Perforation and Repair** — hub: [Root Perforation and Repair](../_Topic%20Hubs/Root%20Perforation%20and%20Repair.md)
+**Procedural Errors & Mishaps** — hub: [Procedural Errors & Mishaps](../_Topic%20Hubs/Procedural%20Errors%20%26%20Mishaps.md)
 
-- [M2 4.6 Nonsurgical Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
-- [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
-- [M2 4.1 Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
-- [M2 5.6 Surgical Complications Management](SubModule_5.6_Surgical_Complications_Management.md)
-- [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 5.6: Surgical Complications & Management](SubModule_5.6_Surgical_Complications_Management.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 5.1: Indications, Contraindications & Case Selection for Surgery](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+
+**Surgical Endodontics & Periapical Surgery** — hub: [Surgical Endodontics & Periapical Surgery](../_Topic%20Hubs/Surgical%20Endodontics%20%26%20Periapical%20Surgery.md)
+
+- [M2 · 5.1: Indications, Contraindications & Case Selection for Surgery](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
+- [M2 · 5.3: Periradicular Surgery Technique](SubModule_5.3_Periradicular_Surgery_Technique.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 5.6: Surgical Complications & Management](SubModule_5.6_Surgical_Complications_Management.md)
+
+**Ceramic & Indirect Restorations** — hub: [Ceramic & Indirect Restorations](../_Topic%20Hubs/Ceramic%20%26%20Indirect%20Restorations.md)
+
+- [M1 · 5.2: Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
+- [M1 · 5.1: Types of Indirect Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1_Types_of_Indirect_Restorations.md) *(other module)*
+- [M3 · 2.2: Ceramics & Glass Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.2_Ceramics_and_Glass_Materials.md) *(other module)*
+- [M1 · 5.3: Indirect Restoration Preparation & Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 6.5: Crown-Originating Dental Fractures](SubModule_6.5_Crown_Originating_Dental_Fractures.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+
+**Endodontic–Periodontal Lesions** — hub: [Endodontic–Periodontal Lesions](../_Topic%20Hubs/Endodontic%E2%80%93Periodontal%20Lesions.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 · 6.6: Endodontic-Periodontal Interrelationships](SubModule_6.6_Endodontic_Periodontal_Interrelationships.md)
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md)
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+- [M2 · 2.3: Microbiology of Endodontic Infections](SubModule_2.3_Microbiology_of_Endodontic_Infections.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
@@ -139,5 +168,5 @@ Ridge preservation is worth introducing as its own topic distinct from GTR used 
 - [Art and Science of Contemporary Surgical Endodontics](../../textbooks/Endodontics/The_Art_and_Science_of_Contemporary_Surgical_Endodontics_Mahmoud_2_Chapterwise/00_INDEX.md)
 - [Harty's Endodontics in Clinical Practice (7e)](../../textbooks/Endodontics/Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/00_INDEX.md)
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Grossman's Endodontic Practice (14e)](../../textbooks/Endodontics/Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/00_INDEX.md)

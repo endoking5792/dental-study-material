@@ -61,20 +61,36 @@ A distinction genuinely worth making explicit to students, since the two are eas
 <!-- related-notes -->
 ## Related Notes
 
-**Restoration Failure and Longevity** — hub: [Restoration Failure and Longevity](../_Topic%20Hubs/Restoration%20Failure%20and%20Longevity.md)
+**Dental Amalgam** — hub: [Dental Amalgam](../_Topic%20Hubs/Dental%20Amalgam.md)
 
-- [M1 6.3 Restoration Longevity and Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
-- [M2 8.1 Outcome Assessment Success Rates](../Module%202%20-%20Endodontics/SubModule_8.1_Outcome_Assessment_Success_Rates.md) *(other module)*
-- [M2 8.2 Prognostic Factors Long Term Success](../Module%202%20-%20Endodontics/SubModule_8.2_Prognostic_Factors_Long_Term_Success.md) *(other module)*
-- [M2 5.7 Outcomes Prognosis Surgical Endodontics](../Module%202%20-%20Endodontics/SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md) *(other module)*
-- [M3 7.1 Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
-- [M3 7.2 Clinical Monitoring and Maintenance](SubModule_7.2_Clinical_Monitoring_and_Maintenance.md)
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 · 6.6: Direct Gold Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.6_Direct_Gold_Restorations.md) *(other module)*
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M1 · 6.1: Large Restorations & Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
+- [M2 · 5.4: Root-End Preparation & Retrograde Filling Materials](../Module%202%20-%20Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md) *(other module)*
+- [M3 · 8.2: Dental Amalgam](SubModule_8.2_Dental_Amalgam.md)
+- [M3 · 6.1: Material Selection Criteria](SubModule_6.1_Material_Selection_Criteria.md)
+- [M3 · 7.2: Clinical Monitoring & Maintenance](SubModule_7.2_Clinical_Monitoring_and_Maintenance.md)
+- [M3 · 7.1: Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
+
+**Luting & Cementation Materials** — hub: [Luting & Cementation Materials](../_Topic%20Hubs/Luting%20%26%20Cementation%20Materials.md)
+
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M1 · 5.3: Indirect Restoration Preparation & Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 5.4: Root-End Preparation & Retrograde Filling Materials](../Module%202%20-%20Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M2 · 6.1: Traumatic Dental Injuries](../Module%202%20-%20Endodontics/SubModule_6.1_Traumatic_Dental_Injuries.md) *(other module)*
+- [M3 · 4.1: Cement Types & Selection](SubModule_4.1_Cement_Types_and_Selection.md)
+- [M3 · 4.2: Cementation Protocol](SubModule_4.2_Cementation_Protocol.md)
+- [M3 · 2.2: Ceramics & Glass Materials](SubModule_2.2_Ceramics_and_Glass_Materials.md)
+- [M3 · 5.2: Bioactive Materials](SubModule_5.2_Bioactive_Materials.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
+- [[Craig Restorative Dental Materials 14e|Craig's Restorative Dental Materials (14e)]]
 - [van Noort — Introduction to Dental Materials (4e)](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/00_INDEX.md)
 - [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
-- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)
-- [Bonsor & Pearson — A Clinical Guide to Applied Dental Materials](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/00_INDEX.md)
+- [[Restorative Dental Materials (Craig, Michigan|Restorative Dental Materials (Craig, Michigan 11e)]]
+- [[A Clinical Guide to Applied Dental Materials|Bonsor & Pearson — A Clinical Guide to Applied Dental Materials]]

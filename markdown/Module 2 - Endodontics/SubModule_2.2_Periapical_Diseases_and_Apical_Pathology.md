@@ -157,16 +157,44 @@ Shafer's frames “residual cyst” as essentially a term of convenience — the
 <!-- related-notes -->
 ## Related Notes
 
-**Endodontic-Periodontal and Orthodontic Relationships** — hub: [Endodontic-Periodontal and Orthodontic Relationships](../_Topic%20Hubs/Endodontic-Periodontal%20and%20Orthodontic%20Relationships.md)
+**Endodontic Microbiology & Biofilms** — hub: [Endodontic Microbiology & Biofilms](../_Topic%20Hubs/Endodontic%20Microbiology%20%26%20Biofilms.md)
 
-- [M2 6.6 Endodontic Periodontal Interrelationships](SubModule_6.6_Endodontic_Periodontal_Interrelationships.md)
-- [M2 6.9 Endodontic Orthodontic Relationships](SubModule_6.9_Endodontic_Orthodontic_Relationships.md)
-- [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M1 · 1.1: Caries Etiology and Pathogenesis](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.1_Caries_Etiology_and_Pathogenesis.md) *(other module)*
+- [M1 · 1.3: Caries Risk Assessment and Management](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.3_Caries_Risk_Assessment_and_Management.md) *(other module)*
+- [M1 · 8.2: Infection Control & Patient Safety](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.2_Infection_Control_and_Patient_Safety.md) *(other module)*
+- [M2 · 2.3: Microbiology of Endodontic Infections](SubModule_2.3_Microbiology_of_Endodontic_Infections.md)
+- [M2 · 4.4: Irrigation & Intracanal Medicaments](SubModule_4.4_Irrigation_and_Intracanal_Medicaments.md)
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
+- [M2 · 5.6: Surgical Complications & Management](SubModule_5.6_Surgical_Complications_Management.md)
+
+**Endodontic Failures, Retreatment & Prognosis** — hub: [Endodontic Failures, Retreatment & Prognosis](../_Topic%20Hubs/Endodontic%20Failures%2C%20Retreatment%20%26%20Prognosis.md)
+
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 5.7: Outcomes & Prognosis of Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](SubModule_4.6_Nonsurgical_Retreatment.md)
+
+**Endodontic–Periodontal Lesions** — hub: [Endodontic–Periodontal Lesions](../_Topic%20Hubs/Endodontic%E2%80%93Periodontal%20Lesions.md)
+
+- [M1 · 8.1: Patient Evaluation, Diagnosis & Treatment Planning](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_8.1_Patient_Evaluation_Diagnosis_Treatment_Planning.md) *(other module)*
+- [M2 · 6.6: Endodontic-Periodontal Interrelationships](SubModule_6.6_Endodontic_Periodontal_Interrelationships.md)
+- [M2 · 6.1: Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
+- [M2 · 5.5: Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
+- [M2 · 2.3: Microbiology of Endodontic Infections](SubModule_2.3_Microbiology_of_Endodontic_Infections.md)
+
+**Imaging in Endodontics** — hub: [Imaging in Endodontics](../_Topic%20Hubs/Imaging%20in%20Endodontics.md)
+
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M2 · 3.2: Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
+- [M2 · 3.4: Treatment Planning](SubModule_3.4_Treatment_Planning.md)
+- [M2 · 4.2: Working Length Determination](SubModule_4.2_Working_Length_Determination.md)
+- [M2 · 2.4: Tooth Resorption in Endodontics](SubModule_2.4_Tooth_Resorption_in_Endodontics.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Cohen's Pathways of the Pulp (12e)](../../textbooks/Endodontics/Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/00_INDEX.md)
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]
 - [Glossary of Endodontic Terms](../../textbooks/Endodontics/Glossary_of_Endodontic_Terms_Chapterwise/00_INDEX.md)
 - [Treatment of Endodontic Infections](../../textbooks/Endodontics/Treatment_of_Endodontic_Infections_Chapterwise/00_INDEX.md)

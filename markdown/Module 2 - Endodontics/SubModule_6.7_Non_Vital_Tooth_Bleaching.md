@@ -35,18 +35,35 @@ Restoration of the intracoronally bleached tooth carries its own endodontic-spec
 <!-- related-notes -->
 ## Related Notes
 
+**Esthetic Dentistry & Smile Design** — hub: [Esthetic Dentistry & Smile Design](../_Topic%20Hubs/Esthetic%20Dentistry%20%26%20Smile%20Design.md)
+
+- [M1 · 5.1.6: Shade Matching & Color Science](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.6_Shade_Matching_and_Color_Science.md) *(other module)*
+- [M1 · 6.2: Restoration of Esthetic Zone](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone.md) *(other module)*
+- [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) *(other module)*
+- [M1 · 6.5: Natural Tooth Bleaching](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.5_Natural_Tooth_Bleaching.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.2a_ClassI_II_Composite_Protocols.md) *(other module)*
+- [M2 · 3.6: Management of Pain, Fear, and Anxiety in the Endodontic Patient](SubModule_3.6_Pain_Fear_Anxiety_Management.md)
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](SubModule_6.8_Endodontics_in_Primary_Teeth.md)
+
 **Tooth Bleaching** — hub: [Tooth Bleaching](../_Topic%20Hubs/Tooth%20Bleaching.md)
 
-- [M1 6.5 Natural Tooth Bleaching](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.5_Natural_Tooth_Bleaching.md) *(other module)*
-- [M1 6.4 Non Carious Tooth Structure Loss](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss.md) *(other module)*
+- [M1 · 6.5: Natural Tooth Bleaching](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.5_Natural_Tooth_Bleaching.md) *(other module)*
 
-**Esthetics, Shade and Color** — hub: [Esthetics, Shade and Color](../_Topic%20Hubs/Esthetics%2C%20Shade%20and%20Color.md)
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
 
-- [M1 5.1.6 Shade Matching and Color Science](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.6_Shade_Matching_and_Color_Science.md) *(other module)*
-- [M1 6.2 Restoration of Esthetic Zone](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.2_Restoration_of_Esthetic_Zone.md) *(other module)*
-- [M1 6.5 Natural Tooth Bleaching](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.5_Natural_Tooth_Bleaching.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 2.2: Caries Removal Strategies](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.2_Caries_Removal_Strategies.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M1 · 1.2: Caries Diagnosis and Detection](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_1.2_Caries_Diagnosis_and_Detection.md) *(other module)*
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M2 · 1: Pulp-Dentin Complex Biology](SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md)
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md)
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md)
+- [M2 · 6.2: Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Ingle's Endodontics (7e)](../../textbooks/Endodontics/Ingles_Endodontics_7th_Chapterwise/00_INDEX.md)
+- [[Ingles Endodontics 7thed|Ingle's Endodontics (7e)]]

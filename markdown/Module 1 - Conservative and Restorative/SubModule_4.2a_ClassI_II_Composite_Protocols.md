@@ -117,17 +117,83 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 <!-- related-notes -->
 ## Related Notes
 
-**Composite Resin and Polymers** — hub: [Composite Resin and Polymers](../_Topic%20Hubs/Composite%20Resin%20and%20Polymers.md)
+**Cavity Preparation Principles** — hub: [Cavity Preparation Principles](../_Topic%20Hubs/Cavity%20Preparation%20Principles.md)
 
-- [M3 2.3 Polymer Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.3_Polymer_Materials.md) *(other module)*
-- [M1 3.1 Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
-- [M1 4.1 Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
-- [M1 4.2b ClassIII IV V Composite Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
-- [M1 4.3 Matrix Systems Contacts and Contours](SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md)
+- [M2 · 4.1: Access Cavity Preparation](../Module%202%20-%20Endodontics/SubModule_4.1_Access_Cavity_Preparation.md) *(other module)*
+- [M1 · 2.3: Cavity Classification & Design by Type](SubModule_2.3_Cavity_Classification_and_Design.md)
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+- [M1 · 3.1: Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
+
+**Composite Resin** — hub: [Composite Resin](../_Topic%20Hubs/Composite%20Resin.md)
+
+- [M3 · 2.3: Polymer Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.3_Polymer_Materials.md) *(other module)*
+- [M3 · 6.1: Material Selection Criteria](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_6.1_Material_Selection_Criteria.md) *(other module)*
+- [M3 · 7.1: Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
+- [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+- [M1 · 6.1: Large Restorations & Complex Cases](SubModule_6.1_Large_Restorations_and_Complex_Cases.md)
+
+**Esthetic Dentistry & Smile Design** — hub: [Esthetic Dentistry & Smile Design](../_Topic%20Hubs/Esthetic%20Dentistry%20%26%20Smile%20Design.md)
+
+- [M3 · 1.2: Physical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.2_Physical_Properties.md) *(other module)*
+- [M2 · 6.7: Non-Vital Tooth Bleaching](../Module%202%20-%20Endodontics/SubModule_6.7_Non_Vital_Tooth_Bleaching.md) *(other module)*
+- [M2 · 3.6: Management of Pain, Fear, and Anxiety in the Endodontic Patient](../Module%202%20-%20Endodontics/SubModule_3.6_Pain_Fear_Anxiety_Management.md) *(other module)*
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M2 · 6.8: Endodontics in Primary (Deciduous) Teeth](../Module%202%20-%20Endodontics/SubModule_6.8_Endodontics_in_Primary_Teeth.md) *(other module)*
+- [M1 · 5.1.6: Shade Matching & Color Science](SubModule_5.1.6_Shade_Matching_and_Color_Science.md)
+- [M1 · 6.2: Restoration of Esthetic Zone](SubModule_6.2_Restoration_of_Esthetic_Zone.md)
+- [M1 · 6.5: Natural Tooth Bleaching](SubModule_6.5_Natural_Tooth_Bleaching.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+
+**Matrices & Retainers** — hub: [Matrices & Retainers](../_Topic%20Hubs/Matrices%20%26%20Retainers.md)
+
+- [M1 · 4.3: Matrix Systems, Contacts & Contours](SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+- [M1 · 6.1: Large Restorations & Complex Cases](SubModule_6.1_Large_Restorations_and_Complex_Cases.md)
+
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
+
+- [M2 · 1: Pulp-Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 · 3.2: Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 2.2: Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+- [M1 · 3.2: Adhesive Systems & Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md)
+
+**Instruments & Instrumentation** — hub: [Instruments & Instrumentation](../_Topic%20Hubs/Instruments%20%26%20Instrumentation.md)
+
+- [M2 · 4.3: Cleaning & Shaping of Root Canals](../Module%202%20-%20Endodontics/SubModule_4.3_Cleaning_and_Shaping.md) *(other module)*
+- [M2 · 4.6: Nonsurgical Endodontic Retreatment](../Module%202%20-%20Endodontics/SubModule_4.6_Nonsurgical_Retreatment.md) *(other module)*
+- [M2 · 4.2: Working Length Determination](../Module%202%20-%20Endodontics/SubModule_4.2_Working_Length_Determination.md) *(other module)*
+- [M2 · 8.3: Nonsurgical (Orthograde) Retreatment & Management of Mishaps](../Module%202%20-%20Endodontics/SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md) *(other module)*
+- [M3 · 2.1: Metals & Alloys](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_2.1_Metals_and_Alloys.md) *(other module)*
+- [M2 · 4.1: Access Cavity Preparation](../Module%202%20-%20Endodontics/SubModule_4.1_Access_Cavity_Preparation.md) *(other module)*
+- [M1 · 8.2: Infection Control & Patient Safety](SubModule_8.2_Infection_Control_and_Patient_Safety.md)
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 2.2: Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+
+**Pit & Fissure Sealants** — hub: [Pit & Fissure Sealants](../_Topic%20Hubs/Pit%20%26%20Fissure%20Sealants.md)
+
+- [M1 · 4.4: Fissure Sealants & Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
+
+**Root Canal Anatomy & Morphology** — hub: [Root Canal Anatomy & Morphology](../_Topic%20Hubs/Root%20Canal%20Anatomy%20%26%20Morphology.md)
+
+- [M2 · 5.2: Surgical Anatomy & Flap Design](../Module%202%20-%20Endodontics/SubModule_5.2_Surgical_Anatomy_Flap_Design.md) *(other module)*
+- [M2 · 4.3: Cleaning & Shaping of Root Canals](../Module%202%20-%20Endodontics/SubModule_4.3_Cleaning_and_Shaping.md) *(other module)*
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
 - [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)
-- [Modern Operative Dentistry](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [[Modern Operative Dentistry Principles for Clinical Practice|Modern Operative Dentistry]]
 - [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)

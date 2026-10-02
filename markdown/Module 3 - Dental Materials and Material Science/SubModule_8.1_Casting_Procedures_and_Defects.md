@@ -169,24 +169,15 @@ Surface contamination of a gold-alloy restoration by mercury — for example, fr
 <!-- related-notes -->
 ## Related Notes
 
-**Metals, Alloys and Casting** — hub: [Metals, Alloys and Casting](../_Topic%20Hubs/Metals%2C%20Alloys%20and%20Casting.md)
+**Casting, Investment & Die Materials** — hub: [Casting, Investment & Die Materials](../_Topic%20Hubs/Casting%2C%20Investment%20%26%20Die%20Materials.md)
 
-- [M1 5.2 Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
-- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
-- [M1 6.6 Direct Gold Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.6_Direct_Gold_Restorations.md) *(other module)*
-- [M3 2.1 Metals and Alloys](SubModule_2.1_Metals_and_Alloys.md)
-
-**Impressions, Gypsum and Waxes** — hub: [Impressions, Gypsum and Waxes](../_Topic%20Hubs/Impressions%2C%20Gypsum%20and%20Waxes.md)
-
-- [M1 5.3 Indirect Restoration Preparation and Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
-- [M3 8.3 Impression Materials](SubModule_8.3_Impression_Materials.md)
-- [M3 8.4 Gypsum Products](SubModule_8.4_Gypsum_Products.md)
-- [M3 8.5 Dental Waxes](SubModule_8.5_Dental_Waxes.md)
+- [M3 · 8.5: Dental Waxes](SubModule_8.5_Dental_Waxes.md)
+- [M3 · 8.4: Gypsum Products](SubModule_8.4_Gypsum_Products.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
-- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)
+- [[Craig Restorative Dental Materials 14e|Craig's Restorative Dental Materials (14e)]]
+- [[Restorative Dental Materials (Craig, Michigan|Restorative Dental Materials (Craig, Michigan 11e)]]
 - [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
-- [McCabe — Applied Dental Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/00_INDEX.md)
+- [[Applied Dental Materials (McCabe & Walls)|McCabe — Applied Dental Materials]]

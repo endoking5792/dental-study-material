@@ -292,30 +292,62 @@ For bonding resin-based composite or compomer over MTA that has already set for 
 <!-- related-notes -->
 ## Related Notes
 
-**Restoration of the Endodontically Treated Tooth** — hub: [Restoration of the Endodontically Treated Tooth](../_Topic%20Hubs/Restoration%20of%20the%20Endodontically%20Treated%20Tooth.md)
+**Luting & Cementation Materials** — hub: [Luting & Cementation Materials](../_Topic%20Hubs/Luting%20%26%20Cementation%20Materials.md)
 
-- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
-- [M2 8.4 Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
-- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
-- [M1 6.1 Large Restorations and Complex Cases](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.1_Large_Restorations_and_Complex_Cases.md) *(other module)*
-- [M1 5.1 Types of Indirect Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1_Types_of_Indirect_Restorations.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M1 · 5.3: Indirect Restoration Preparation & Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
+- [M1 · 6.3: Restoration Longevity & Failure Patterns](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md) *(other module)*
+- [M2 · 5.4: Root-End Preparation & Retrograde Filling Materials](../Module%202%20-%20Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M2 · 6.1: Traumatic Dental Injuries](../Module%202%20-%20Endodontics/SubModule_6.1_Traumatic_Dental_Injuries.md) *(other module)*
+- [M3 · 4.2: Cementation Protocol](SubModule_4.2_Cementation_Protocol.md)
+- [M3 · 2.2: Ceramics & Glass Materials](SubModule_2.2_Ceramics_and_Glass_Materials.md)
+- [M3 · 5.2: Bioactive Materials](SubModule_5.2_Bioactive_Materials.md)
+- [M3 · 3.3: Adhesive Protocol & Application](SubModule_3.3_Adhesive_Protocol_and_Application.md)
 
-**Cements and Cementation** — hub: [Cements and Cementation](../_Topic%20Hubs/Cements%20and%20Cementation.md)
+**Bioactive & Calcium Silicate Endodontic Materials** — hub: [Bioactive & Calcium Silicate Endodontic Materials](../_Topic%20Hubs/Bioactive%20%26%20Calcium%20Silicate%20Endodontic%20Materials.md)
 
-- [M1 5.3 Indirect Restoration Preparation and Cementation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md) *(other module)*
-- [M1 5.1.5 Post and Core Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
-- [M2 4.7 Restoration of Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_4.7_Restoration_of_Endodontically_Treated_Tooth.md) *(other module)*
-- [M1 5.1 Types of Indirect Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1_Types_of_Indirect_Restorations.md) *(other module)*
-- [M3 4.2 Cementation Protocol](SubModule_4.2_Cementation_Protocol.md)
+- [M2 · 5.4: Root-End Preparation & Retrograde Filling Materials](../Module%202%20-%20Endodontics/SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M2 · 4.5: Obturation of Root Canals](../Module%202%20-%20Endodontics/SubModule_4.5_Obturation_of_Root_Canals.md) *(other module)*
+- [M2 · 7.3: Regenerative Endodontics](../Module%202%20-%20Endodontics/SubModule_7.3_Regenerative_Endodontics.md) *(other module)*
+- [M3 · 5.2: Bioactive Materials](SubModule_5.2_Bioactive_Materials.md)
+
+**Dentin Bonding Agents & Adhesive Dentistry** — hub: [Dentin Bonding Agents & Adhesive Dentistry](../_Topic%20Hubs/Dentin%20Bonding%20Agents%20%26%20Adhesive%20Dentistry.md)
+
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M1 · 4.4: Fissure Sealants & Preventive Resin Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md) *(other module)*
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md) *(other module)*
+- [M1 · 5.1.5: Post-and-Core Restorations (Expanded)](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.1.5_Post_and_Core_Restorations.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 · 2.3: Cavity Classification & Design by Type](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.3_Cavity_Classification_and_Design.md) *(other module)*
+- [M3 · 3.2: Adhesive System Types](SubModule_3.2_Adhesive_System_Types.md)
+- [M3 · 3.1: Adhesion Mechanisms](SubModule_3.1_Adhesion_Mechanisms.md)
+- [M3 · 3.3: Adhesive Protocol & Application](SubModule_3.3_Adhesive_Protocol_and_Application.md)
+- [M3 · 7.2: Clinical Monitoring & Maintenance](SubModule_7.2_Clinical_Monitoring_and_Maintenance.md)
+
+**Restorative Forces, Marginal Integrity & Biomechanics** — hub: [Restorative Forces, Marginal Integrity & Biomechanics](../_Topic%20Hubs/Restorative%20Forces%2C%20Marginal%20Integrity%20%26%20Biomechanics.md)
+
+- [M1 · 2.1: Principles of Tooth Preparation](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_2.1_Principles_of_Tooth_Preparation.md) *(other module)*
+- [M1 · 3.1: Restorative Material Categories](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.1_Restorative_Material_Categories.md) *(other module)*
+- [M1 · 5.2: Indirect Restoration Materials](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_5.2_Indirect_Restoration_Materials.md) *(other module)*
+- [M1 · 3.2: Adhesive Systems & Bonding](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_3.2_Adhesive_Systems_and_Bonding.md) *(other module)*
+- [M1 · 4.1: Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
+- [M1 · 6.4: Non-Carious Tooth Structure Loss](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss.md) *(other module)*
+- [M3 · 1.3: Mechanical Properties](SubModule_1.3_Mechanical_Properties.md)
+- [M3 · 2.2: Ceramics & Glass Materials](SubModule_2.2_Ceramics_and_Glass_Materials.md)
+- [M3 · 7.1: Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
+- [M3 · 3.1: Adhesion Mechanisms](SubModule_3.1_Adhesion_Mechanisms.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
 
-- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)
+- [[Restorative Dental Materials (Craig, Michigan|Restorative Dental Materials (Craig, Michigan 11e)]]
 - [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
-- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
-- [Bonsor & Pearson — A Clinical Guide to Applied Dental Materials](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/00_INDEX.md)
-- [McCabe — Applied Dental Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/00_INDEX.md)
+- [[Craig Restorative Dental Materials 14e|Craig's Restorative Dental Materials (14e)]]
+- [[A Clinical Guide to Applied Dental Materials|Bonsor & Pearson — A Clinical Guide to Applied Dental Materials]]
+- [[Applied Dental Materials (McCabe & Walls)|McCabe — Applied Dental Materials]]
 - [van Noort — Introduction to Dental Materials (4e)](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/00_INDEX.md)
 - [Powers & Wataha — Dental Materials: Properties and Manipulation (10e)](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/Dental_Materials_Properties_and_Manipulation_10e_MD/00_INDEX.md)
 - [An Atlas of Glass-Ionomer Cements (Mount)](../../textbooks/Dental%20Materials/An_Atlas_of_Glass_Ionomer_Cements_Chapterwise_MD/00_INDEX.md)

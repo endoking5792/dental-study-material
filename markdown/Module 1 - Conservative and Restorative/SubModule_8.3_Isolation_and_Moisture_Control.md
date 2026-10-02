@@ -75,11 +75,22 @@ Stated directly and without overstatement in either direction: relative isolatio
 <!-- related-notes -->
 ## Related Notes
 
-**Isolation and Rubber Dam** — hub: [Isolation and Rubber Dam](../_Topic%20Hubs/Isolation%20and%20Rubber%20Dam.md)
+**Isolation & Moisture Control** — hub: [Isolation & Moisture Control](../_Topic%20Hubs/Isolation%20%26%20Moisture%20Control.md)
 
-- [M3 3.3 Adhesive Protocol and Application](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.3_Adhesive_Protocol_and_Application.md) *(other module)*
-- [M1 4.1 Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
-- [M1 4.4 Fissure Sealants and Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
+- [M3 · 3.3: Adhesive Protocol & Application](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.3_Adhesive_Protocol_and_Application.md) *(other module)*
+
+**Matrices & Retainers** — hub: [Matrices & Retainers](../_Topic%20Hubs/Matrices%20%26%20Retainers.md)
+
+- [M1 · 4.3: Matrix Systems, Contacts & Contours](SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md)
+- [M1 · 4.2a: Class I & II Composite Restoration Protocols](SubModule_4.2a_ClassI_II_Composite_Protocols.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
+- [M1 · 4.1: Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
+
+**Gingival Tissue Management** — hub: [Gingival Tissue Management](../_Topic%20Hubs/Gingival%20Tissue%20Management.md)
+
+- [M3 · 4.2: Cementation Protocol](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_4.2_Cementation_Protocol.md) *(other module)*
+- [M1 · 4.3: Matrix Systems, Contacts & Contours](SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md)
+- [M1 · 4.2b: Class III, IV & V Composite Restoration Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)

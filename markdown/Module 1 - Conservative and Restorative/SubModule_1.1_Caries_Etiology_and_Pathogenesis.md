@@ -191,21 +191,36 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 <!-- related-notes -->
 ## Related Notes
 
-**Caries and Pulp Response** — hub: [Caries and Pulp Response](../_Topic%20Hubs/Caries%20and%20Pulp%20Response.md)
+**Dental Caries — Etiology, Pathophysiology & Prevention** — hub: [Dental Caries — Etiology, Pathophysiology & Prevention](../_Topic%20Hubs/Dental%20Caries%20%E2%80%94%20Etiology%2C%20Pathophysiology%20%26%20Prevention.md)
 
-- [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
-- [M2 7.1-7.2 Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
-- [M1 1.2 Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
-- [M1 1.3 Caries Risk Assessment and Management](SubModule_1.3_Caries_Risk_Assessment_and_Management.md)
-- [M1 2.2 Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
-- [M1 4.4 Fissure Sealants and Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
+- [M1 · 1.3: Caries Risk Assessment and Management](SubModule_1.3_Caries_Risk_Assessment_and_Management.md)
+- [M1 · 1.2: Caries Diagnosis and Detection](SubModule_1.2_Caries_Diagnosis_and_Detection.md)
+- [M1 · 2.2: Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+- [M1 · 4.4: Fissure Sealants & Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
 
-**Dentin and Pulp Biology** — hub: [Dentin and Pulp Biology](../_Topic%20Hubs/Dentin%20and%20Pulp%20Biology.md)
+**Endodontic Microbiology & Biofilms** — hub: [Endodontic Microbiology & Biofilms](../_Topic%20Hubs/Endodontic%20Microbiology%20%26%20Biofilms.md)
 
-- [M2 1.1-1.3 Pulp Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
-- [M3 3.1 Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
-- [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
-- [M1 6.4 Non Carious Tooth Structure Loss](SubModule_6.4_Non_Carious_Tooth_Structure_Loss.md)
+- [M2 · 2.3: Microbiology of Endodontic Infections](../Module%202%20-%20Endodontics/SubModule_2.3_Microbiology_of_Endodontic_Infections.md) *(other module)*
+- [M2 · 4.4: Irrigation & Intracanal Medicaments](../Module%202%20-%20Endodontics/SubModule_4.4_Irrigation_and_Intracanal_Medicaments.md) *(other module)*
+- [M2 · 2.2: Periapical Diseases & Apical Pathology](../Module%202%20-%20Endodontics/SubModule_2.2_Periapical_Diseases_and_Apical_Pathology.md) *(other module)*
+- [M2 · 2.1: Pulpal Diseases & Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
+- [M2 · 5.6: Surgical Complications & Management](../Module%202%20-%20Endodontics/SubModule_5.6_Surgical_Complications_Management.md) *(other module)*
+- [M2 · 3.5: Management of the Medically Complex Endodontic Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md) *(other module)*
+- [M1 · 1.3: Caries Risk Assessment and Management](SubModule_1.3_Caries_Risk_Assessment_and_Management.md)
+- [M1 · 8.2: Infection Control & Patient Safety](SubModule_8.2_Infection_Control_and_Patient_Safety.md)
+
+**Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex** — hub: [Tooth Structure — Enamel, Dentin & Pulp-Dentin Complex](../_Topic%20Hubs/Tooth%20Structure%20%E2%80%94%20Enamel%2C%20Dentin%20%26%20Pulp-Dentin%20Complex.md)
+
+- [M2 · 1: Pulp-Dentin Complex Biology](../Module%202%20-%20Endodontics/SubModule_1.1-1.3_Pulp_Dentin_Complex_Biology.md) *(other module)*
+- [M2 · 7.1-7.2: Pulp Capping and Pulpotomy](../Module%202%20-%20Endodontics/SubModule_7.1-7.2_Pulp_Capping_and_Pulpotomy.md) *(other module)*
+- [M3 · 3.1: Adhesion Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.1_Adhesion_Mechanisms.md) *(other module)*
+- [M3 · 3.2: Adhesive System Types](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_3.2_Adhesive_System_Types.md) *(other module)*
+- [M3 · 5.2: Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md) *(other module)*
+- [M2 · 8.4: Restoration of the Endodontically Treated Tooth](../Module%202%20-%20Endodontics/SubModule_8.4_Restoration_of_the_Endodontically_Treated_Tooth.md) *(other module)*
+- [M1 · 2.1: Principles of Tooth Preparation](SubModule_2.1_Principles_of_Tooth_Preparation.md)
+- [M1 · 2.2: Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
+- [M1 · 3.2: Adhesive Systems & Bonding](SubModule_3.2_Adhesive_Systems_and_Bonding.md)
+- [M1 · 3.3: Liners, Bases & Pulp-Protection Materials](SubModule_3.3_Liners_Bases_and_Pulp_Protection_Materials.md)
 
 <!-- source-textbooks -->
 ## Source Textbooks (available in vault)
