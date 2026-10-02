@@ -74,3 +74,10 @@ For COMPOSITE, Sub-Module 7.1 already establishes the real mechanism (unreacted 
 - [M3 6.2 Cost Effectiveness and Longevity Analysis](SubModule_6.2_Cost_Effectiveness_and_Longevity_Analysis.md)
 - [M3 7.1 Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
+- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
+- [Bonsor & Pearson — A Clinical Guide to Applied Dental Materials](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/00_INDEX.md)
+- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)

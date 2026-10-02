@@ -27,3 +27,7 @@
 - [Restoration of the Endodontically Treated Tooth](_Topic%20Hubs/Restoration%20of%20the%20Endodontically%20Treated%20Tooth.md)
 - [Root Perforation and Repair](_Topic%20Hubs/Root%20Perforation%20and%20Repair.md)
 - [Tooth Bleaching](_Topic%20Hubs/Tooth%20Bleaching.md)
+
+## Source textbooks
+
+- [Textbooks Index](../textbooks/00%20Textbooks%20Index.md)

@@ -162,4 +162,3 @@ Shafer's frames “residual cyst” as essentially a term of convenience — the
 - [M2 6.6 Endodontic Periodontal Interrelationships](SubModule_6.6_Endodontic_Periodontal_Interrelationships.md)
 - [M2 6.9 Endodontic Orthodontic Relationships](SubModule_6.9_Endodontic_Orthodontic_Relationships.md)
 - [M2 5.5 Other Surgical Procedures](SubModule_5.5_Other_Surgical_Procedures.md)
-

@@ -139,3 +139,5 @@ This nanoparticle-enhancement logic extends to sealers too, worth cross-referenc
 [7] Jain P, ed. Current Therapy in Endodontics. Ames: Wiley-Blackwell; 2017.
 
 [8] Guruswamy Pandian AP, Bellani D, Jibu RM, Agnihotri V. Endodontic Intracanal Medicaments and Agents: The Old and the New, What Is the Evidence? Dent Clin North Am 2026;70(1):45-62.
+
+<!-- related-notes -->

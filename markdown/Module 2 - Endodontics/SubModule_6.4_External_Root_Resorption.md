@@ -39,3 +39,5 @@ For an ankylosed tooth already undergoing replacement resorption, orthodontic mo
 [2] Berman LH, Blanco L, Cohen S, eds. A Clinical Guide to Dental Traumatology. St. Louis: Elsevier/Mosby.
 
 [3] Andreasen JO, Andreasen FM, Andersson L, eds. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Chapter 24, "Orthodontic Management of the Traumatized Dentition" (Malmgren O, Malmgren B).
+
+<!-- related-notes -->

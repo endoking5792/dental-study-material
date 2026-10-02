@@ -116,4 +116,3 @@ Taurodontism — a short-rooted tooth with a much larger than normal pulp chambe
 - [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
 - [M2 5.6 Surgical Complications Management](SubModule_5.6_Surgical_Complications_Management.md)
 - [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
-

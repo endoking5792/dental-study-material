@@ -448,3 +448,9 @@ Numbered in citation order as first used in the text. Page numbers refer to the 
 - [M1 2.2 Caries Removal Strategies](SubModule_2.2_Caries_Removal_Strategies.md)
 - [M1 4.4 Fissure Sealants and Preventive Resin Restorations](SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)
+- [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [Advanced Operative Dentistry](../../textbooks/Conservative%20Dentistry/Advanced_Operative_Dentistry_Chapterwise/00_INDEX.md)

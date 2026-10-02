@@ -125,3 +125,9 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 - [M1 4.2b ClassIII IV V Composite Protocols](SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md)
 - [M1 4.3 Matrix Systems Contacts and Contours](SubModule_4.3_Matrix_Systems_Contacts_and_Contours.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)
+- [Modern Operative Dentistry](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)

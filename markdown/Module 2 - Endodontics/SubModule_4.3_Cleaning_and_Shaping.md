@@ -98,3 +98,5 @@ C-shaped canals present a genuinely distinct anatomic challenge — most often e
 [5] Weine FS. Endodontic Therapy, 6th ed. St. Louis: Mosby; 2004.
 
 [6] Berman LH, Hargreaves KM, et al. Harty's Endodontics in Clinical Practice, 7th ed. Edinburgh: Elsevier; 2021. Ch.7, "Preparation of the Root Canal System."
+
+<!-- related-notes -->

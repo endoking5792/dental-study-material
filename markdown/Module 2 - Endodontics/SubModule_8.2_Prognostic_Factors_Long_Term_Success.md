@@ -55,4 +55,3 @@ A clinically important, easily-overlooked point: immediate postoperative pain or
 - [M3 7.2 Clinical Monitoring and Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
 - [M2 8.1 Outcome Assessment Success Rates](SubModule_8.1_Outcome_Assessment_Success_Rates.md)
 - [M2 5.7 Outcomes Prognosis Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
-

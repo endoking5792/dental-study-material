@@ -1,0 +1,16 @@
+# Pickard's Guide to Minimally Invasive Operative Dentistry (10th ed.) — chapterwise
+
+- [Cover](00_Cover.md) (PDF pp.1-5)
+- [Foreword](01_Foreword.md) (PDF pp.6-6)
+- [Preface to the tenth edition](02_Preface_to_the_tenth_edition.md) (PDF pp.7-7)
+- [Contents](03_Contents.md) (PDF pp.8-11)
+- [1 Dental hard tissue pathologies, aetiology, and their clinical manifestations](04_1_Dental_hard_tissue_pathologies_aetiology_and_their_clinica.md) (PDF pp.12-26)
+- [2 Clinical detection: ‘information gathering’](05_2_Clinical_detection_information_gathering.md) (PDF pp.27-50)
+- [3 Diagnosis, prognosis, and care planning: ‘information processing’](06_3_Diagnosis_prognosis_and_care_planning_information_processi.md) (PDF pp.51-60)
+- [4 Disease control and lesion prevention](07_4_Disease_control_and_lesion_prevention.md) (PDF pp.61-70)
+- [5 Essentials of minimally invasive operative dentistry](08_5_Essentials_of_minimally_invasive_operative_dentistry.md) (PDF pp.71-109)
+- [6 Principles of management of the badly broken down tooth](09_6_Principles_of_management_of_the_badly_broken_down_tooth.md) (PDF pp.110-119)
+- [7 Restorative materials and their relationship to tooth structure](10_7_Restorative_materials_and_their_relationship_to_tooth_stru.md) (PDF pp.120-137)
+- [8 Clinical operative procedures: a step-by-step guide](11_8_Clinical_operative_procedures_a_step_by_step_guide.md) (PDF pp.138-176)
+- [9 Long-term management of direct restorations](12_9_Long_term_management_of_direct_restorations.md) (PDF pp.177-191)
+- [Index](13_Index.md) (PDF pp.192-197)

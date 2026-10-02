@@ -149,3 +149,12 @@ A genuinely practical, named clinical protocol for managing occlusion specifical
 2. Sikri VK. Indirect Restorations in Dental Practice. New Delhi: CBS Publishers & Distributors. Ch.3, "Functional Occlusion"; and Ch.13 (Complications).
 
 3. Kidd EAM, Fejerskov O, Nyvad B, editors. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press. §5.14, "Principles of dental occlusion".
+
+<!-- related-notes -->
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Advanced Operative Dentistry](../../textbooks/Conservative%20Dentistry/Advanced_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [Indirect Restorations in Dental Practice (Sikri)](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/00_INDEX.md)
+- [Pickard's Manual of Operative Dentistry (9th)](../../textbooks/Conservative%20Dentistry/Pickards_Manual_of_Operative_Dentistry_9th_Chapterwise/00_INDEX.md)

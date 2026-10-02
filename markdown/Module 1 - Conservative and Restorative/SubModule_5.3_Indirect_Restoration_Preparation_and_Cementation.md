@@ -171,3 +171,10 @@ Ceramic restorations are weak and fragile, so non-adhesive cements (e.g. plain z
 - [M3 8.5 Dental Waxes](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.5_Dental_Waxes.md) *(other module)*
 - [M3 8.1 Casting Procedures and Defects](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_8.1_Casting_Procedures_and_Defects.md) *(other module)*
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Indirect Restorations in Dental Practice (Sikri)](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/00_INDEX.md)
+- [Marzouk — Operative Dentistry: Modern Theory and Practice](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [Advanced Operative Dentistry](../../textbooks/Conservative%20Dentistry/Advanced_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)

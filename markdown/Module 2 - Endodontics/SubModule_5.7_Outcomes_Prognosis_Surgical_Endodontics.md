@@ -95,4 +95,3 @@ Taken together, the outcome evidence for modern endodontic microsurgery supports
 - [M3 7.2 Clinical Monitoring and Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
 - [M2 8.1 Outcome Assessment Success Rates](SubModule_8.1_Outcome_Assessment_Success_Rates.md)
 - [M2 8.2 Prognostic Factors Long Term Success](SubModule_8.2_Prognostic_Factors_Long_Term_Success.md)
-

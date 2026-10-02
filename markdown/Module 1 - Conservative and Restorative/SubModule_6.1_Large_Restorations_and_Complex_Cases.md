@@ -125,3 +125,9 @@ A real, historically honest note worth including: the original Nayyar core was d
 - [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
 - [M1 6.3 Restoration Longevity and Failure Patterns](SubModule_6.3_Restoration_Longevity_and_Failure_Patterns.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)
+- [Marzouk — Operative Dentistry: Modern Theory and Practice](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [Pickard's Manual of Operative Dentistry (9th)](../../textbooks/Conservative%20Dentistry/Pickards_Manual_of_Operative_Dentistry_9th_Chapterwise/00_INDEX.md)

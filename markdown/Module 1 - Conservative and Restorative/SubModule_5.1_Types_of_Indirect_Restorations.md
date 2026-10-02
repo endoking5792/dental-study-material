@@ -176,3 +176,8 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 - [M1 5.3 Indirect Restoration Preparation and Cementation](SubModule_5.3_Indirect_Restoration_Preparation_and_Cementation.md)
 - [M1 6.2 Restoration of Esthetic Zone](SubModule_6.2_Restoration_of_Esthetic_Zone.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Indirect Restorations in Dental Practice (Sikri)](../../textbooks/Conservative%20Dentistry/Indirect_Restorations_Sikri_Chapterwise/00_INDEX.md)
+- [Advanced Operative Dentistry](../../textbooks/Conservative%20Dentistry/Advanced_Operative_Dentistry_Chapterwise/00_INDEX.md)

@@ -64,4 +64,3 @@ Healing after root canal treatment presents the same fundamental limitation in r
 - [M2 3.3 Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
 - [M2 3.4 Treatment Planning](SubModule_3.4_Treatment_Planning.md)
 - [M2 3.5 Medically Complex Patient](SubModule_3.5_Medically_Complex_Patient.md)
-

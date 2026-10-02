@@ -116,4 +116,3 @@ The clinical payoff of the AAE system is that it can reclassify the SAME radiogr
 - [M2 3.3 Diagnostic Decision Making](SubModule_3.3_Diagnostic_Decision_Making.md)
 - [M2 3.5 Medically Complex Patient](SubModule_3.5_Medically_Complex_Patient.md)
 - [M2 3.2 Radiographic Examination](SubModule_3.2_Radiographic_Examination.md)
-

@@ -96,4 +96,3 @@ For patients who already have established BRONJ, management is staged by severit
 - [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
 - [M2 4.1 Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
 - [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
-

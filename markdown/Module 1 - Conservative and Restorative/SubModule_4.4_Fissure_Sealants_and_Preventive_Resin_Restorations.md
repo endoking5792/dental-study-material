@@ -120,3 +120,8 @@ A genuinely useful, real technique worth including directly for the specific cli
 - [M1 8.3 Isolation and Moisture Control](SubModule_8.3_Isolation_and_Moisture_Control.md)
 - [M1 4.1 Composite Restoration Placement Techniques](SubModule_4.1_Composite_Restoration_Placement_Techniques.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Pickard's Manual of Operative Dentistry (9th)](../../textbooks/Conservative%20Dentistry/Pickards_Manual_of_Operative_Dentistry_9th_Chapterwise/00_INDEX.md)
+- [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)

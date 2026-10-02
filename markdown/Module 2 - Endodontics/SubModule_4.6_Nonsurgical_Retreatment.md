@@ -127,4 +127,3 @@ Repairing any perforation involves two distinct challenges, both best managed un
 - [M2 4.1 Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
 - [M2 5.6 Surgical Complications Management](SubModule_5.6_Surgical_Complications_Management.md)
 - [M2 5.1 Indications Contraindications Case Selection](SubModule_5.1_Indications_Contraindications_Case_Selection.md)
-

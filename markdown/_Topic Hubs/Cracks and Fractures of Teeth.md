@@ -17,3 +17,15 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 
 - [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md)
 
+## Textbook chapters (2)
+
+Chapters in the textbook folders whose titles match this topic.
+
+**Advances in Operative Dentistry**
+
+- [Adhesive Techniques for the Management of Fractured and Worn Teeth in Elderly Patients](../../textbooks/Conservative%20Dentistry/Advances_in_Operative_Dentistry_Chapterwise/22_Adhesive_Techniques_for_the_Management_of_Fractured_and_Worn.md)
+
+**Modern Operative Dentistry**
+
+- [18: Dentin Hypersensitivity and Cracked Teeth](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/23_18_Dentin_Hypersensitivity_and_Cracked_Teeth.md)
+

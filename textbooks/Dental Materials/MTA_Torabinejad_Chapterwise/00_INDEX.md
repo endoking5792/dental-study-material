@@ -1,0 +1,18 @@
+# Mineral Trioxide Aggregate: Properties and Clinical Applications (Torabinejad) — chapterwise
+
+- [Mineral Trioxide Aggregate: Properties and Clinical Applications](00_Mineral_Trioxide_Aggregate_Properties_and_Clinical_Applications.md) (PDF pp.5-5)
+- [Copyright](01_Copyright.md) (PDF pp.6-6)
+- [Contents](02_Contents.md) (PDF pp.7-16)
+- [Contributors](03_Contributors.md) (PDF pp.17-18)
+- [Preface](04_Preface.md) (PDF pp.19-20)
+- [1 Pulp and Periradicular Pathways, Pathosis, and Closure](05_1_Pulp_and_Periradicular_Pathways_Pathosis_and_Closure.md) (PDF pp.21-36)
+- [2 Chemical Properties of MTA](06_2_Chemical_Properties_of_MTA.md) (PDF pp.37-56)
+- [3 Physical Properties of MTA](07_3_Physical_Properties_of_MTA.md) (PDF pp.57-90)
+- [4 MTA in Vital Pulp Therapy](08_4_MTA_in_Vital_Pulp_Therapy.md) (PDF pp.91-130)
+- [5 Management of Teeth with Necrotic Pulps and Open Apices](09_5_Management_of_Teeth_with_Necrotic_Pulps_and_Open_Apices.md) (PDF pp.131-160)
+- [6 Regenerative Endodontics (Revitalization/Revascularization)](10_6_Regenerative_Endodontics_Revitalization_Revascularization.md) (PDF pp.161-196)
+- [7 Use of MTA as Root Perforation Repair](11_7_Use_of_MTA_as_Root_Perforation_Repair.md) (PDF pp.197-226)
+- [8 MTA Root Canal Obturation](12_8_MTA_Root_Canal_Obturation.md) (PDF pp.227-270)
+- [9 Root-End Fillings Using MTA](13_9_Root_End_Fillings_Using_MTA.md) (PDF pp.271-300)
+- [10 Calcium Silicate–Based Cements](14_10_Calcium_Silicate_Based_Cements.md) (PDF pp.301-352)
+- [Index](15_Index.md) (PDF pp.353-362)

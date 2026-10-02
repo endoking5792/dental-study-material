@@ -64,3 +64,7 @@ Cohesion between two pieces of direct gold occurs ONLY through direct, intimate 
 - [M1 5.2 Indirect Restoration Materials](SubModule_5.2_Indirect_Restoration_Materials.md)
 - [M1 5.1.5 Post and Core Restorations](SubModule_5.1.5_Post_and_Core_Restorations.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Marzouk — Operative Dentistry: Modern Theory and Practice](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/00_INDEX.md)

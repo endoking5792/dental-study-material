@@ -83,3 +83,5 @@ Pressure resorption from sustained orthodontic force follows the same underlying
 2. Ingle JI, Bakland LK, Baumgartner JC, eds. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019.
 
 3. American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012.
+
+<!-- related-notes -->

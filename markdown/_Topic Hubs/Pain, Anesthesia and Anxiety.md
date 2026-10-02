@@ -12,3 +12,13 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 - [M2 3.5 Medically Complex Patient](../Module%202%20-%20Endodontics/SubModule_3.5_Medically_Complex_Patient.md)
 - [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
 
+## Textbook chapters (3)
+
+Chapters in the textbook folders whose titles match this topic.
+
+**Seltzer and Bender Dental Pulp**
+
+- [Chapter 8: Pain Pathways and Mechanisms of the Pulpodentin Complex](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_08_Pain_Pathways_and_Mechanisms_of_the_Pulpodentin_Complex.md)
+- [Chapter 9: Pharmacologic Control of Dental Pain](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_09_Pharmacologic_Control_of_Dental_Pain.md)
+- [Chapter 19: Differential Diagnosis of Toothache: Odontogenic Versus Nonodontogenic Pain](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_19_Differential_Diagnosis_of_Toothache_Odontogenic_Versus_Nonodontogenic_Pain.md)
+

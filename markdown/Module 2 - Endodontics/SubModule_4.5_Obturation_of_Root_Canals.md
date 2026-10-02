@@ -124,4 +124,3 @@ Obturation quality is judged by the same criteria established in 4.5.1 — adequ
 - [M2 7.3 Regenerative Endodontics](SubModule_7.3_Regenerative_Endodontics.md)
 - [M2 5.4 Root End Preparation Retrograde Filling Materials](SubModule_5.4_Root_End_Preparation_Retrograde_Filling_Materials.md)
 - [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
-

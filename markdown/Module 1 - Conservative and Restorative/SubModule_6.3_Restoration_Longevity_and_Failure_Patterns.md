@@ -164,3 +164,7 @@ A real, direct statement of the overall decision principle worth closing on: apa
 - [M3 7.1 Material Degradation Mechanisms](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.1_Material_Degradation_Mechanisms.md) *(other module)*
 - [M1 3.1 Restorative Material Categories](SubModule_3.1_Restorative_Material_Categories.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)

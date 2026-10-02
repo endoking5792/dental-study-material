@@ -70,3 +70,11 @@ A distinction genuinely worth making explicit to students, since the two are eas
 - [M3 7.1 Material Degradation Mechanisms](SubModule_7.1_Material_Degradation_Mechanisms.md)
 - [M3 7.2 Clinical Monitoring and Maintenance](SubModule_7.2_Clinical_Monitoring_and_Maintenance.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
+- [van Noort — Introduction to Dental Materials (4e)](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/00_INDEX.md)
+- [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
+- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)
+- [Bonsor & Pearson — A Clinical Guide to Applied Dental Materials](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/00_INDEX.md)

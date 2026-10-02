@@ -18,3 +18,18 @@ Notes across modules covering this topic. Open the graph view / backlinks on thi
 
 - [M3 5.2 Bioactive Materials](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_5.2_Bioactive_Materials.md)
 
+## Textbook chapters (8)
+
+Chapters in the textbook folders whose titles match this topic.
+
+**MTA Torabinejad**
+
+- [Mineral Trioxide Aggregate: Properties and Clinical Applications](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/00_Mineral_Trioxide_Aggregate_Properties_and_Clinical_Applications.md)
+- [2 Chemical Properties of MTA](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/06_2_Chemical_Properties_of_MTA.md)
+- [3 Physical Properties of MTA](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/07_3_Physical_Properties_of_MTA.md)
+- [4 MTA in Vital Pulp Therapy](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/08_4_MTA_in_Vital_Pulp_Therapy.md)
+- [7 Use of MTA as Root Perforation Repair](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/11_7_Use_of_MTA_as_Root_Perforation_Repair.md)
+- [8 MTA Root Canal Obturation](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/12_8_MTA_Root_Canal_Obturation.md)
+- [9 Root-End Fillings Using MTA](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/13_9_Root_End_Fillings_Using_MTA.md)
+- [10 Calcium Silicate–Based Cements](../../textbooks/Dental%20Materials/MTA_Torabinejad_Chapterwise/14_10_Calcium_Silicate_Based_Cements.md)
+

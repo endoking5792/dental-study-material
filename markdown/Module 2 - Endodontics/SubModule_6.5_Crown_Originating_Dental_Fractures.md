@@ -52,4 +52,3 @@ Prognosis data, though limited, are genuinely useful for patient counseling: Cam
 - [M3 1.3 Mechanical Properties](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_1.3_Mechanical_Properties.md) *(other module)*
 - [M2 6.2 Vertical Root Fractures](SubModule_6.2_Vertical_Root_Fractures.md)
 - [M2 6.1 Traumatic Dental Injuries](SubModule_6.1_Traumatic_Dental_Injuries.md)
-

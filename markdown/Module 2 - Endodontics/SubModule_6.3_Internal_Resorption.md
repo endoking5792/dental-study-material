@@ -51,3 +51,5 @@ A genuinely contested management question is flagged explicitly by the source ra
 [1] Ingle JI, Bakland LK, Baumgartner JC, eds. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Chapter 15, "Pathologic Tooth Resorption" (Andreasen JO, Heithersay GS, Bakland LK).
 
 [2] Andreasen JO, Andreasen FM, Andersson L, eds. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Chapter 22, "Endodontic Management and the Use of Calcium Hydroxide in Traumatized Permanent Teeth" (Cvek M).
+
+<!-- related-notes -->

@@ -81,3 +81,5 @@ Related to (but distinct from) glide-path establishment is the concept of apical
 [5] Weine FS. Endodontic Therapy, 6th ed. St. Louis: Mosby; 2004.
 
 [6] Berman LH, Hargreaves KM, et al. Harty's Endodontics in Clinical Practice, 7th ed. Edinburgh: Elsevier; 2021.
+
+<!-- related-notes -->

@@ -94,3 +94,8 @@ A pattern made from hard wax is genuinely less sensitive to ambient temperature 
 - [M3 8.4 Gypsum Products](SubModule_8.4_Gypsum_Products.md)
 - [M3 8.1 Casting Procedures and Defects](SubModule_8.1_Casting_Procedures_and_Defects.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
+- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)

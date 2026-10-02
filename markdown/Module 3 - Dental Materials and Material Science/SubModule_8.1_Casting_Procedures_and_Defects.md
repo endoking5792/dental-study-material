@@ -183,3 +183,10 @@ Surface contamination of a gold-alloy restoration by mercury — for example, fr
 - [M3 8.4 Gypsum Products](SubModule_8.4_Gypsum_Products.md)
 - [M3 8.5 Dental Waxes](SubModule_8.5_Dental_Waxes.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
+- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)
+- [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
+- [McCabe — Applied Dental Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/00_INDEX.md)

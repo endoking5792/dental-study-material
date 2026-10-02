@@ -256,3 +256,7 @@ PCO is worth distinguishing explicitly from ordinary age-related canal narrowing
 - [M1 6.4 Non Carious Tooth Structure Loss](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_6.4_Non_Carious_Tooth_Structure_Loss.md) *(other module)*
 - [M2 2.1 Pulpal Diseases and Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Seltzer & Bender's Dental Pulp](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/00_INDEX.md)

@@ -494,3 +494,13 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 3. Summitt JB. Nomenclature and instrumentation. In: Hilton TJ, Summitt JB, et al., editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence Publishing. Chapter 7. (Page numbers cited in-text are PDF pagination, PDF p.326–337; the source PDF's own printed folio numbers could not be recovered from text extraction, so PDF page numbers are used throughout for this source rather than an inferred print page range.)
 
 4. Marzouk MA, Simonton AL, Gross RD. Operative Dentistry: Modern Theory and Practice. New Delhi: Ishiyaku EuroAmerica / AITBS; 1985. Chapter 1, “Principles of Operative Dentistry,” p.21–33.
+
+<!-- related-notes -->
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)
+- [Pickard's Guide to Minimally Invasive Operative Dentistry](../../textbooks/Conservative%20Dentistry/Pickards_Guide_Minimally_Invasive_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [Marzouk — Operative Dentistry: Modern Theory and Practice](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/00_INDEX.md)

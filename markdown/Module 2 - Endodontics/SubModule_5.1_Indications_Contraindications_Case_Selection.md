@@ -121,4 +121,3 @@ Surgical endodontics is not a recent development — root amputation was first d
 - [M2 8.3 Nonsurgical Retreatment Management of Mishaps](SubModule_8.3_Nonsurgical_Retreatment_Management_of_Mishaps.md)
 - [M2 4.1 Access Cavity Preparation](SubModule_4.1_Access_Cavity_Preparation.md)
 - [M2 5.6 Surgical Complications Management](SubModule_5.6_Surgical_Complications_Management.md)
-

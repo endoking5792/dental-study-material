@@ -246,3 +246,13 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 4. Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence Publishing. Chapter 7 (Class I-VI definitions) and Chapter 10 (Class III lingual vs. facial access). As with the 2.1 patch, this source's extracted text carries no visible printed folio numbers, so PDF pagination is cited transparently instead (PDF p.334-335 for Chapter 7; PDF p.523-525 for Chapter 10). [Ch.7 "Nomenclature and Instrumentation" already used in Sub-Module 2.1; this document uses new chapters/pages.]
 
 5. Marzouk MA, Simonton AL, Gross RD. Operative Dentistry: Modern Theory and Practice. New Delhi: Ishiyaku EuroAmerica/AITBS; 1985. p.14 (simple/compound/complex lesion terminology; Black's classification framed as therapeutic).
+
+<!-- related-notes -->
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Pickard's Guide to Minimally Invasive Operative Dentistry](../../textbooks/Conservative%20Dentistry/Pickards_Guide_Minimally_Invasive_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)
+- [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [Marzouk — Operative Dentistry: Modern Theory and Practice](../../textbooks/Conservative%20Dentistry/Marzouk_Operative_Dentistry_Chapterwise/00_INDEX.md)

@@ -186,3 +186,7 @@ B cells, by contrast, are RARELY found in a normal, healthy pulp — their role 
 - [M2 3.6 Pain Fear Anxiety Management](SubModule_3.6_Pain_Fear_Anxiety_Management.md)
 - [M2 3.5 Medically Complex Patient](SubModule_3.5_Medically_Complex_Patient.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Seltzer & Bender's Dental Pulp](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/00_INDEX.md)

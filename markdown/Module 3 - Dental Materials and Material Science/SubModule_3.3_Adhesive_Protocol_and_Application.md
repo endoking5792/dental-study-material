@@ -125,3 +125,9 @@ This directly connects back to Module 1's polymerization-shrinkage-stress conten
 - [M1 4.1 Composite Restoration Placement Techniques](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.1_Composite_Restoration_Placement_Techniques.md) *(other module)*
 - [M1 4.4 Fissure Sealants and Preventive Resin Restorations](../Module%201%20-%20Conservative%20and%20Restorative/SubModule_4.4_Fissure_Sealants_and_Preventive_Resin_Restorations.md) *(other module)*
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)
+- [McCabe — Applied Dental Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/00_INDEX.md)
+- [An Atlas of Glass-Ionomer Cements (Mount)](../../textbooks/Dental%20Materials/An_Atlas_of_Glass_Ionomer_Cements_Chapterwise_MD/00_INDEX.md)

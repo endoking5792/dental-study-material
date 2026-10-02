@@ -91,3 +91,7 @@ The safety case against reflexive opioid use is just as direct as the efficacy c
 - [M2 3.5 Medically Complex Patient](SubModule_3.5_Medically_Complex_Patient.md)
 - [M2 2.1 Pulpal Diseases and Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Seltzer & Bender's Dental Pulp](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/00_INDEX.md)

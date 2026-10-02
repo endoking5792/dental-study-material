@@ -131,3 +131,10 @@ Beyond the general etch-strategy classification, Philips' gives specific, restor
 - [M3 3.1 Adhesion Mechanisms](SubModule_3.1_Adhesion_Mechanisms.md)
 - [M3 3.3 Adhesive Protocol and Application](SubModule_3.3_Adhesive_Protocol_and_Application.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Phillips' Science of Dental Materials](../../textbooks/Dental%20Materials/Philips_Science_of_Dental_Materials_12e_MD/00_INDEX.md)
+- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
+- [McCabe — Applied Dental Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/00_INDEX.md)
+- [van Noort — Introduction to Dental Materials (4e)](../../textbooks/Dental%20Materials/Introduction_to_Dental_Materials_4th_Edition_Chapterwise_MD/00_INDEX.md)

@@ -51,3 +51,5 @@ Complications in the primary dentition are generally diagnosable between 6 weeks
 [1] Chong BS, ed. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Chapter 11, "Endodontics in Primary Teeth" (Wong FSL).
 
 [2] Andreasen JO, Andreasen FM, Andersson L, eds. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Chapter 19, "Injuries to the Primary Dentition" (Flores MT, Holan G, Borum M, Andreasen JO).
+
+<!-- related-notes -->

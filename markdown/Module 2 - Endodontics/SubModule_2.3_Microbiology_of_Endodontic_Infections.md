@@ -150,3 +150,5 @@ First-line agent selection and regimen, per Harty's own reference table, include
 4. American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012.
 
 5. Fouad AF. Endodontic Microbiology and Pathobiology: Current State of Knowledge. Dent Clin North Am 2017;61(1):1-15.
+
+<!-- related-notes -->

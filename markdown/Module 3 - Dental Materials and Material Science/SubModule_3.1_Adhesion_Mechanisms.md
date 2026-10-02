@@ -157,3 +157,10 @@ Every substrate-specific mechanism covered in Section 3.1.3 above — sandblasti
 - [M3 3.2 Adhesive System Types](SubModule_3.2_Adhesive_System_Types.md)
 - [M3 3.3 Adhesive Protocol and Application](SubModule_3.3_Adhesive_Protocol_and_Application.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Craig's Restorative Dental Materials (14e)](../../textbooks/Dental%20Materials/Craig_Restorative_Dental_Materials_14e_MD/00_INDEX.md)
+- [McCabe — Applied Dental Materials](../../textbooks/Dental%20Materials/McCabe_Applied_Dental_Materials_Chapterwise/00_INDEX.md)
+- [Bonsor & Pearson — A Clinical Guide to Applied Dental Materials](../../textbooks/Dental%20Materials/Dental_Materials_Chapterwise_MD_All/A_Clinical_Guide_to_Applied_Dental_Materials_MD/00_INDEX.md)
+- [Restorative Dental Materials (Craig, Michigan 11e)](../../textbooks/Dental%20Materials/Michigan_Restorative_Dental_Materials_Chapterwise/00_INDEX.md)

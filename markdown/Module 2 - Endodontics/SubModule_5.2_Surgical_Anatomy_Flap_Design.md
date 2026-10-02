@@ -104,3 +104,5 @@ Niemczyk's account of the three flap designs actually used in contemporary endod
 [4] Rotstein I, Ingle JI, eds. Ingle's Endodontics, 7th ed. Shelton, CT: PMPH-USA; 2019. Ch.24, "Surgical Endodontics."
 
 [5] Niemczyk SP. Essentials of Endodontic Microsurgery. Dent Clin North Am 2010;54(2):375-399.
+
+<!-- related-notes -->

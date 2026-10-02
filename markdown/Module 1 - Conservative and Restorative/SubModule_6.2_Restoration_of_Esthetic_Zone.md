@@ -100,3 +100,7 @@ Between the dentin mamelons and the outer enamel layer, a HIGHLY TRANSLUCENT com
 - [M1 5.1.6 Shade Matching and Color Science](SubModule_5.1.6_Shade_Matching_and_Color_Science.md)
 - [M1 6.5 Natural Tooth Bleaching](SubModule_6.5_Natural_Tooth_Bleaching.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Modern Operative Dentistry](../../textbooks/Conservative%20Dentistry/Modern_Operative_Dentistry_Chapterwise/00_INDEX.md)

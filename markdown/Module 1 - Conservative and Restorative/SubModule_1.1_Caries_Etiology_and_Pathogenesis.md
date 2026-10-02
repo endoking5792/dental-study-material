@@ -207,3 +207,7 @@ Page numbers refer to the page of the cited source, as printed in that source, o
 - [M2 2.1 Pulpal Diseases and Pulpitis](../Module%202%20-%20Endodontics/SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md) *(other module)*
 - [M1 6.4 Non Carious Tooth Structure Loss](SubModule_6.4_Non_Carious_Tooth_Structure_Loss.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)

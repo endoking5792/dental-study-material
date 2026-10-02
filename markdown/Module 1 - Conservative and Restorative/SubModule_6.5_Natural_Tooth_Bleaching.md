@@ -102,3 +102,7 @@ One further, genuinely practical clinical point worth including directly: there 
 - [M1 5.1.6 Shade Matching and Color Science](SubModule_5.1.6_Shade_Matching_and_Color_Science.md)
 - [M1 6.2 Restoration of Esthetic Zone](SubModule_6.2_Restoration_of_Esthetic_Zone.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Summitt's Fundamentals of Operative Dentistry](../../textbooks/Conservative%20Dentistry/Summitts_Fundamentals_of_Operative_Dentistry_Chapterwise/00_INDEX.md)

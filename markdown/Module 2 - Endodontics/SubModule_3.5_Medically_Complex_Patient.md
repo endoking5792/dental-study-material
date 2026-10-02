@@ -77,3 +77,7 @@ The laboratory values most directly relevant to safe endodontic treatment planni
 - [M2 3.6 Pain Fear Anxiety Management](SubModule_3.6_Pain_Fear_Anxiety_Management.md)
 - [M2 2.1 Pulpal Diseases and Pulpitis](SubModule_2.1_Pulpal_Diseases_and_Pulpitis.md)
 
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Seltzer & Bender's Dental Pulp](../../textbooks/Endodontics/Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/00_INDEX.md)

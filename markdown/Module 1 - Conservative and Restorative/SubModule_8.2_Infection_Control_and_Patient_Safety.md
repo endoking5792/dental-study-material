@@ -71,3 +71,11 @@ Stated directly and unambiguously: in ALL cases of injury, the patient must be i
 1. Crawford JJ, Leonard RH Jr. Infection Control. In: Roberson TM, Heymann HO, Swift EJ Jr, editors. Sturdevant's Art and Science of Operative Dentistry. Ch.8.
 
 2. Kidd EAM, Fejerskov O, Nyvad B, editors. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press. §5.3, "Infection control/personal protective equipment (PPE)"; §5.4, "Patient safety and risk management."
+
+<!-- related-notes -->
+
+<!-- source-textbooks -->
+## Source Textbooks (available in vault)
+
+- [Sturdevant's Art & Science of Operative Dentistry (5e)](../../textbooks/Conservative%20Dentistry/Sturdevants_Art_Science_Operative_Dentistry_5e_MD/00_INDEX.md)
+- [Pickard's Manual of Operative Dentistry (9th)](../../textbooks/Conservative%20Dentistry/Pickards_Manual_of_Operative_Dentistry_9th_Chapterwise/00_INDEX.md)

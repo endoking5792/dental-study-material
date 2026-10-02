@@ -119,3 +119,5 @@ Once preparation is complete, the cavity is inspected circumferentially — fail
 [5] Ogle OE, Swantek J, Kamoh A. Hemostatic Agents. Dent Clin North Am 2011;55(3):433-439.
 
 [6] Floratos S, Kim S. Modern Endodontic Microsurgery Concepts: A Clinical Update. Dent Clin North Am 2017;61(1):81-91.
+
+<!-- related-notes -->

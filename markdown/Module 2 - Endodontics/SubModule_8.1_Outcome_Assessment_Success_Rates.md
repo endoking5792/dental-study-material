@@ -72,4 +72,3 @@ Tooth survival after periapical surgery has been assessed in only one dedicated 
 - [M3 7.2 Clinical Monitoring and Maintenance](../Module%203%20-%20Dental%20Materials%20and%20Material%20Science/SubModule_7.2_Clinical_Monitoring_and_Maintenance.md) *(other module)*
 - [M2 8.2 Prognostic Factors Long Term Success](SubModule_8.2_Prognostic_Factors_Long_Term_Success.md)
 - [M2 5.7 Outcomes Prognosis Surgical Endodontics](SubModule_5.7_Outcomes_Prognosis_Surgical_Endodontics.md)
-
